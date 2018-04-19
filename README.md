@@ -3,6 +3,8 @@ Issue and feature request tracking for the [Multitouch](https://multitouch-app.c
 
 Go to the [Issues](https://github.com/Brass-Monkery/Multitouch-Bugs/issues) tab to post bugs, feature requests, or questions.
 
+Feel free to put a +1 (thumbs up) on any existing feature requests that you also want to request.
+
 If you're filing a bug, please include the following:
 * MacOS version
 * Multitouch version
