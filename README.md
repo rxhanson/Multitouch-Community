@@ -10,4 +10,4 @@ If you're filing a bug, please include the following:
 * Multitouch version
 * Detailed steps to reproduce
 
-If you wish to contact us directly, feel free to send an email to multitouch.app@gmail.com
+If you wish to contact us directly, feel free to send an email to support@multitouch.app
