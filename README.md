@@ -1,4 +1,4 @@
-# Multitouch Bug Tracking
+# Multitouch Community
 Issue and feature request tracking for the [Multitouch](https://multitouch.app) app
 
 Go to the [Issues](https://github.com/rxhanson/Multitouch-Bugs/issues) tab to post bugs, feature requests, or questions.
