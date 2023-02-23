@@ -22,5 +22,5 @@ This isn't the default behavior because it typically just makes it longer for ge
 Not all macs are the same, so the solution to this can vary. Here's some things to try.
 * Only run one "Gesture" app at a time (don't run alongside BTT).
 * Disable "Restart on wake" if you don't experience the issue above.
-* Restart your mac. The ol' Windows solution. Apple's eventing system is more robust on some macs than others and depends on a lot of factors like which apps are running. Sometimes this can just get things running smoothly again.
-* Try enabling "Avoid private framework" in the settings tab. The private framework is 100% necessary for Magic Mouse gestures, but trackpad gestures can function without it. By enabling this setting, the Magic Mouse will still use the private framework but the trackpad will not. The trackpad gestures are slightly more fine-tuned with the private framework, but for a lot of gestures it's not noticeable. For some users, avoiding the private framework is better, for some users, it's worse.
+* Restart your mac.
+* Try enabling "Avoid private framework" in the settings tab. The private framework is 100% necessary for Magic Mouse gestures, but trackpad gestures can function without it. By enabling this setting, the Magic Mouse will still use the private framework but the trackpad will not. For some users, avoiding the private framework is better, for some users, it's worse.
