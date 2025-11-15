@@ -10,7 +10,7 @@ If you're filing a bug, please include the following:
 * Multitouch version
 * Detailed steps to reproduce
 
-If you wish to contact me directly, feel free to send an email to support@multitouch.app
+If you wish to contact me directly, feel free to send an email to multitouch@ryanhanson.dev
 
 ## Troubleshooting FAQ
 
