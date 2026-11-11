@@ -1,0 +1,105 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Cancel" : {
+      "comment" : "Cancel action button in recording state"
+    },
+    "Click to record modifiers" : {
+      "comment" : "Tooltip for non-empty modifiers button"
+    },
+    "Click to record new shortcut" : {
+      "comment" : "Tooltip for non-empty shortcut button"
+    },
+    "Delete modifiers" : {
+      "comment" : "Tooltip for hint button near the non-empty modifiers"
+    },
+    "Delete shortcut" : {
+      "comment" : "Tooltip for hint button near the non-empty shortcut"
+    },
+    "Empty" : {
+      "comment" : "VoiceOver: value of an empty recorder, read before \"keyboard shortcut\" / \"keyboard modifiers\""
+    },
+    "keyboard modifiers" : {
+      "comment" : "VoiceOver title modifiers"
+    },
+    "keyboard shortcut" : {
+      "comment" : "VoiceOver title"
+    },
+    "Modifiers cleared" : {
+      "comment" : "VoiceOver: Modifiers cleared"
+    },
+    "Modifiers set" : {
+      "comment" : "VoiceOver: Modifiers set"
+    },
+    "OK" : {
+      "comment" : "OK button"
+    },
+    "Press Modifiers or Click" : {
+      "comment" : "Modifiers-or-mouse-button recorder placeholder in recording state: press modifier keys or click a mouse button"
+    },
+    "Press Mouse Button" : {
+      "comment" : "Mouse button recorder placeholder in recording state"
+    },
+    "Record Modifiers" : {
+      "comment" : "Empty modifiers button in normal state"
+    },
+    "Record Modifiers or Click" : {
+      "comment" : "Empty modifiers-or-mouse-button recorder in normal state: record modifier keys or a mouse click"
+    },
+    "Record Mouse Button" : {
+      "comment" : "Mouse button recorder in normal state, and placeholder while recording with no previous value"
+    },
+    "Record Shortcut" : {
+      "comment" : "Empty shortcut button in normal state"
+    },
+    "Revert" : {
+      "comment" : "Cancel action hint for a non-empty mouse button recorder in recording state; restores the previous value"
+    },
+    "Shortcut cleared" : {
+      "comment" : "VoiceOver: Shortcut cleared"
+    },
+    "Shortcut set" : {
+      "comment" : "VoiceOver: Shortcut set"
+    },
+    "The key combination %@ cannot be used" : {
+      "comment" : "Title for alert when shortcut is already used"
+    },
+    "The key combination %@ is already in use in this app." : {
+      "comment" : "Alert message when shortcut is already used in this app"
+    },
+    "The selected modifier(s) %@ cannot be used" : {
+      "comment" : "Title for alert when modifiers already used"
+    },
+    "This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in System Preferences > Keyboard > Shortcuts." : {
+      "comment" : "Message for alert when shortcut is already used by the system (macOS 12). Use the localized names of the System Preferences, Keyboard pane and Shortcuts tab."
+    },
+    "This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in System Settings > Keyboard > Keyboard Shortcuts." : {
+      "comment" : "Message for alert when shortcut is already used by the system (macOS 13 and later). Use the localized names of the System Settings, Keyboard and Keyboard Shortcuts panes."
+    },
+    "This shortcut cannot be used because it is already used by the menu item %@." : {
+      "comment" : "Message for alert when shortcut is already used by a menu item"
+    },
+    "To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." : {
+      "comment" : "VoiceOver shortcut help"
+    },
+    "To record modifiers, click this button, and then type only modifier keys, or press delete to clear existing modifiers." : {
+      "comment" : "VoiceOver modifiers help"
+    },
+    "Type Modifiers" : {
+      "comment" : "Modifiers button in recording state"
+    },
+    "Type New Shortcut" : {
+      "comment" : "Shortcut recorder placeholder in recording state when a shortcut already exists"
+    },
+    "Type Shortcut" : {
+      "comment" : "Shortcut button in recording state"
+    },
+    "Use Old Modifiers" : {
+      "comment" : "Cancel action button for non-empty modifiers in recording state"
+    },
+    "Use Old Shortcut" : {
+      "comment" : "Cancel action button for non-empty shortcut in recording state"
+    }
+  },
+  "version" : "1.0"
+}
