@@ -1000,6 +1000,16 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <target state="needs-review-l10n">Acerca de Multitouch</target>
         <note from="auto-generated">Title of the About window.</note>
       </trans-unit>
+      <trans-unit id="Activate License…" xml:space="preserve">
+        <source>Activate License…</source>
+        <target state="needs-review-l10n">Activar licencia…</target>
+        <note>Menu item and settings button that opens the window for entering a license code.</note>
+      </trans-unit>
+      <trans-unit id="Activate Multitouch" xml:space="preserve">
+        <source>Activate Multitouch</source>
+        <target state="needs-review-l10n">Activar Multitouch</target>
+        <note>Title of the window for entering a license code.</note>
+      </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
         <target state="needs-review-l10n">Añadir</target>
@@ -1183,22 +1193,22 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
       <trans-unit id="Center on display with cursor" xml:space="preserve">
         <source>Center on display with cursor</source>
         <target state="needs-review-l10n">Centrar en la pantalla con el cursor</target>
-        <note from="auto-generated">Action to center the display on the cursor.</note>
+        <note>Cursor action: moves the mouse pointer to the center of the display it is currently on. The window does not move.</note>
       </trans-unit>
       <trans-unit id="Center on display with focus" xml:space="preserve">
         <source>Center on display with focus</source>
         <target state="needs-review-l10n">Centrar en la pantalla con el foco</target>
-        <note from="auto-generated">Label for the cursor action to center the display on the main display with the cursor.</note>
+        <note>Cursor action: moves the mouse pointer to the center of the display that has the focused window. The window does not move.</note>
       </trans-unit>
       <trans-unit id="Center on next display" xml:space="preserve">
         <source>Center on next display</source>
         <target state="needs-review-l10n">Centrar en la pantalla siguiente</target>
-        <note from="auto-generated">Label for the action to center the display on the next display.</note>
+        <note>Cursor action: moves the mouse pointer to the center of the next display. The window does not move.</note>
       </trans-unit>
       <trans-unit id="Center on previous display" xml:space="preserve">
         <source>Center on previous display</source>
         <target state="needs-review-l10n">Centrar en la pantalla anterior</target>
-        <note from="auto-generated">Label for the action to center the display on the previous display.</note>
+        <note>Cursor action: moves the mouse pointer to the center of the previous display. The window does not move.</note>
       </trans-unit>
       <trans-unit id="Center window" xml:space="preserve">
         <source>Center window</source>
@@ -1687,7 +1697,7 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
       <trans-unit id="Launchpad" xml:space="preserve">
         <source>Launchpad</source>
         <target state="needs-review-l10n">Launchpad</target>
-        <note from="auto-generated">Text for the Launchpad button.</note>
+        <note>Name of the macOS Launchpad, opened by this action on macOS 15 and earlier. Use Apple's localized name for Launchpad.</note>
       </trans-unit>
       <trans-unit id="Left" xml:space="preserve">
         <source>Left</source>
@@ -1763,11 +1773,6 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <source>Magic Mouse</source>
         <target state="needs-review-l10n">Magic Mouse</target>
         <note from="auto-generated">Name of the input device when the user is using a magic mouse.</note>
-      </trans-unit>
-      <trans-unit id="Make Window Full Screen" xml:space="preserve">
-        <source>Make Window Full Screen</source>
-        <target state="needs-review-l10n">Ventana en pantalla completa</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Make larger" xml:space="preserve">
         <source>Make larger</source>
@@ -2029,11 +2034,6 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <target state="needs-review-l10n">Pegar texto</target>
         <note from="auto-generated">Name of the multitouch gesture receiver that allows users to paste text.</note>
       </trans-unit>
-      <trans-unit id="Pause/Play" xml:space="preserve">
-        <source>Pause/Play</source>
-        <target state="needs-review-l10n">Pausa/reproducir</target>
-        <note from="auto-generated">Label for the pause/play action in the iTunes app.</note>
-      </trans-unit>
       <trans-unit id="Please go to System Settings and disable the three finger drag or configure a different gesture" xml:space="preserve">
         <source>Please go to System Settings and disable the three finger drag or configure a different gesture</source>
         <target state="needs-review-l10n">Ve a Ajustes del Sistema y desactiva el arrastre con tres dedos o configura otro gesto</target>
@@ -2127,6 +2127,11 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <source>Relaunch</source>
         <target state="needs-review-l10n">Volver a abrir</target>
         <note from="auto-generated">Label for the multitouch action to relaunch the app.</note>
+      </trans-unit>
+      <trans-unit id="Relaunch on wake" xml:space="preserve">
+        <source>Relaunch on wake</source>
+        <target state="needs-review-l10n">Reiniciar al salir del reposo</target>
+        <note from="auto-generated">A toggle that allows the user to restart Multitouch when the device wakes.</note>
       </trans-unit>
       <trans-unit id="Reload Page" xml:space="preserve">
         <source>Reload Page</source>
@@ -2338,11 +2343,6 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <target state="needs-review-l10n">Apoyar dos, tocar con otro a la derecha</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Restart on wake" xml:space="preserve">
-        <source>Restart on wake</source>
-        <target state="needs-review-l10n">Reiniciar al salir del reposo</target>
-        <note from="auto-generated">A toggle that allows the user to restart Multitouch when the device wakes.</note>
-      </trans-unit>
       <trans-unit id="Restore Default Shortcuts &amp; Snap Areas" xml:space="preserve">
         <source>Restore Default Shortcuts &amp; Snap Areas</source>
         <target state="needs-review-l10n">Restaurar atajos y áreas de acoplamiento predeterminados</target>
@@ -2438,81 +2438,6 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <target state="needs-review-l10n">Al seleccionar una mano dominante se ajusta el eje que determina qué dedos están a la izquierda o a la derecha de los dedos apoyados en los gestos correspondientes.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Send Window Center" xml:space="preserve">
-        <source>Send Window Center</source>
-        <target state="needs-review-l10n">Enviar ventana al centro</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Down" xml:space="preserve">
-        <source>Send Window Down</source>
-        <target state="needs-review-l10n">Enviar ventana abajo</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Left" xml:space="preserve">
-        <source>Send Window Left</source>
-        <target state="needs-review-l10n">Enviar ventana a la izquierda</target>
-        <note from="auto-generated">Label for the action to send the window to the left.</note>
-      </trans-unit>
-      <trans-unit id="Send Window Lower Left" xml:space="preserve">
-        <source>Send Window Lower Left</source>
-        <target state="needs-review-l10n">Enviar ventana abajo a la izquierda</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Lower Right" xml:space="preserve">
-        <source>Send Window Lower Right</source>
-        <target state="needs-review-l10n">Enviar ventana abajo a la derecha</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Next Monitor" xml:space="preserve">
-        <source>Send Window Next Monitor</source>
-        <target state="needs-review-l10n">Enviar ventana al monitor siguiente</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Prev Monitor" xml:space="preserve">
-        <source>Send Window Prev Monitor</source>
-        <target state="needs-review-l10n">Enviar ventana al monitor anterior</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Right" xml:space="preserve">
-        <source>Send Window Right</source>
-        <target state="needs-review-l10n">Enviar ventana a la derecha</target>
-        <note from="auto-generated">Text displayed in a menu item to send the currently focused window to the right.</note>
-      </trans-unit>
-      <trans-unit id="Send Window Space Above" xml:space="preserve">
-        <source>Send Window Space Above</source>
-        <target state="needs-review-l10n">Enviar ventana al Space de arriba</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Space Below" xml:space="preserve">
-        <source>Send Window Space Below</source>
-        <target state="needs-review-l10n">Enviar ventana al Space de abajo</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Space Next" xml:space="preserve">
-        <source>Send Window Space Next</source>
-        <target state="needs-review-l10n">Enviar ventana al Space siguiente</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Space Prev" xml:space="preserve">
-        <source>Send Window Space Prev</source>
-        <target state="needs-review-l10n">Enviar ventana al Space anterior</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Up" xml:space="preserve">
-        <source>Send Window Up</source>
-        <target state="needs-review-l10n">Enviar ventana arriba</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Upper Left" xml:space="preserve">
-        <source>Send Window Upper Left</source>
-        <target state="needs-review-l10n">Enviar ventana arriba a la izquierda</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Send Window Upper Right" xml:space="preserve">
-        <source>Send Window Upper Right</source>
-        <target state="needs-review-l10n">Enviar ventana arriba a la derecha</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Settings…" xml:space="preserve">
         <source>Settings…</source>
         <target state="needs-review-l10n">Ajustes…</target>
@@ -2557,11 +2482,6 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <source>Small menu bar icon</source>
         <target state="needs-review-l10n">Icono pequeño en la barra de menús</target>
         <note from="auto-generated">A toggle that allows users to choose whether to display the Multitouch menu bar icon in a small size.</note>
-      </trans-unit>
-      <trans-unit id="SnapBack Window" xml:space="preserve">
-        <source>SnapBack Window</source>
-        <target state="needs-review-l10n">Restaurar ventana (SnapBack)</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Spotlight (⌘ Space)" xml:space="preserve">
         <source>Spotlight (⌘ Space)</source>
@@ -2828,8 +2748,8 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <target state="needs-review-l10n">Este gesto funciona mejor cuando ninguno de los cinco dedos iniciales está cerca del borde del trackpad</target>
         <note from="auto-generated">Tooltip for the five one gesture.</note>
       </trans-unit>
-      <trans-unit id="This will restart Multitouch. Continue?" xml:space="preserve">
-        <source>This will restart Multitouch. Continue?</source>
+      <trans-unit id="This will relaunch Multitouch. Continue?" xml:space="preserve">
+        <source>This will relaunch Multitouch. Continue?</source>
         <target state="needs-review-l10n">Esto reiniciará Multitouch. ¿Continuar?</target>
         <note/>
       </trans-unit>
@@ -2948,11 +2868,6 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <target state="needs-review-l10n">No se puede recibir la entrada del dispositivo</target>
         <note from="auto-generated">Alert title when the user cannot listen to device input.</note>
       </trans-unit>
-      <trans-unit id="Unable to parse AppleScript." xml:space="preserve">
-        <source>Unable to parse AppleScript.</source>
-        <target state="needs-review-l10n">No se puede analizar el AppleScript.</target>
-        <note from="auto-generated">Error message displayed in the log viewer when an AppleScript cannot be parsed.</note>
-      </trans-unit>
       <trans-unit id="Unable to remove license activation" xml:space="preserve">
         <source>Unable to remove license activation</source>
         <target state="needs-review-l10n">No se puede eliminar la activación de la licencia</target>
@@ -3063,20 +2978,15 @@ Si de verdad quiere usar esta combinación de teclas, puede cambiar la mayoría 
         <target state="needs-review-l10n">Adelante</target>
         <note>Browser action: navigate forward in history.</note>
       </trans-unit>
+      <trans-unit id="launchpad.apps" xml:space="preserve">
+        <source>Apps</source>
+        <target state="translated">Apps</target>
+        <note>Name of the macOS 26+ Apps launcher (which replaced Launchpad), opened by this action. Use Apple's localized name for the Apps app.</note>
+      </trans-unit>
       <trans-unit id="macOS Keys &amp; Shortcuts" xml:space="preserve">
         <source>macOS Keys &amp; Shortcuts</source>
         <target state="needs-review-l10n">Teclas y atajos de macOS</target>
         <note from="auto-generated">Name of the keyboard shortcut type.</note>
-      </trans-unit>
-      <trans-unit id="music.back" xml:space="preserve">
-        <source>Back</source>
-        <target state="needs-review-l10n">Canción anterior</target>
-        <note>Music app action: go back to the previous track.</note>
-      </trans-unit>
-      <trans-unit id="music.forward" xml:space="preserve">
-        <source>Forward</source>
-        <target state="needs-review-l10n">Canción siguiente</target>
-        <note>Music app action: skip to the next track.</note>
       </trans-unit>
       <trans-unit id="⇧ + Click" xml:space="preserve">
         <source>⇧ + Click</source>
@@ -4672,14 +4582,14 @@ Arrastra una ventana al área objetivo para ver la vista previa y suéltala para
         <note>Class = "NSTextFieldCell"; title = "Rectangle Pro"; ObjectID = "moN-uh-T54";</note>
       </trans-unit>
       <trans-unit id="oRJ-Dg-xRi.title" xml:space="preserve">
-        <source>Select Custom in the dropdown to also specify the X and Y bottom left origin of your window.</source>
+        <source>Select Custom Origin in the dropdown to also specify the X and Y bottom left origin of your window.</source>
         <target state="needs-review-l10n">Selecciona Personalizado en el menú desplegable para especificar también el origen X e Y (esquina inferior izquierda) de la ventana.</target>
-        <note>Class = "NSTextFieldCell"; title = "Select Custom in the dropdown to also specify the X and Y bottom left origin of your window."; ObjectID = "oRJ-Dg-xRi";</note>
+        <note>Class = "NSTextFieldCell"; title = "Select Custom Origin in the dropdown to also specify the X and Y bottom left origin of your window."; ObjectID = "oRJ-Dg-xRi";</note>
       </trans-unit>
       <trans-unit id="p9j-pp-GAN.title" xml:space="preserve">
-        <source>Select Custom in the dropdown to also specify the X and Y bottom left origin of your window.</source>
+        <source>Select Custom Origin in the dropdown to also specify the X and Y bottom left origin of your window.</source>
         <target state="needs-review-l10n">Selecciona Personalizado en el menú desplegable para especificar también el origen X e Y (esquina inferior izquierda) de la ventana.</target>
-        <note>Class = "NSTextFieldCell"; title = "Select Custom in the dropdown to also specify the X and Y bottom left origin of your window."; ObjectID = "p9j-pp-GAN";</note>
+        <note>Class = "NSTextFieldCell"; title = "Select Custom Origin in the dropdown to also specify the X and Y bottom left origin of your window."; ObjectID = "p9j-pp-GAN";</note>
       </trans-unit>
       <trans-unit id="qxn-2u-k63.title" xml:space="preserve">
         <source>Move your cursor to select a size/position</source>
@@ -5052,6 +4962,11 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <target state="needs-review-l10n">Sexto inferior central</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Bottom Half" xml:space="preserve">
+        <source>Bottom</source>
+        <target state="needs-review-l10n">Mitad inferior</target>
+        <note>Name of the window action that moves the window to the bottom half of the screen. Separate from the "Bottom" position label so translations can say half.</note>
+      </trans-unit>
       <trans-unit id="Bottom Left" xml:space="preserve">
         <source>Bottom Left</source>
         <target state="needs-review-l10n">Abajo a la izquierda</target>
@@ -5151,6 +5066,11 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <source>Center</source>
         <target state="needs-review-l10n">Centro</target>
         <note from="auto-generated">Display string for the center location.</note>
+      </trans-unit>
+      <trans-unit id="Center Half" xml:space="preserve">
+        <source>Center</source>
+        <target state="needs-review-l10n">Mitad central</target>
+        <note>Name of the window action that moves the window to the center half of the screen. Separate from the "Center" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Center Offset" xml:space="preserve">
         <source>Center Offset</source>
@@ -5697,7 +5617,7 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <target state="needs-review-l10n">Mantén pulsadas las teclas modificadoras configuradas y arrastra para mover o redimensionar la ventana bajo el cursor.</target>
         <note from="auto-generated">Text displayed in a message popover that explains how to move or resize a window using the mouse.</note>
       </trans-unit>
-      <trans-unit id="If %@ is not moving and resizing windows for one particular app, then try restarting that app. If it is not working for all apps, then it's likely that the accessibility permissions for %@ in macOS are out of sync." xml:space="preserve">
+      <trans-unit id="If %@ is not moving and resizing windows for one particular app, then try relaunching that app. If it is not working for all apps, then it's likely that the accessibility permissions for %@ in macOS are out of sync." xml:space="preserve">
         <source>If %1$@ is not moving and resizing windows for one particular app, then try restarting that app. If it is not working for all apps, then it's likely that the accessibility permissions for %2$@ in macOS are out of sync.</source>
         <target state="needs-review-l10n">Si %1$@ no mueve ni redimensiona las ventanas de una app concreta, prueba a reiniciar esa app. Si no funciona con ninguna app, es probable que los permisos de accesibilidad de %2$@ en macOS no estén sincronizados.</target>
         <note from="auto-generated">Alert when the user clicks the "Reset permissions and relaunch" button in the accessibility alert.</note>
@@ -5836,6 +5756,11 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <source>Left &amp; Right</source>
         <target state="needs-review-l10n">Izquierda y derecha</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Left Half" xml:space="preserve">
+        <source>Left</source>
+        <target state="needs-review-l10n">Izquierda</target>
+        <note>Name of the window action that moves the window to the left half of the screen. Separate from the "Left" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Left half, top/bottom half near corners" xml:space="preserve">
         <source>Left half, top/bottom half near corners</source>
@@ -6297,6 +6222,16 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <target state="needs-review-l10n">relativas</target>
         <note>Adjective inserted into phrases such as "All Displays, %@ Dimensions…"; it must agree with the plural "dimensions".</note>
       </trans-unit>
+      <trans-unit id="Relaunch on wake" xml:space="preserve">
+        <source>Relaunch on wake</source>
+        <target state="needs-review-l10n">Reiniciar al salir del reposo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Relaunching the app on wake is only necessary if trackpad gestures do not work upon wake from sleep." xml:space="preserve">
+        <source>Relaunching the app on wake is only necessary if trackpad gestures do not work upon wake from sleep.</source>
+        <target state="needs-review-l10n">Solo es necesario reiniciar la app al salir del reposo si los gestos del trackpad no funcionan después.</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Remove" xml:space="preserve">
         <source>Remove</source>
         <target state="needs-review-l10n">Eliminar</target>
@@ -6357,16 +6292,6 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <target state="needs-review-l10n">Redimensionar al ejecutar los comandos Reducir/Agrandar</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Restart on wake" xml:space="preserve">
-        <source>Restart on wake</source>
-        <target state="needs-review-l10n">Reiniciar al salir del reposo</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Restarting the app on wake is only necessary if trackpad gestures do not work upon wake from sleep." xml:space="preserve">
-        <source>Restarting the app on wake is only necessary if trackpad gestures do not work upon wake from sleep.</source>
-        <target state="needs-review-l10n">Solo es necesario reiniciar la app al salir del reposo si los gestos del trackpad no funcionan después.</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Restore" xml:space="preserve">
         <source>Restore</source>
         <target state="needs-review-l10n">Restaurar</target>
@@ -6411,6 +6336,11 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <source>Right &amp; Quarters</source>
         <target state="needs-review-l10n">Derecha y cuartos</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Right Half" xml:space="preserve">
+        <source>Right</source>
+        <target state="needs-review-l10n">Derecha</target>
+        <note>Name of the window action that moves the window to the right half of the screen. Separate from the "Right" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Right half, top/bottom half near corners" xml:space="preserve">
         <source>Right half, top/bottom half near corners</source>
@@ -6677,6 +6607,10 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <target state="needs-review-l10n">Se ha producido un problema al eliminar tu activación más antigua. Inténtalo de nuevo.</target>
         <note from="auto-generated">Error message displayed when there is an issue removing the oldest activation.</note>
       </trans-unit>
+      <trans-unit id="There was an issue removing your oldest activation." xml:space="preserve">
+        <source>There was an issue removing your oldest activation.</source>
+        <note from="auto-generated">Error message displayed when there is an issue removing the oldest activation.</note>
+      </trans-unit>
       <trans-unit id="These applications have issues with the drag to screen edge to snap functionality in Rectangle Pro." xml:space="preserve">
         <source>These applications have issues with the drag to screen edge to snap functionality in Rectangle Pro.</source>
         <target state="needs-review-l10n">Estas aplicaciones tienen problemas con la función de acoplar arrastrando al borde de la pantalla de Rectangle Pro.</target>
@@ -6836,6 +6770,11 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <source>Top Center Sixth</source>
         <target state="needs-review-l10n">Sexto superior central</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Top Half" xml:space="preserve">
+        <source>Top</source>
+        <target state="needs-review-l10n">Mitad superior</target>
+        <note>Name of the window action that moves the window to the top half of the screen. Separate from the "Top" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Top Left" xml:space="preserve">
         <source>Top Left</source>
@@ -7137,6 +7076,17 @@ Así es más fácil tener varias ventanas apartadas en cada lado, ya que solo se
         <source>≤ 1 for % of screen</source>
         <target state="needs-review-l10n">≤ 1 para % de la pantalla</target>
         <note from="auto-generated">Description of a numeric field that can be a fraction, whole, or decimal.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Rectangle Pro/Multitouch.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="27.2" build-num="27B52"/>
+    </header>
+    <body>
+      <trans-unit id="Activate Multitouch" xml:space="preserve">
+        <source>Activate Multitouch</source>
+        <note/>
       </trans-unit>
     </body>
   </file>

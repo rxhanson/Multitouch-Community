@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="25098" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
+<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="25408" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
     <dependencies>
         <deployment identifier="macosx"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="25098"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="25408"/>
         <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -76,7 +76,7 @@
                                                 </customSpacing>
                                             </stackView>
                                             <stackView distribution="fill" orientation="horizontal" alignment="top" spacing="10" horizontalStackHuggingPriority="249.99998474121094" verticalStackHuggingPriority="249.99998474121094" detachesHiddenViews="YES" translatesAutoresizingMaskIntoConstraints="NO" id="R9p-s6-99W">
-                                                <rect key="frame" x="0.0" y="39" width="230" height="32"/>
+                                                <rect key="frame" x="0.0" y="39" width="226" height="32"/>
                                                 <subviews>
                                                     <textField focusRingType="none" horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="Ewm-ZX-Zf0">
                                                         <rect key="frame" x="-2" y="16" width="16" height="16"/>
@@ -87,7 +87,7 @@
                                                         </textFieldCell>
                                                     </textField>
                                                     <textField focusRingType="none" verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="ZTj-86-XK4">
-                                                        <rect key="frame" x="20" y="0.0" width="212" height="32"/>
+                                                        <rect key="frame" x="20" y="0.0" width="208" height="32"/>
                                                         <textFieldCell key="cell" selectable="YES" alignment="left" id="Js7-Wc-mG0">
                                                             <font key="font" metaFont="system"/>
                                                             <string key="title">In the Rectangle Pro menu, select
@@ -397,7 +397,7 @@ You can select "Save current layout" in the menu to capture the layout for a dis
                                                     </textField>
                                                     <textField focusRingType="none" verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="Jzk-Id-YXD">
                                                         <rect key="frame" x="17" y="0.0" width="311" height="32"/>
-                                                        <textFieldCell key="cell" selectable="YES" alignment="left" title="Select Custom in the dropdown to also specify the X and Y bottom left origin of your window." id="oRJ-Dg-xRi">
+                                                        <textFieldCell key="cell" selectable="YES" alignment="left" title="Select Custom Origin in the dropdown to also specify the X and Y bottom left origin of your window." id="oRJ-Dg-xRi">
                                                             <font key="font" metaFont="system"/>
                                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -522,7 +522,7 @@ You can assign a keyboard shortcut or select these custom configurations for the
                                                     </textField>
                                                     <textField focusRingType="none" verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="jkq-4j-VRL">
                                                         <rect key="frame" x="20" y="0.0" width="308" height="32"/>
-                                                        <textFieldCell key="cell" selectable="YES" alignment="left" title="Select Custom in the dropdown to also specify the X and Y bottom left origin of your window." id="p9j-pp-GAN">
+                                                        <textFieldCell key="cell" selectable="YES" alignment="left" title="Select Custom Origin in the dropdown to also specify the X and Y bottom left origin of your window." id="p9j-pp-GAN">
                                                             <font key="font" metaFont="system"/>
                                                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
