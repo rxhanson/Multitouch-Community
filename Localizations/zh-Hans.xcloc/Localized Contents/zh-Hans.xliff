@@ -776,7 +776,7 @@ If you really want to use this key combination, most shortcuts can be changed in
     <body>
       <trans-unit id="3eM-Kp-wEP.title" xml:space="preserve">
         <source>Application</source>
-        <target state="needs-review-l10n">应用</target>
+        <target state="translated">应用</target>
         <note>Class = "NSMenuItem"; title = "Application"; ObjectID = "3eM-Kp-wEP";</note>
       </trans-unit>
       <trans-unit id="3xd-7h-gew.title" translate="no" xml:space="preserve">
@@ -785,47 +785,47 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="8E0-K1-fEN.title" xml:space="preserve">
         <source>Action</source>
-        <target state="needs-review-l10n">操作</target>
+        <target state="translated">操作</target>
         <note>Class = "NSTextFieldCell"; title = "Action"; ObjectID = "8E0-K1-fEN";</note>
       </trans-unit>
       <trans-unit id="15n-04-h9F.title" xml:space="preserve">
         <source>Done</source>
-        <target state="needs-review-l10n">完成</target>
+        <target state="translated">完成</target>
         <note>Class = "NSButtonCell"; title = "Done"; ObjectID = "15n-04-h9F";</note>
       </trans-unit>
       <trans-unit id="95L-mL-0U3.title" xml:space="preserve">
         <source>Enable Keyboard Shortcuts</source>
-        <target state="needs-review-l10n">启用键盘快捷键</target>
+        <target state="translated">启用键盘快捷键</target>
         <note>Class = "NSButtonCell"; title = "Enable Keyboard Shortcuts"; ObjectID = "95L-mL-0U3";</note>
       </trans-unit>
       <trans-unit id="959-Qn-JR3.title" xml:space="preserve">
         <source>No Trackpad Detected</source>
-        <target state="needs-review-l10n">未检测到触控板</target>
+        <target state="translated">未检测到触控板</target>
         <note>Class = "NSTextFieldCell"; title = "No Trackpad Detected"; ObjectID = "959-Qn-JR3";</note>
       </trans-unit>
       <trans-unit id="CPO-ut-FFr.title" xml:space="preserve">
         <source>Category</source>
-        <target state="needs-review-l10n">类别</target>
+        <target state="translated">类别</target>
         <note>Class = "NSTextFieldCell"; title = "Category"; ObjectID = "CPO-ut-FFr";</note>
       </trans-unit>
       <trans-unit id="G1m-I6-pbQ.title" xml:space="preserve">
         <source>Global</source>
-        <target state="needs-review-l10n">全局</target>
+        <target state="translated">全局</target>
         <note>Class = "NSMenuItem"; title = "Global"; ObjectID = "G1m-I6-pbQ";</note>
       </trans-unit>
       <trans-unit id="G23-Id-pg9.title" xml:space="preserve">
         <source>Show output</source>
-        <target state="needs-review-l10n">显示输出</target>
+        <target state="translated">显示输出</target>
         <note>Class = "NSButtonCell"; title = "Show output"; ObjectID = "G23-Id-pg9";</note>
       </trans-unit>
       <trans-unit id="HNa-G4-7D4.title" xml:space="preserve">
         <source>Configure</source>
-        <target state="needs-review-l10n">配置</target>
+        <target state="translated">配置</target>
         <note>Class = "NSMenuItem"; title = "Configure"; ObjectID = "HNa-G4-7D4";</note>
       </trans-unit>
       <trans-unit id="HOm-mM-p3J.title" xml:space="preserve">
         <source>▶︎ Restrictions</source>
-        <target state="needs-review-l10n">▶︎ 限制</target>
+        <target state="translated">▶︎ 限制</target>
         <note>Class = "NSButtonCell"; title = "▶︎ Restrictions"; ObjectID = "HOm-mM-p3J";</note>
       </trans-unit>
       <trans-unit id="M53-k4-9Mg.title" translate="no" xml:space="preserve">
@@ -834,7 +834,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="NnF-Yl-4FC.title" xml:space="preserve">
         <source>Gesture Description</source>
-        <target state="needs-review-l10n">手势描述</target>
+        <target state="translated">手势描述</target>
         <note>Class = "NSTextFieldCell"; title = "Gesture Description"; ObjectID = "NnF-Yl-4FC";</note>
       </trans-unit>
       <trans-unit id="Q8k-Y1-VeT.title" translate="no" xml:space="preserve">
@@ -847,7 +847,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="UiC-VS-brR.title" xml:space="preserve">
         <source>Focus window under cursor first</source>
-        <target state="needs-review-l10n">先聚焦指针下的窗口</target>
+        <target state="translated">先将焦点移到光标下的窗口</target>
         <note>Class = "NSButtonCell"; title = "Focus window under cursor first"; ObjectID = "UiC-VS-brR";</note>
       </trans-unit>
       <trans-unit id="WGY-ac-HtM.title" translate="no" xml:space="preserve">
@@ -856,17 +856,17 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="aNQ-Ud-cbS.title" xml:space="preserve">
         <source>Left Half</source>
-        <target state="needs-review-l10n">左半屏</target>
+        <target state="translated">左半屏</target>
         <note>Class = "NSTextFieldCell"; title = "Left Half"; ObjectID = "aNQ-Ud-cbS";</note>
       </trans-unit>
       <trans-unit id="aTL-xB-d3T.title" xml:space="preserve">
         <source>Configure</source>
-        <target state="needs-review-l10n">配置</target>
+        <target state="translated">配置</target>
         <note>Class = "NSMenuItem"; title = "Configure"; ObjectID = "aTL-xB-d3T";</note>
       </trans-unit>
       <trans-unit id="b5W-qU-DPB.title" xml:space="preserve">
         <source>Receiver</source>
-        <target state="needs-review-l10n">动作类型</target>
+        <target state="translated">操作类型</target>
         <note>Class = "NSTextFieldCell"; title = "Receiver"; ObjectID = "b5W-qU-DPB";</note>
       </trans-unit>
       <trans-unit id="bc6-NI-xdB.title" translate="no" xml:space="preserve">
@@ -875,22 +875,22 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="dnD-HE-VDI.title" xml:space="preserve">
         <source>Receiver</source>
-        <target state="needs-review-l10n">动作类型</target>
+        <target state="translated">操作类型</target>
         <note>Class = "NSTextFieldCell"; title = "Receiver"; ObjectID = "dnD-HE-VDI";</note>
       </trans-unit>
       <trans-unit id="gGE-os-Kqy.title" xml:space="preserve">
         <source>Action</source>
-        <target state="needs-review-l10n">操作</target>
+        <target state="translated">操作</target>
         <note>Class = "NSTextFieldCell"; title = "Action"; ObjectID = "gGE-os-Kqy";</note>
       </trans-unit>
       <trans-unit id="htY-0H-Yj6.title" xml:space="preserve">
         <source>Window Management</source>
-        <target state="needs-review-l10n">窗口管理</target>
+        <target state="translated">窗口管理</target>
         <note>Class = "NSViewController"; title = "Window Management"; ObjectID = "htY-0H-Yj6";</note>
       </trans-unit>
       <trans-unit id="i0Y-uV-H9E.title" xml:space="preserve">
         <source>Receiver</source>
-        <target state="needs-review-l10n">动作类型</target>
+        <target state="translated">操作类型</target>
         <note>Class = "NSTextFieldCell"; title = "Receiver"; ObjectID = "i0Y-uV-H9E";</note>
       </trans-unit>
       <trans-unit id="iLu-yU-AKd.title" translate="no" xml:space="preserve">
@@ -903,12 +903,12 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="m3V-cr-beF.title" xml:space="preserve">
         <source>Application</source>
-        <target state="needs-review-l10n">应用</target>
+        <target state="translated">应用</target>
         <note>Class = "NSMenuItem"; title = "Application"; ObjectID = "m3V-cr-beF";</note>
       </trans-unit>
       <trans-unit id="mGE-zg-tRI.title" xml:space="preserve">
         <source>No Magic Mouse Detected</source>
-        <target state="needs-review-l10n">未检测到妙控鼠标</target>
+        <target state="translated">未检测到妙控鼠标</target>
         <note>Class = "NSTextFieldCell"; title = "No Magic Mouse Detected"; ObjectID = "mGE-zg-tRI";</note>
       </trans-unit>
       <trans-unit id="mjp-Ze-paQ.title" translate="no" xml:space="preserve">
@@ -917,42 +917,42 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="o0y-47-fDk.title" xml:space="preserve">
         <source>Left Half</source>
-        <target state="needs-review-l10n">左半屏</target>
+        <target state="translated">左半屏</target>
         <note>Class = "NSTextFieldCell"; title = "Left Half"; ObjectID = "o0y-47-fDk";</note>
       </trans-unit>
       <trans-unit id="ptc-hr-m6z.title" xml:space="preserve">
         <source>Select Key</source>
-        <target state="needs-review-l10n">选择按键</target>
+        <target state="translated">选择按键</target>
         <note>Class = "NSMenuItem"; title = "Select Key"; ObjectID = "ptc-hr-m6z";</note>
       </trans-unit>
       <trans-unit id="q3b-1k-lRz.title" xml:space="preserve">
         <source>Action</source>
-        <target state="needs-review-l10n">操作</target>
+        <target state="translated">操作</target>
         <note>Class = "NSTextFieldCell"; title = "Action"; ObjectID = "q3b-1k-lRz";</note>
       </trans-unit>
       <trans-unit id="qOz-lY-Djo.title" xml:space="preserve">
         <source>Action</source>
-        <target state="needs-review-l10n">操作</target>
+        <target state="translated">操作</target>
         <note>Class = "NSTextFieldCell"; title = "Action"; ObjectID = "qOz-lY-Djo";</note>
       </trans-unit>
       <trans-unit id="qPu-p5-0eb.title" xml:space="preserve">
         <source>Show output</source>
-        <target state="needs-review-l10n">显示输出</target>
+        <target state="translated">显示输出</target>
         <note>Class = "NSButtonCell"; title = "Show output"; ObjectID = "qPu-p5-0eb";</note>
       </trans-unit>
       <trans-unit id="rXB-e6-RNP.title" xml:space="preserve">
         <source>Show in Menu</source>
-        <target state="needs-review-l10n">在菜单中显示</target>
+        <target state="translated">在菜单中显示</target>
         <note>Class = "NSButtonCell"; title = "Show in Menu"; ObjectID = "rXB-e6-RNP";</note>
       </trans-unit>
       <trans-unit id="tmd-2f-Gy5.title" xml:space="preserve">
         <source>Double tap</source>
-        <target state="needs-review-l10n">轻点两下</target>
+        <target state="translated">轻点两下</target>
         <note>Class = "NSButtonCell"; title = "Double tap"; ObjectID = "tmd-2f-Gy5";</note>
       </trans-unit>
       <trans-unit id="uhx-W4-4ks.title" xml:space="preserve">
         <source>Drag window to screen edge to snap</source>
-        <target state="needs-review-l10n">将窗口拖到屏幕边缘以吸附</target>
+        <target state="translated">将窗口拖移到屏幕边缘以吸附</target>
         <note>Class = "NSButtonCell"; title = "Drag window to screen edge to snap"; ObjectID = "uhx-W4-4ks";</note>
       </trans-unit>
       <trans-unit id="vIN-61-z99.title" translate="no" xml:space="preserve">
@@ -961,7 +961,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="w5k-xg-CKU.title" xml:space="preserve">
         <source>Done</source>
-        <target state="needs-review-l10n">完成</target>
+        <target state="translated">完成</target>
         <note>Class = "NSButtonCell"; title = "Done"; ObjectID = "w5k-xg-CKU";</note>
       </trans-unit>
     </body>
@@ -977,10 +977,12 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="NSAppleEventsUsageDescription" xml:space="preserve">
         <source>Please provide access to run AppleScript.</source>
+        <target state="translated">请授予运行 AppleScript 的权限。</target>
         <note>Privacy - AppleEvents Sending Usage Description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2018-2026 Ryan Hanson. All rights reserved.</source>
+        <target state="translated">Copyright © 2018-2026 Ryan Hanson。保留所有权利。</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -992,402 +994,402 @@ If you really want to use this key combination, most shortcuts can be changed in
     <body>
       <trans-unit id="A mouse down will register before this gesture is executed. It is best used with actions that work well with an initial click, like ⌘+V." xml:space="preserve">
         <source>A mouse down will register before this gesture is executed. It is best used with actions that work well with an initial click, like ⌘+V.</source>
-        <target state="needs-review-l10n">执行此手势前会先记录一次鼠标按下。最适合与能接受初始点按的操作搭配使用，例如 ⌘+V。</target>
+        <target state="translated">执行此手势前会先产生一次鼠标按下。最适合与能接受初始点按的操作搭配使用，例如 ⌘+V。</target>
         <note/>
       </trans-unit>
       <trans-unit id="About Multitouch" xml:space="preserve">
         <source>About Multitouch</source>
-        <target state="needs-review-l10n">关于 Multitouch</target>
+        <target state="translated">关于 Multitouch</target>
         <note from="auto-generated">Title of the About window.</note>
       </trans-unit>
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
-        <target state="needs-review-l10n">添加</target>
+        <target state="translated">添加</target>
         <note from="auto-generated">Text for a button to add a keyboard shortcut.</note>
       </trans-unit>
       <trans-unit id="Add Gesture" xml:space="preserve">
         <source>Add Gesture</source>
-        <target state="needs-review-l10n">添加手势</target>
+        <target state="translated">添加手势</target>
         <note from="auto-generated">Button text for the "Add Gesture" button in the empty state.</note>
       </trans-unit>
       <trans-unit id="Add keyboard shortcuts. Remap keys or mouse buttons." xml:space="preserve">
         <source>Add keyboard shortcuts. Remap keys or mouse buttons.</source>
-        <target state="needs-review-l10n">添加键盘快捷键，重新映射按键或鼠标按钮。</target>
+        <target state="translated">添加键盘快捷键，重新映射按键或鼠标按钮。</target>
         <note from="auto-generated">Text displayed in a window that appears when the user wants to add keyboard shortcuts.</note>
       </trans-unit>
       <trans-unit id="Add touch gestures for the Magic Mouse." xml:space="preserve">
         <source>Add touch gestures for the Magic Mouse.</source>
-        <target state="needs-review-l10n">为妙控鼠标添加触控手势。</target>
+        <target state="translated">为妙控鼠标添加触控手势。</target>
         <note from="auto-generated">Text displayed in a view when the user has not added any touch gestures for the Magic Mouse.</note>
       </trans-unit>
       <trans-unit id="Add trackpad gestures." xml:space="preserve">
         <source>Add trackpad gestures.</source>
-        <target state="needs-review-l10n">添加触控板手势。</target>
+        <target state="translated">添加触控板手势。</target>
         <note from="auto-generated">Text for the empty state view in the trackpad view controller.</note>
       </trans-unit>
       <trans-unit id="Adjust Key Brightness" xml:space="preserve">
         <source>Adjust Key Brightness</source>
-        <target state="needs-review-l10n">调节键盘亮度</target>
+        <target state="translated">调节键盘亮度</target>
         <note from="auto-generated">Text displayed in a notification when a key brightness slider is available.</note>
       </trans-unit>
       <trans-unit id="Adjust Screen Brightness" xml:space="preserve">
         <source>Adjust Screen Brightness</source>
-        <target state="needs-review-l10n">调节屏幕亮度</target>
+        <target state="translated">调节屏幕亮度</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adjust Volume" xml:space="preserve">
         <source>Adjust Volume</source>
-        <target state="needs-review-l10n">调节音量</target>
+        <target state="translated">调节音量</target>
         <note from="auto-generated">Name of the multitouch gesture receiver that allows users to adjust the volume.</note>
       </trans-unit>
       <trans-unit id="Almost maximize" xml:space="preserve">
         <source>Almost maximize</source>
-        <target state="needs-review-l10n">接近最大化</target>
+        <target state="translated">接近最大化</target>
         <note/>
       </trans-unit>
       <trans-unit id="App Exposé" xml:space="preserve">
         <source>App Exposé</source>
-        <target state="needs-review-l10n">应用程序窗口</target>
+        <target state="translated">App Exposé</target>
         <note from="auto-generated">Text for the App Exposé button.</note>
       </trans-unit>
       <trans-unit id="App Settings" xml:space="preserve">
         <source>App Settings</source>
-        <target state="needs-review-l10n">应用程序设置</target>
+        <target state="translated">应用设置</target>
         <note from="auto-generated">Display name for the MultitouchSettings.appSettings case.</note>
       </trans-unit>
       <trans-unit id="App left half" xml:space="preserve">
         <source>App left half</source>
-        <target state="needs-review-l10n">应用窗口移到左半屏</target>
+        <target state="translated">应用窗口移到左半屏</target>
         <note/>
       </trans-unit>
       <trans-unit id="App right half" xml:space="preserve">
         <source>App right half</source>
-        <target state="needs-review-l10n">应用窗口移到右半屏</target>
+        <target state="translated">应用窗口移到右半屏</target>
         <note/>
       </trans-unit>
       <trans-unit id="App to next display" xml:space="preserve">
         <source>App to next display</source>
-        <target state="needs-review-l10n">应用移到下一个显示器</target>
+        <target state="translated">应用窗口移到下一个显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="App to previous display" xml:space="preserve">
         <source>App to previous display</source>
-        <target state="needs-review-l10n">应用移到上一个显示器</target>
+        <target state="translated">应用窗口移到上一个显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Application Switcher" xml:space="preserve">
         <source>Application Switcher</source>
-        <target state="needs-review-l10n">应用程序切换器</target>
+        <target state="translated">应用切换器</target>
         <note from="auto-generated">The name of the application switcher.</note>
       </trans-unit>
       <trans-unit id="Apps with tabs" xml:space="preserve">
         <source>Apps with tabs</source>
-        <target state="needs-review-l10n">带标签页的应用</target>
+        <target state="translated">使用标签页的应用</target>
         <note from="auto-generated">Text for the "Apps with tabs" receiver type.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove this device from your activations?" xml:space="preserve">
         <source>Are you sure you want to remove this device from your activations?</source>
-        <target state="needs-review-l10n">确定要从激活列表中移除此设备吗？</target>
+        <target state="translated">确定要从激活列表中移除此设备吗？</target>
         <note from="auto-generated">Confirmation dialog question for removing a device from the user's activations.</note>
       </trans-unit>
       <trans-unit id="Are you sure you want to restore the default shortcuts and snap areas?" xml:space="preserve">
         <source>Are you sure you want to restore the default shortcuts and snap areas?</source>
-        <target state="needs-review-l10n">确定要恢复默认快捷键和吸附区域吗？</target>
+        <target state="translated">确定要恢复默认快捷键和吸附区域吗？</target>
         <note from="auto-generated">A confirmation dialog for restoring default shortcuts and snap areas.</note>
       </trans-unit>
       <trans-unit id="Avoid private framework" xml:space="preserve">
         <source>Avoid private framework</source>
-        <target state="needs-review-l10n">避免使用私有框架</target>
+        <target state="translated">避免使用私有框架</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bash command" xml:space="preserve">
         <source>Bash command</source>
-        <target state="needs-review-l10n">Bash 命令</target>
+        <target state="translated">Bash 命令</target>
         <note from="auto-generated">Label for the execute action type "Bash command".</note>
       </trans-unit>
       <trans-unit id="Bottom Center Sixth" xml:space="preserve">
         <source>Bottom Center Sixth</source>
-        <target state="needs-review-l10n">底部中央 1/6</target>
+        <target state="translated">中下１／６</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Half" xml:space="preserve">
         <source>Bottom Half</source>
-        <target state="needs-review-l10n">下半屏</target>
+        <target state="translated">下半屏</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Left" xml:space="preserve">
         <source>Bottom Left</source>
-        <target state="needs-review-l10n">左下</target>
+        <target state="translated">左下</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Left Sixth" xml:space="preserve">
         <source>Bottom Left Sixth</source>
-        <target state="needs-review-l10n">左下 1/6</target>
+        <target state="translated">左下１／６</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Right" xml:space="preserve">
         <source>Bottom Right</source>
-        <target state="needs-review-l10n">右下</target>
+        <target state="translated">右下</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Right Sixth" xml:space="preserve">
         <source>Bottom Right Sixth</source>
-        <target state="needs-review-l10n">右下 1/6</target>
+        <target state="translated">右下１／６</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness Down" xml:space="preserve">
         <source>Brightness Down</source>
-        <target state="needs-review-l10n">降低亮度</target>
+        <target state="translated">调低亮度</target>
         <note from="auto-generated">Text for the brightness down key.</note>
       </trans-unit>
       <trans-unit id="Brightness Up" xml:space="preserve">
         <source>Brightness Up</source>
-        <target state="needs-review-l10n">提高亮度</target>
+        <target state="translated">调高亮度</target>
         <note from="auto-generated">Text for the "Brightness Up" key on a keyboard.</note>
       </trans-unit>
       <trans-unit id="Browsers" xml:space="preserve">
         <source>Browsers</source>
-        <target state="needs-review-l10n">浏览器</target>
+        <target state="translated">浏览器</target>
         <note from="auto-generated">Plural form of "Browser".</note>
       </trans-unit>
       <trans-unit id="Button Mouse" xml:space="preserve">
         <source>Button Mouse</source>
-        <target state="needs-review-l10n">普通鼠标</target>
+        <target state="translated">普通鼠标</target>
         <note from="auto-generated">Type of trigger for a button mouse.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="needs-review-l10n">取消</target>
+        <target state="translated">取消</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cascade all windows" xml:space="preserve">
         <source>Cascade all windows</source>
-        <target state="needs-review-l10n">层叠所有窗口</target>
+        <target state="translated">层叠所有窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cascade app windows" xml:space="preserve">
         <source>Cascade app windows</source>
-        <target state="needs-review-l10n">层叠应用窗口</target>
+        <target state="translated">层叠应用窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center Half" xml:space="preserve">
         <source>Center Half</source>
-        <target state="needs-review-l10n">居中 1/2</target>
+        <target state="translated">中间半屏</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center Third" xml:space="preserve">
         <source>Center Third</source>
-        <target state="needs-review-l10n">居中 1/3</target>
+        <target state="translated">中间１／３</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center on display with cursor" xml:space="preserve">
         <source>Center on display with cursor</source>
-        <target state="needs-review-l10n">在指针所在的显示器上居中</target>
+        <target state="translated">在光标所在显示器上居中</target>
         <note from="auto-generated">Action to center the display on the cursor.</note>
       </trans-unit>
       <trans-unit id="Center on display with focus" xml:space="preserve">
         <source>Center on display with focus</source>
-        <target state="needs-review-l10n">在焦点所在的显示器上居中</target>
+        <target state="translated">在当前窗口所在显示器上居中</target>
         <note from="auto-generated">Label for the cursor action to center the display on the main display with the cursor.</note>
       </trans-unit>
       <trans-unit id="Center on next display" xml:space="preserve">
         <source>Center on next display</source>
-        <target state="needs-review-l10n">在下一个显示器上居中</target>
+        <target state="translated">在下一个显示器上居中</target>
         <note from="auto-generated">Label for the action to center the display on the next display.</note>
       </trans-unit>
       <trans-unit id="Center on previous display" xml:space="preserve">
         <source>Center on previous display</source>
-        <target state="needs-review-l10n">在上一个显示器上居中</target>
+        <target state="translated">在上一个显示器上居中</target>
         <note from="auto-generated">Label for the action to center the display on the previous display.</note>
       </trans-unit>
       <trans-unit id="Center window" xml:space="preserve">
         <source>Center window</source>
-        <target state="needs-review-l10n">窗口居中</target>
+        <target state="translated">窗口居中</target>
         <note/>
       </trans-unit>
       <trans-unit id="Check for Updates…" xml:space="preserve">
         <source>Check for Updates…</source>
-        <target state="needs-review-l10n">检查更新…</target>
+        <target state="translated">检查更新…</target>
         <note from="auto-generated">The title of the check for updates button.</note>
       </trans-unit>
       <trans-unit id="Check for updates automatically" xml:space="preserve">
         <source>Check for updates automatically</source>
-        <target state="needs-review-l10n">自动检查更新</target>
+        <target state="translated">自动检查更新</target>
         <note from="auto-generated">A toggle that allows users to enable or disable automatic update checking for the app.</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
-        <target state="needs-review-l10n">清除</target>
+        <target state="translated">清除</target>
         <note from="auto-generated">Toolbar item to clear the log.</note>
       </trans-unit>
       <trans-unit id="Clear output log" xml:space="preserve">
         <source>Clear output log</source>
-        <target state="needs-review-l10n">清除输出日志</target>
+        <target state="translated">清除输出日志</target>
         <note from="auto-generated">Tooltip for the clear log button in the log window.</note>
       </trans-unit>
       <trans-unit id="Click" xml:space="preserve">
         <source>Click</source>
-        <target state="needs-review-l10n">点按</target>
+        <target state="translated">点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click Mouse Button %lld" xml:space="preserve">
         <source>Click Mouse Button %lld</source>
-        <target state="needs-review-l10n">点按鼠标按钮 %lld</target>
+        <target state="translated">点按鼠标按钮 %lld</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click and hold three, then slide another up or down" xml:space="preserve">
         <source>Click and hold three, then slide another up or down</source>
-        <target state="needs-review-l10n">三指点按并按住，然后将另一指向上或向下滑动</target>
+        <target state="translated">三指点按并按住，另一指向上或向下滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click in the center axis with one touch" xml:space="preserve">
         <source>Click in the center axis with one touch</source>
-        <target state="needs-review-l10n">单指点按中轴</target>
+        <target state="translated">单指点按中轴线</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click in the recorder using the mouse button you want to remap, or type in the button number. Left and right click cannot be remapped." xml:space="preserve">
         <source>Click in the recorder using the mouse button you want to remap, or type in the button number. Left and right click cannot be remapped.</source>
-        <target state="needs-review-l10n">使用要重新映射的鼠标按钮点按录制器，或输入按钮编号。左键和右键点按无法重新映射。</target>
+        <target state="translated">用要重新映射的鼠标按钮在录制栏中点按，或键入按钮编号。左键和右键点按无法重新映射。</target>
         <note from="auto-generated">Message shown in a popover when the user clicks the button to show the mouse button recorder.</note>
       </trans-unit>
       <trans-unit id="Click one: bottom left corner" xml:space="preserve">
         <source>Click one: bottom left corner</source>
-        <target state="needs-review-l10n">单指点按：左下角</target>
+        <target state="translated">单指点按：左下角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click one: bottom right corner" xml:space="preserve">
         <source>Click one: bottom right corner</source>
-        <target state="needs-review-l10n">单指点按：右下角</target>
+        <target state="translated">单指点按：右下角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click one: top left corner" xml:space="preserve">
         <source>Click one: top left corner</source>
-        <target state="needs-review-l10n">单指点按：左上角</target>
+        <target state="translated">单指点按：左上角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click one: top right corner" xml:space="preserve">
         <source>Click one: top right corner</source>
-        <target state="needs-review-l10n">单指点按：右上角</target>
+        <target state="translated">单指点按：右上角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click with five touches" xml:space="preserve">
         <source>Click with five touches</source>
-        <target state="needs-review-l10n">五指点按</target>
+        <target state="translated">五指点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click with four touches" xml:space="preserve">
         <source>Click with four touches</source>
-        <target state="needs-review-l10n">四指点按</target>
+        <target state="translated">四指点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click with three touches" xml:space="preserve">
         <source>Click with three touches</source>
-        <target state="needs-review-l10n">三指点按</target>
+        <target state="translated">三指点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Click with two touches" xml:space="preserve">
         <source>Click with two touches</source>
-        <target state="needs-review-l10n">双指点按</target>
+        <target state="translated">双指点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Close tab" xml:space="preserve">
         <source>Close tab</source>
-        <target state="needs-review-l10n">关闭标签页</target>
+        <target state="translated">关闭标签页</target>
         <note from="auto-generated">Label for the close tab action in the multitouch menu.</note>
       </trans-unit>
       <trans-unit id="Close window under cursor" xml:space="preserve">
         <source>Close window under cursor</source>
-        <target state="needs-review-l10n">关闭指针下的窗口</target>
+        <target state="translated">关闭光标下的窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contact Support" xml:space="preserve">
         <source>Contact Support</source>
-        <target state="needs-review-l10n">联系技术支持</target>
+        <target state="translated">联系技术支持</target>
         <note from="auto-generated">Title of a menu item in the Help menu that opens the support page.</note>
       </trans-unit>
       <trans-unit id="Control Center" xml:space="preserve">
         <source>Control Center</source>
-        <target state="needs-review-l10n">控制中心</target>
+        <target state="translated">控制中心</target>
         <note from="auto-generated">Name of the control center.</note>
       </trans-unit>
       <trans-unit id="Copy Debug Info to Clipboard" xml:space="preserve">
         <source>Copy Debug Info to Clipboard</source>
-        <target state="needs-review-l10n">将调试信息拷贝到剪贴板</target>
+        <target state="translated">将调试信息拷贝到剪贴板</target>
         <note from="auto-generated">Text displayed on a button that copies debug information to the clipboard.</note>
       </trans-unit>
       <trans-unit id="Copy new UUID to clipboard" xml:space="preserve">
         <source>Copy new UUID to clipboard</source>
-        <target state="needs-review-l10n">将新的 UUID 拷贝到剪贴板</target>
+        <target state="translated">将新的 UUID 拷贝到剪贴板</target>
         <note from="auto-generated">Label for the action to copy a new UUID to the clipboard.</note>
       </trans-unit>
       <trans-unit id="Cursor" xml:space="preserve">
         <source>Cursor</source>
-        <target state="needs-review-l10n">指针</target>
+        <target state="translated">光标</target>
         <note from="auto-generated">Name of the cursor multitouch receiver.</note>
       </trans-unit>
       <trans-unit id="Debug" xml:space="preserve">
         <source>Debug</source>
-        <target state="needs-review-l10n">调试</target>
+        <target state="translated">调试</target>
         <note from="auto-generated">Menu item in the Multitouch app's menu that opens a submenu for debugging purposes.</note>
       </trans-unit>
       <trans-unit id="Default value is High" xml:space="preserve">
         <source>Default value is High</source>
-        <target state="needs-review-l10n">默认值为“高”</target>
+        <target state="translated">默认值为“高”</target>
         <note from="auto-generated">Text displayed in a help button.</note>
       </trans-unit>
       <trans-unit id="Default value is Med" xml:space="preserve">
         <source>Default value is Med</source>
-        <target state="needs-review-l10n">默认值为“中”</target>
+        <target state="translated">默认值为“中”</target>
         <note from="auto-generated">Text displayed in a warning banner at the</note>
       </trans-unit>
       <trans-unit id="Delay Relaunch After Wake" xml:space="preserve">
         <source>Delay Relaunch After Wake</source>
-        <target state="needs-review-l10n">唤醒后延迟重新启动</target>
+        <target state="translated">唤醒后延迟重新打开</target>
         <note from="auto-generated">Label for a menu item that toggles the delay of relaunching the app after the device wakes up.</note>
       </trans-unit>
       <trans-unit id="Disable Gestures" xml:space="preserve">
         <source>Disable Gestures</source>
-        <target state="needs-review-l10n">停用手势</target>
+        <target state="translated">禁用手势</target>
         <note from="auto-generated">Text for the menu item to disable gestures.</note>
       </trans-unit>
       <trans-unit id="Disable Gestures for %@" xml:space="preserve">
         <source>Disable Gestures for %@</source>
-        <target state="needs-review-l10n">为 %@ 停用手势</target>
+        <target state="translated">在 %@ 中禁用手势</target>
         <note from="auto-generated">The title of the menu item that disables gestures for a specific app. The argument is the name of the app.</note>
       </trans-unit>
       <trans-unit id="Disable horizontal scroll" xml:space="preserve">
         <source>Disable horizontal scroll</source>
-        <target state="needs-review-l10n">停用水平滚动</target>
+        <target state="translated">禁用水平滚动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disable/Enable Horizontal Scroll" xml:space="preserve">
         <source>Disable/Enable Horizontal Scroll</source>
-        <target state="needs-review-l10n">停用/启用水平滚动</target>
+        <target state="translated">禁用／启用水平滚动</target>
         <note from="auto-generated">Label for the multitouch action to disable/enable horizontal scrolling.</note>
       </trans-unit>
       <trans-unit id="Disable/Enable gestures" xml:space="preserve">
         <source>Disable/Enable gestures</source>
-        <target state="needs-review-l10n">停用/启用手势</target>
+        <target state="translated">禁用／启用手势</target>
         <note from="auto-generated">Label for the multitouch action to disable/enable gestures.</note>
       </trans-unit>
       <trans-unit id="Dominant Hand" xml:space="preserve">
         <source>Dominant Hand</source>
-        <target state="needs-review-l10n">惯用手</target>
+        <target state="translated">惯用手</target>
         <note/>
       </trans-unit>
       <trans-unit id="Double Click" xml:space="preserve">
         <source>Double Click</source>
-        <target state="needs-review-l10n">连按两下</target>
+        <target state="translated">连按</target>
         <note from="auto-generated">The name of the double click gesture.</note>
       </trans-unit>
       <trans-unit id="Duplicate tab" xml:space="preserve">
         <source>Duplicate tab</source>
-        <target state="needs-review-l10n">复制标签页</target>
+        <target state="translated">复制标签页</target>
         <note from="auto-generated">Label for the "Duplicate tab" action in the multitouch menu.</note>
       </trans-unit>
       <trans-unit id="Enabling this setting will make all actions in the window management category operate on the window under the cursor." xml:space="preserve">
         <source>Enabling this setting will make all actions in the window management category operate on the window under the cursor.</source>
-        <target state="needs-review-l10n">启用此设置后，窗口管理类别中的所有操作都将作用于指针下的窗口。</target>
+        <target state="translated">启用此设置后，窗口管理类别中的所有操作都将作用于光标下的窗口。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Esc" translate="no" xml:space="preserve">
@@ -1396,722 +1398,722 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Even though you have a dominant hand configured, this gesture still works best when touches are aligned horizontally." xml:space="preserve">
         <source>Even though you have a dominant hand configured, this gesture still works best when touches are aligned horizontally.</source>
-        <target state="needs-review-l10n">即使已配置惯用手，此手势在手指水平排列时效果仍然最好。</target>
+        <target state="translated">即使已配置惯用手，此手势在手指水平排列时效果仍然最好。</target>
         <note from="auto-generated">Tooltip for the "Two+Center" gesture, explaining that it still works best when touches are aligned horizontally.</note>
       </trans-unit>
       <trans-unit id="Execute" xml:space="preserve">
         <source>Execute</source>
-        <target state="needs-review-l10n">执行</target>
+        <target state="translated">执行</target>
         <note from="auto-generated">Name of the gesture receiver type that executes a system command.</note>
       </trans-unit>
       <trans-unit id="Execute the gesture to pull up a reticle on the window under the cursor." xml:space="preserve">
         <source>Execute the gesture to pull up a reticle on the window under the cursor.</source>
-        <target state="needs-review-l10n">执行该手势即可在指针下的窗口上显示准星。</target>
+        <target state="translated">执行该手势即可在光标下的窗口上调出准星。</target>
         <note from="auto-generated">Description of the reticle multitouch gesture.</note>
       </trans-unit>
       <trans-unit id="Executing the gesture will paste the copied text when showing the text selection cursor." xml:space="preserve">
         <source>Executing the gesture will paste the copied text when showing the text selection cursor.</source>
-        <target state="needs-review-l10n">显示文本选择光标时，执行该手势将粘贴已拷贝的文本。</target>
+        <target state="translated">显示文本选择光标时，执行该手势将粘贴已拷贝的文本。</target>
         <note from="auto-generated">Tooltip for the Linux Middle Click gesture.</note>
       </trans-unit>
       <trans-unit id="Export Config" xml:space="preserve">
         <source>Export Config</source>
-        <target state="needs-review-l10n">导出配置</target>
+        <target state="translated">导出配置</target>
         <note from="auto-generated">A button that exports the user's configuration.</note>
       </trans-unit>
       <trans-unit id="First Fourth" xml:space="preserve">
         <source>First Fourth</source>
-        <target state="needs-review-l10n">第一个 1/4</target>
+        <target state="translated">左首１／４</target>
         <note/>
       </trans-unit>
       <trans-unit id="First Sixth" xml:space="preserve">
         <source>First Sixth</source>
-        <target state="needs-review-l10n">第一个 1/6</target>
+        <target state="translated">左首１／６</target>
         <note/>
       </trans-unit>
       <trans-unit id="First Third" xml:space="preserve">
         <source>First Third</source>
-        <target state="needs-review-l10n">第一个 1/3</target>
+        <target state="translated">左首１／３</target>
         <note/>
       </trans-unit>
       <trans-unit id="First Three Fourths" xml:space="preserve">
         <source>First Three Fourths</source>
-        <target state="needs-review-l10n">前 3/4</target>
+        <target state="translated">左侧３／４</target>
         <note/>
       </trans-unit>
       <trans-unit id="First Two Thirds" xml:space="preserve">
         <source>First Two Thirds</source>
-        <target state="needs-review-l10n">前 2/3</target>
+        <target state="translated">左侧２／３</target>
         <note/>
       </trans-unit>
       <trans-unit id="Five Touch" xml:space="preserve">
         <source>Five Touch</source>
-        <target state="needs-review-l10n">五指</target>
+        <target state="translated">五指</target>
         <note from="auto-generated">Name of the multitouch gesture category for five-finger trackpad input.</note>
       </trans-unit>
       <trans-unit id="Focus window under cursor" xml:space="preserve">
         <source>Focus window under cursor</source>
-        <target state="needs-review-l10n">聚焦指针下的窗口</target>
+        <target state="translated">将焦点移到光标下的窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force Touch" xml:space="preserve">
         <source>Force Touch</source>
-        <target state="needs-review-l10n">用力点按</target>
+        <target state="translated">用力点按</target>
         <note from="auto-generated">Text for the Force Touch gesture category.</note>
       </trans-unit>
       <trans-unit id="Force Touch Middle Click" xml:space="preserve">
         <source>Force Touch Middle Click</source>
-        <target state="needs-review-l10n">用力点按作为中键点按</target>
+        <target state="translated">用力点按式中键点按</target>
         <note from="auto-generated">The name of the Force Touch Middle Click gesture.</note>
       </trans-unit>
       <trans-unit id="Force touch one: bottom left corner" xml:space="preserve">
         <source>Force touch one: bottom left corner</source>
-        <target state="needs-review-l10n">单指用力点按：左下角</target>
+        <target state="translated">单指用力点按：左下角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force touch one: bottom right corner" xml:space="preserve">
         <source>Force touch one: bottom right corner</source>
-        <target state="needs-review-l10n">单指用力点按：右下角</target>
+        <target state="translated">单指用力点按：右下角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force touch one: top left corner" xml:space="preserve">
         <source>Force touch one: top left corner</source>
-        <target state="needs-review-l10n">单指用力点按：左上角</target>
+        <target state="translated">单指用力点按：左上角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force touch one: top right corner" xml:space="preserve">
         <source>Force touch one: top right corner</source>
-        <target state="needs-review-l10n">单指用力点按：右上角</target>
+        <target state="translated">单指用力点按：右上角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force touch with four touches" xml:space="preserve">
         <source>Force touch with four touches</source>
-        <target state="needs-review-l10n">四指用力点按</target>
+        <target state="translated">四指用力点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force touch with one touch" xml:space="preserve">
         <source>Force touch with one touch</source>
-        <target state="needs-review-l10n">单指用力点按</target>
+        <target state="translated">单指用力点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force touch with three touches" xml:space="preserve">
         <source>Force touch with three touches</source>
-        <target state="needs-review-l10n">三指用力点按</target>
+        <target state="translated">三指用力点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Four Touch" xml:space="preserve">
         <source>Four Touch</source>
-        <target state="needs-review-l10n">四指</target>
+        <target state="translated">四指</target>
         <note from="auto-generated">Name of the multitouch gesture category for 4-touch input devices.</note>
       </trans-unit>
       <trans-unit id="Fullscreen app (fn+F)" xml:space="preserve">
         <source>Fullscreen app (fn+F)</source>
-        <target state="needs-review-l10n">使应用全屏幕 (fn+F)</target>
+        <target state="translated">使应用全屏幕（fn+F）</target>
         <note from="auto-generated">Text for the "Fullscreen app (fn+F)" button.</note>
       </trans-unit>
       <trans-unit id="Fullscreen app (⌃⌘F)" xml:space="preserve">
         <source>Fullscreen app (⌃⌘F)</source>
-        <target state="needs-review-l10n">使应用全屏幕 (⌃⌘F)</target>
+        <target state="translated">使应用全屏幕（⌃⌘F）</target>
         <note from="auto-generated">Text for the fullscreen app key combination.</note>
       </trans-unit>
       <trans-unit id="General" xml:space="preserve">
         <source>General</source>
-        <target state="needs-review-l10n">通用</target>
+        <target state="translated">通用</target>
         <note from="auto-generated">Title of the Multitouch Settings item for the General tab.</note>
       </trans-unit>
       <trans-unit id="Gestures snap the window under the cursor" xml:space="preserve">
         <source>Gestures snap the window under the cursor</source>
-        <target state="needs-review-l10n">手势吸附指针下的窗口</target>
+        <target state="translated">手势吸附光标下的窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Global" xml:space="preserve">
         <source>Global</source>
-        <target state="needs-review-l10n">全局</target>
+        <target state="translated">全局</target>
         <note from="auto-generated">Name of the multitouch app group that allows global multitouch settings.</note>
       </trans-unit>
       <trans-unit id="Go to first tab" xml:space="preserve">
         <source>Go to first tab</source>
-        <target state="needs-review-l10n">前往第一个标签页</target>
+        <target state="translated">前往第一个标签页</target>
         <note from="auto-generated">Label for the action to switch to the first tab.</note>
       </trans-unit>
       <trans-unit id="Go to last tab" xml:space="preserve">
         <source>Go to last tab</source>
-        <target state="needs-review-l10n">前往最后一个标签页</target>
+        <target state="translated">前往最后一个标签页</target>
         <note from="auto-generated">Label for the "Go to last tab" action in the multitouch menu.</note>
       </trans-unit>
       <trans-unit id="Help" xml:space="preserve">
         <source>Help</source>
-        <target state="needs-review-l10n">帮助</target>
+        <target state="translated">帮助</target>
         <note from="auto-generated">Menu item title for the help menu.</note>
       </trans-unit>
       <trans-unit id="Help (⇧⌘/)" xml:space="preserve">
         <source>Help (⇧⌘/)</source>
-        <target state="needs-review-l10n">帮助 (⇧⌘/)</target>
+        <target state="translated">帮助（⇧⌘/）</target>
         <note from="auto-generated">Text for the "Help" key on a multitouch keyboard.</note>
       </trans-unit>
       <trans-unit id="Hide application under cursor" xml:space="preserve">
         <source>Hide application under cursor</source>
-        <target state="needs-review-l10n">隐藏指针下的应用</target>
+        <target state="translated">隐藏光标下的应用</target>
         <note/>
       </trans-unit>
       <trans-unit id="High" xml:space="preserve">
         <source>High</source>
-        <target state="needs-review-l10n">高</target>
+        <target state="translated">高</target>
         <note/>
       </trans-unit>
       <trans-unit id="Higher precision means resting touches that are moved too much will not trigger gestures, and taps that are moved too much or held too long will also not trigger gestures." xml:space="preserve">
         <source>Higher precision means resting touches that are moved too much will not trigger gestures, and taps that are moved too much or held too long will also not trigger gestures.</source>
-        <target state="needs-review-l10n">精度越高，放置的手指移动过多时不会触发手势，移动过多或停留过久的轻点也不会触发手势。</target>
+        <target state="translated">精度越高，放上的手指移动过多时不会触发手势，移动过多或停留过久的轻点也不会触发手势。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hyper Keys" xml:space="preserve">
         <source>Hyper Keys</source>
-        <target state="needs-review-l10n">Hyper 键</target>
+        <target state="translated">Hyper 键</target>
         <note from="auto-generated">Name of the Hyper Keys gesture receiver.</note>
       </trans-unit>
       <trans-unit id="If the gesture allows touches to stay on the device, keep a touch resting." xml:space="preserve">
         <source>If the gesture allows touches to stay on the device, keep a touch resting.</source>
-        <target state="needs-review-l10n">如果手势允许手指停留在设备上，请保持一指放在设备上。</target>
+        <target state="translated">如果手势允许手指停留在设备上，请保持一指放在设备上。</target>
         <note from="auto-generated">Description of the first step of the multitouch gesture.</note>
       </trans-unit>
       <trans-unit id="If this setting is disabled, these actions will operate on the frontmost window unless otherwise specified." xml:space="preserve">
         <source>If this setting is disabled, these actions will operate on the frontmost window unless otherwise specified.</source>
-        <target state="needs-review-l10n">如果停用此设置，除非另有指定，这些操作将作用于最前面的窗口。</target>
+        <target state="translated">如果禁用此设置，除非另有指定，这些操作将作用于最前面的窗口。</target>
         <note/>
       </trans-unit>
       <trans-unit id="If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation." xml:space="preserve">
         <source>If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation.</source>
-        <target state="needs-review-l10n">如果许可证激活次数已全部用完，你可以移除最早的一次激活。请输入许可证密钥以停用。</target>
+        <target state="translated">如果许可证激活次数已全部用完，可以移除最早的一次激活。请输入许可证密钥以停用。</target>
         <note from="auto-generated">A message displayed in an alert when the user wants to remove the oldest license activation.</note>
       </trans-unit>
       <trans-unit id="Ignore Windows in frontmost.app" xml:space="preserve">
         <source>Ignore Windows in frontmost.app</source>
-        <target state="needs-review-l10n">忽略 frontmost.app 中的窗口</target>
+        <target state="translated">忽略 frontmost.app 中的窗口</target>
         <note from="auto-generated">Text for the menu item that allows ignoring windows in frontmost.app.</note>
       </trans-unit>
       <trans-unit id="Ignore frontmost.app" xml:space="preserve">
         <source>Ignore frontmost.app</source>
-        <target state="needs-review-l10n">忽略 frontmost.app</target>
+        <target state="translated">忽略 frontmost.app</target>
         <note from="auto-generated">Menu item title to ignore the currently active application.</note>
       </trans-unit>
       <trans-unit id="Import Config" xml:space="preserve">
         <source>Import Config</source>
-        <target state="needs-review-l10n">导入配置</target>
+        <target state="translated">导入配置</target>
         <note from="auto-generated">A button that imports a configuration file.</note>
       </trans-unit>
       <trans-unit id="Important note on dominant hand with your configuration" xml:space="preserve">
         <source>Important note on dominant hand with your configuration</source>
-        <target state="needs-review-l10n">关于你配置中惯用手的重要说明</target>
+        <target state="translated">关于当前配置中惯用手的重要说明</target>
         <note/>
       </trans-unit>
       <trans-unit id="Key Illumination Down" xml:space="preserve">
         <source>Key Illumination Down</source>
-        <target state="needs-review-l10n">降低键盘背光</target>
+        <target state="translated">调低键盘亮度</target>
         <note from="auto-generated">Text for the key that toggles the key illumination.</note>
       </trans-unit>
       <trans-unit id="Key Illumination Up" xml:space="preserve">
         <source>Key Illumination Up</source>
-        <target state="needs-review-l10n">提高键盘背光</target>
+        <target state="translated">调高键盘亮度</target>
         <note from="auto-generated">Text for the key that increases the brightness of the keyboard.</note>
       </trans-unit>
       <trans-unit id="Key Remap" xml:space="preserve">
         <source>Key Remap</source>
-        <target state="needs-review-l10n">按键重新映射</target>
+        <target state="translated">按键重新映射</target>
         <note/>
       </trans-unit>
       <trans-unit id="Keyboard" xml:space="preserve">
         <source>Keyboard</source>
-        <target state="needs-review-l10n">键盘</target>
+        <target state="translated">键盘</target>
         <note from="auto-generated">Title of the keyboard selector section.</note>
       </trans-unit>
       <trans-unit id="Keyboard / Button Mouse" xml:space="preserve">
         <source>Keyboard / Button Mouse</source>
-        <target state="needs-review-l10n">键盘 / 普通鼠标</target>
+        <target state="translated">键盘／普通鼠标</target>
         <note from="auto-generated">Name of the input device type that uses a keyboard and button mouse.</note>
       </trans-unit>
       <trans-unit id="Keyboard / Mouse" xml:space="preserve">
         <source>Keyboard / Mouse</source>
-        <target state="needs-review-l10n">键盘 / 鼠标</target>
+        <target state="translated">键盘／鼠标</target>
         <note from="auto-generated">Text displayed in the settings for the keyboard and mouse settings.</note>
       </trans-unit>
       <trans-unit id="Keyboard Shortcut" xml:space="preserve">
         <source>Keyboard Shortcut</source>
-        <target state="needs-review-l10n">键盘快捷键</target>
+        <target state="translated">键盘快捷键</target>
         <note/>
       </trans-unit>
       <trans-unit id="Keystroke Recording" xml:space="preserve">
         <source>Keystroke Recording</source>
-        <target state="needs-review-l10n">按键录制</target>
+        <target state="translated">按键录制</target>
         <note from="auto-generated">Label for the keystroke recording receiver.</note>
       </trans-unit>
       <trans-unit id="Last Fourth" xml:space="preserve">
         <source>Last Fourth</source>
-        <target state="needs-review-l10n">最后一个 1/4</target>
+        <target state="translated">右首１／４</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Sixth" xml:space="preserve">
         <source>Last Sixth</source>
-        <target state="needs-review-l10n">最后一个 1/6</target>
+        <target state="translated">右首１／６</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Third" xml:space="preserve">
         <source>Last Third</source>
-        <target state="needs-review-l10n">最后一个 1/3</target>
+        <target state="translated">右首１／３</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Three Fourths" xml:space="preserve">
         <source>Last Three Fourths</source>
-        <target state="needs-review-l10n">后 3/4</target>
+        <target state="translated">右侧３／４</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Two Thirds" xml:space="preserve">
         <source>Last Two Thirds</source>
-        <target state="needs-review-l10n">后 2/3</target>
+        <target state="translated">右侧２／３</target>
         <note/>
       </trans-unit>
       <trans-unit id="Launch Application" xml:space="preserve">
         <source>Launch Application</source>
-        <target state="needs-review-l10n">启动应用</target>
+        <target state="translated">打开应用</target>
         <note from="auto-generated">Label for the "Launch Application" action in the "Execute" menu.</note>
       </trans-unit>
       <trans-unit id="Launch Log Viewer on Start" xml:space="preserve">
         <source>Launch Log Viewer on Start</source>
-        <target state="needs-review-l10n">启动时打开日志查看器</target>
+        <target state="translated">启动时打开日志查看器</target>
         <note from="auto-generated">Label for a menu item that toggles whether the touch viewer should be launched when the app starts.</note>
       </trans-unit>
       <trans-unit id="Launch Touch Viewer on Start" xml:space="preserve">
         <source>Launch Touch Viewer on Start</source>
-        <target state="needs-review-l10n">启动时打开触控查看器</target>
+        <target state="translated">启动时打开触控查看器</target>
         <note from="auto-generated">Label for a menu item that toggles whether the touch viewer should be launched on start.</note>
       </trans-unit>
       <trans-unit id="Launchpad" xml:space="preserve">
         <source>Launchpad</source>
-        <target state="needs-review-l10n">启动台</target>
+        <target state="translated">启动台</target>
         <note from="auto-generated">Text for the Launchpad button.</note>
       </trans-unit>
       <trans-unit id="Left" xml:space="preserve">
         <source>Left</source>
-        <target state="needs-review-l10n">左</target>
+        <target state="needs-review-l10n">左手</target>
         <note/>
       </trans-unit>
       <trans-unit id="Left Click" xml:space="preserve">
         <source>Left Click</source>
-        <target state="needs-review-l10n">左键点按</target>
+        <target state="translated">左键点按</target>
         <note from="auto-generated">The name of the left click gesture.</note>
       </trans-unit>
       <trans-unit id="Left Click and Drag" xml:space="preserve">
         <source>Left Click and Drag</source>
-        <target state="needs-review-l10n">左键点按并拖移</target>
+        <target state="translated">左键点按并拖移</target>
         <note from="auto-generated">The name of the gesture that is executed when the user clicks and drags the left mouse button.</note>
       </trans-unit>
       <trans-unit id="Left Half" xml:space="preserve">
         <source>Left Half</source>
-        <target state="needs-review-l10n">左半屏</target>
+        <target state="translated">左半屏</target>
         <note/>
       </trans-unit>
       <trans-unit id="Left and Middle Click" xml:space="preserve">
         <source>Left and Middle Click</source>
-        <target state="needs-review-l10n">左键与中键点按</target>
+        <target state="translated">左键与中键同时点按</target>
         <note from="auto-generated">The text for the left and middle click gesture.</note>
       </trans-unit>
       <trans-unit id="Left and Right Click" xml:space="preserve">
         <source>Left and Right Click</source>
-        <target state="needs-review-l10n">左键与右键点按</target>
+        <target state="translated">左键与右键同时点按</target>
         <note from="auto-generated">The text for the left and right click action.</note>
       </trans-unit>
       <trans-unit id="License activation not found" xml:space="preserve">
         <source>License activation not found</source>
-        <target state="needs-review-l10n">未找到许可证激活</target>
+        <target state="translated">未找到许可证激活</target>
         <note from="auto-generated">The message displayed when the user tries to remove an activation that doesn't exist.</note>
       </trans-unit>
       <trans-unit id="License key" xml:space="preserve">
         <source>License key</source>
-        <target state="needs-review-l10n">许可证密钥</target>
+        <target state="translated">许可证密钥</target>
         <note from="auto-generated">A label for the license key field in the Multitouch settings.</note>
       </trans-unit>
       <trans-unit id="Linux Middle Click" xml:space="preserve">
         <source>Linux Middle Click</source>
-        <target state="needs-review-l10n">Linux 式中键点按</target>
+        <target state="translated">Linux 式中键点按</target>
         <note from="auto-generated">The Linux Middle Click gesture.</note>
       </trans-unit>
       <trans-unit id="Lock Screen (⌃⌘Q)" xml:space="preserve">
         <source>Lock Screen (⌃⌘Q)</source>
-        <target state="needs-review-l10n">锁定屏幕 (⌃⌘Q)</target>
+        <target state="translated">锁屏（⌃⌘Q）</target>
         <note from="auto-generated">Text displayed in a button that opens the lock screen.</note>
       </trans-unit>
       <trans-unit id="Look up word under cursor (⌃⌘D)" xml:space="preserve">
         <source>Look up word under cursor (⌃⌘D)</source>
-        <target state="needs-review-l10n">查询指针下的单词 (⌃⌘D)</target>
+        <target state="translated">查询光标下的单词（⌃⌘D）</target>
         <note from="auto-generated">Text for the "Look up word under cursor (⌃⌘D)" key on a Mac keyboard.</note>
       </trans-unit>
       <trans-unit id="Low" xml:space="preserve">
         <source>Low</source>
-        <target state="needs-review-l10n">低</target>
+        <target state="translated">低</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lower precision is more likely to allow false triggers, so only change this if you're experiencing difficulty executing gestures with resting touches or taps." xml:space="preserve">
         <source>Lower precision is more likely to allow false triggers, so only change this if you're experiencing difficulty executing gestures with resting touches or taps.</source>
-        <target state="needs-review-l10n">精度越低越容易误触发，因此仅在使用放置手指或轻点的手势有困难时才更改此设置。</target>
+        <target state="translated">精度越低越容易误触发，因此仅在难以执行涉及放上的手指或轻点的手势时才更改此设置。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lower sensitivity means swipes must move slightly faster and slightly farther to register." xml:space="preserve">
         <source>Lower sensitivity means swipes must move slightly faster and slightly farther to register.</source>
-        <target state="needs-review-l10n">灵敏度越低，轻扫需要稍快、稍远才能被识别。</target>
+        <target state="translated">灵敏度越低，轻扫需要稍快、稍远才能被识别。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Magic Mouse" xml:space="preserve">
         <source>Magic Mouse</source>
-        <target state="needs-review-l10n">妙控鼠标</target>
+        <target state="translated">妙控鼠标</target>
         <note from="auto-generated">Name of the input device when the user is using a magic mouse.</note>
       </trans-unit>
       <trans-unit id="Make Window Full Screen" xml:space="preserve">
         <source>Make Window Full Screen</source>
-        <target state="needs-review-l10n">窗口全屏幕</target>
+        <target state="translated">窗口全屏幕</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make larger" xml:space="preserve">
         <source>Make larger</source>
-        <target state="needs-review-l10n">放大</target>
+        <target state="translated">放大</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make smaller" xml:space="preserve">
         <source>Make smaller</source>
-        <target state="needs-review-l10n">缩小</target>
+        <target state="translated">缩小</target>
         <note/>
       </trans-unit>
       <trans-unit id="Maximize window" xml:space="preserve">
         <source>Maximize window</source>
-        <target state="needs-review-l10n">最大化窗口</target>
+        <target state="translated">最大化窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Maximize window height" xml:space="preserve">
         <source>Maximize window height</source>
-        <target state="needs-review-l10n">最大化窗口高度</target>
+        <target state="translated">最大化窗口高度</target>
         <note/>
       </trans-unit>
       <trans-unit id="Med" xml:space="preserve">
         <source>Med</source>
-        <target state="needs-review-l10n">中</target>
+        <target state="translated">中</target>
         <note/>
       </trans-unit>
       <trans-unit id="Media Back" xml:space="preserve">
         <source>Media Back</source>
-        <target state="needs-review-l10n">媒体：上一首</target>
+        <target state="translated">媒体：上一首</target>
         <note from="auto-generated">Text for the media back key.</note>
       </trans-unit>
       <trans-unit id="Media Fast Forward" xml:space="preserve">
         <source>Media Fast Forward</source>
-        <target state="needs-review-l10n">媒体：快进</target>
+        <target state="translated">媒体：快进</target>
         <note from="auto-generated">Text for the media fast forward key.</note>
       </trans-unit>
       <trans-unit id="Media Forward" xml:space="preserve">
         <source>Media Forward</source>
-        <target state="needs-review-l10n">媒体：下一首</target>
+        <target state="translated">媒体：下一首</target>
         <note from="auto-generated">Text for the media forward key.</note>
       </trans-unit>
       <trans-unit id="Media Pause/Play" xml:space="preserve">
         <source>Media Pause/Play</source>
-        <target state="needs-review-l10n">媒体：暂停/播放</target>
+        <target state="translated">媒体：暂停／播放</target>
         <note from="auto-generated">Label for the media pause/play key on a multitouch device.</note>
       </trans-unit>
       <trans-unit id="Media Rewind" xml:space="preserve">
         <source>Media Rewind</source>
-        <target state="needs-review-l10n">媒体：快退</target>
+        <target state="translated">媒体：倒回</target>
         <note from="auto-generated">Text for the rewind media key.</note>
       </trans-unit>
       <trans-unit id="Middle Click" xml:space="preserve">
         <source>Middle Click</source>
-        <target state="needs-review-l10n">中键点按</target>
+        <target state="translated">中键点按</target>
         <note from="auto-generated">The name of the multitouch gesture.</note>
       </trans-unit>
       <trans-unit id="Middle Click and Pan" xml:space="preserve">
         <source>Middle Click and Pan</source>
-        <target state="needs-review-l10n">中键点按并平移</target>
+        <target state="translated">中键点按并平移</target>
         <note from="auto-generated">The name of the multitouch gesture that will pan the screen while clicking in the middle.</note>
       </trans-unit>
       <trans-unit id="Min &amp; hide all windows (⌥⌘HM)" xml:space="preserve">
         <source>Min &amp; hide all windows (⌥⌘HM)</source>
-        <target state="needs-review-l10n">最小化并隐藏所有窗口 (⌥⌘HM)</target>
+        <target state="translated">最小化并隐藏所有窗口（⌥⌘HM）</target>
         <note from="auto-generated">Text for the "Min &amp; hide all windows" keyboard shortcut.</note>
       </trans-unit>
       <trans-unit id="Minimize window under cursor" xml:space="preserve">
         <source>Minimize window under cursor</source>
-        <target state="needs-review-l10n">最小化指针下的窗口</target>
+        <target state="translated">最小化光标下的窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mission Control" xml:space="preserve">
         <source>Mission Control</source>
-        <target state="needs-review-l10n">调度中心</target>
+        <target state="translated">调度中心</target>
         <note from="auto-generated">Text for the Mission Control key.</note>
       </trans-unit>
       <trans-unit id="Mouse Button Remap" xml:space="preserve">
         <source>Mouse Button Remap</source>
-        <target state="needs-review-l10n">鼠标按钮重新映射</target>
+        <target state="translated">鼠标按钮重新映射</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move the cursor in a direction." xml:space="preserve">
         <source>Move the cursor in a direction.</source>
-        <target state="needs-review-l10n">向某个方向移动指针。</target>
+        <target state="translated">向某个方向移动光标。</target>
         <note from="auto-generated">Instruction to move the cursor in a specific direction.</note>
       </trans-unit>
       <trans-unit id="Move to bottom edge" xml:space="preserve">
         <source>Move to bottom edge</source>
-        <target state="needs-review-l10n">移到底部边缘</target>
+        <target state="translated">移到底部边缘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to left edge" xml:space="preserve">
         <source>Move to left edge</source>
-        <target state="needs-review-l10n">移到左侧边缘</target>
+        <target state="translated">移到左侧边缘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to next display" xml:space="preserve">
         <source>Move to next display</source>
-        <target state="needs-review-l10n">移到下一个显示器</target>
+        <target state="translated">移到下一个显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to previous display" xml:space="preserve">
         <source>Move to previous display</source>
-        <target state="needs-review-l10n">移到上一个显示器</target>
+        <target state="translated">移到上一个显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to right edge" xml:space="preserve">
         <source>Move to right edge</source>
-        <target state="needs-review-l10n">移到右侧边缘</target>
+        <target state="translated">移到右侧边缘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to top edge" xml:space="preserve">
         <source>Move to top edge</source>
-        <target state="needs-review-l10n">移到顶部边缘</target>
+        <target state="translated">移到顶部边缘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move window under cursor" xml:space="preserve">
         <source>Move window under cursor</source>
-        <target state="needs-review-l10n">移动指针下的窗口</target>
+        <target state="translated">移动光标下的窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Multitouch App" xml:space="preserve">
         <source>Multitouch App</source>
-        <target state="needs-review-l10n">Multitouch 应用</target>
+        <target state="translated">Multitouch 应用</target>
         <note from="auto-generated">Text for the multitouch app receiver type.</note>
       </trans-unit>
       <trans-unit id="Multitouch Output" xml:space="preserve">
         <source>Multitouch Output</source>
-        <target state="needs-review-l10n">Multitouch 输出</target>
+        <target state="translated">Multitouch 输出</target>
         <note from="auto-generated">Title of the Multitouch output window.</note>
       </trans-unit>
       <trans-unit id="Multitouch is unable to listen to input from your devices." xml:space="preserve">
         <source>Multitouch is unable to listen to input from your devices.</source>
-        <target state="needs-review-l10n">Multitouch 无法监听你的设备输入。</target>
+        <target state="translated">Multitouch 无法接收设备的输入。</target>
         <note from="auto-generated">Alert shown when Multitouch is unable to listen to input from the user's devices.</note>
       </trans-unit>
       <trans-unit id="Multitouch needs your permission to listen to input from your devices." xml:space="preserve">
         <source>Multitouch needs your permission to listen to input from your devices.</source>
-        <target state="needs-review-l10n">Multitouch 需要你的许可才能监听你的设备输入。</target>
+        <target state="translated">Multitouch 需要您的允许以接收设备的输入。</target>
         <note from="auto-generated">The text to display in the alert when the user is prompted for accessibility permissions.</note>
       </trans-unit>
       <trans-unit id="Multitouch will attempt to snap the window to that position." xml:space="preserve">
         <source>Multitouch will attempt to snap the window to that position.</source>
-        <target state="needs-review-l10n">Multitouch 将尝试把窗口吸附到该位置。</target>
+        <target state="translated">Multitouch 将尝试把窗口吸附到该位置。</target>
         <note from="auto-generated">Description of the multitouch gesture to snap a window to the cursor.</note>
       </trans-unit>
       <trans-unit id="Multitouch will now close and attempt to open System Settings for you." xml:space="preserve">
         <source>Multitouch will now close and attempt to open System Settings for you.</source>
-        <target state="needs-review-l10n">Multitouch 将关闭并尝试为你打开“系统设置”。</target>
+        <target state="translated">Multitouch 即将退出并尝试打开“系统设置”。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mute" xml:space="preserve">
         <source>Mute</source>
-        <target state="needs-review-l10n">静音</target>
+        <target state="translated">静音</target>
         <note from="auto-generated">Text for the mute key on a keyboard.</note>
       </trans-unit>
       <trans-unit id="Next Space" xml:space="preserve">
         <source>Next Space</source>
-        <target state="needs-review-l10n">下一个空间</target>
+        <target state="translated">下一个空间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Next Space (⌃→)" xml:space="preserve">
         <source>Next Space (⌃→)</source>
-        <target state="needs-review-l10n">下一个空间 (⌃→)</target>
+        <target state="translated">下一个空间（⌃→）</target>
         <note from="auto-generated">Text displayed in a notification when the user is not a member.</note>
       </trans-unit>
       <trans-unit id="Next display, maximize" xml:space="preserve">
         <source>Next display, maximize</source>
-        <target state="needs-review-l10n">下一个显示器，最大化</target>
+        <target state="translated">下一个显示器，最大化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Next window (⌘`)" xml:space="preserve">
         <source>Next window (⌘`)</source>
-        <target state="needs-review-l10n">下一个窗口 (⌘`)</target>
+        <target state="translated">下一个窗口（⌘`）</target>
         <note from="auto-generated">Text displayed in a button that opens the next application window.</note>
       </trans-unit>
       <trans-unit id="No Compatible Touch Input Devices Detected" xml:space="preserve">
         <source>No Compatible Touch Input Devices Detected</source>
-        <target state="needs-review-l10n">未检测到兼容的触控输入设备</target>
+        <target state="translated">未检测到兼容的触控输入设备</target>
         <note from="auto-generated">Header text when no compatible touch input devices are detected.</note>
       </trans-unit>
       <trans-unit id="No Connection" xml:space="preserve">
         <source>No Connection</source>
-        <target state="needs-review-l10n">无连接</target>
+        <target state="translated">无网络连接</target>
         <note from="auto-generated">Title of an alert that is displayed when the user tries to purchase a product but there is no internet connection.</note>
       </trans-unit>
       <trans-unit id="Not Configured" xml:space="preserve">
         <source>Not Configured</source>
-        <target state="needs-review-l10n">未配置</target>
+        <target state="translated">未配置</target>
         <note from="auto-generated">Text displayed when a gesture is not configured.</note>
       </trans-unit>
       <trans-unit id="Not Found" xml:space="preserve">
         <source>Not Found</source>
-        <target state="needs-review-l10n">未找到</target>
+        <target state="translated">未找到</target>
         <note from="auto-generated">A title for an alert that indicates a license activation was not found.</note>
       </trans-unit>
       <trans-unit id="Note that not all tab actions are supported by all apps" xml:space="preserve">
         <source>Note that not all tab actions are supported by all apps</source>
-        <target state="needs-review-l10n">请注意，并非所有应用都支持所有标签页操作</target>
+        <target state="translated">请注意，并非所有应用都支持所有标签页操作</target>
         <note from="auto-generated">Note displayed in the receiver info for the tabbed apps receiver type.</note>
       </trans-unit>
       <trans-unit id="Notification Center" xml:space="preserve">
         <source>Notification Center</source>
-        <target state="needs-review-l10n">通知中心</target>
+        <target state="translated">通知中心</target>
         <note from="auto-generated">Text for the notification center button.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
-        <target state="needs-review-l10n">好</target>
+        <target state="translated">好</target>
         <note/>
       </trans-unit>
       <trans-unit id="Oldest license activation removed" xml:space="preserve">
         <source>Oldest license activation removed</source>
-        <target state="needs-review-l10n">已移除最早的许可证激活</target>
+        <target state="translated">已移除最早的许可证激活</target>
         <note from="auto-generated">A success message displayed when the oldest license activation is removed.</note>
       </trans-unit>
       <trans-unit id="One Touch" xml:space="preserve">
         <source>One Touch</source>
-        <target state="needs-review-l10n">单指</target>
+        <target state="translated">单指</target>
         <note from="auto-generated">Name of the multitouch gesture category for one-touch input devices.</note>
       </trans-unit>
       <trans-unit id="Open URL" xml:space="preserve">
         <source>Open URL</source>
-        <target state="needs-review-l10n">打开 URL</target>
+        <target state="translated">打开 URL</target>
         <note from="auto-generated">Label for the "Open URL" action in the execute menu.</note>
       </trans-unit>
       <trans-unit id="Open link in new tab" xml:space="preserve">
         <source>Open link in new tab</source>
-        <target state="needs-review-l10n">在新标签页中打开链接</target>
+        <target state="translated">在新标签页中打开链接</target>
         <note from="auto-generated">Label for the browser action to open a link in a new tab.</note>
       </trans-unit>
       <trans-unit id="Open new tab" xml:space="preserve">
         <source>Open new tab</source>
-        <target state="needs-review-l10n">打开新标签页</target>
+        <target state="translated">打开新标签页</target>
         <note from="auto-generated">Label for the action to open a new tab in the multitouch app.</note>
       </trans-unit>
       <trans-unit id="Open, then auto-close" xml:space="preserve">
         <source>Open, then auto-close</source>
-        <target state="needs-review-l10n">打开后自动关闭</target>
+        <target state="translated">打开后自动关闭</target>
         <note/>
       </trans-unit>
       <trans-unit id="Optional Modifier Keys" xml:space="preserve">
         <source>Optional Modifier Keys</source>
-        <target state="needs-review-l10n">可选修饰键</target>
+        <target state="translated">可选修饰键</target>
         <note from="auto-generated">Label for the modifier keys section in the edit receiver view.</note>
       </trans-unit>
       <trans-unit id="Page Down" xml:space="preserve">
         <source>Page Down</source>
-        <target state="needs-review-l10n">向下翻页</target>
+        <target state="translated">Page Down</target>
         <note from="auto-generated">Text for the page down key on a keyboard.</note>
       </trans-unit>
       <trans-unit id="Page Up" xml:space="preserve">
         <source>Page Up</source>
-        <target state="needs-review-l10n">向上翻页</target>
+        <target state="translated">Page Up</target>
         <note from="auto-generated">Text for the page up key.</note>
       </trans-unit>
       <trans-unit id="Paste Text" xml:space="preserve">
         <source>Paste Text</source>
-        <target state="needs-review-l10n">粘贴文本</target>
+        <target state="translated">粘贴文本</target>
         <note from="auto-generated">Name of the multitouch gesture receiver that allows users to paste text.</note>
       </trans-unit>
       <trans-unit id="Pause/Play" xml:space="preserve">
         <source>Pause/Play</source>
-        <target state="needs-review-l10n">暂停/播放</target>
+        <target state="translated">暂停／播放</target>
         <note from="auto-generated">Label for the pause/play action in the iTunes app.</note>
       </trans-unit>
       <trans-unit id="Please go to System Settings and disable the three finger drag or configure a different gesture" xml:space="preserve">
         <source>Please go to System Settings and disable the three finger drag or configure a different gesture</source>
-        <target state="needs-review-l10n">请前往“系统设置”停用三指拖移，或配置其他手势</target>
+        <target state="translated">请前往“系统设置”禁用三指拖移，或配置其他手势</target>
         <note from="auto-generated">Tooltip text for a warning when the user has enabled three finger drag and is using a gesture that conflicts with it.</note>
       </trans-unit>
       <trans-unit id="Please go to System Settings → Trackpad and disable any conflicting gestures." xml:space="preserve">
         <source>Please go to System Settings → Trackpad and disable any conflicting gestures.</source>
-        <target state="needs-review-l10n">请前往“系统设置”→“触控板”，停用所有冲突的手势。</target>
+        <target state="translated">请前往“系统设置”→“触控板”，禁用所有冲突的手势。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please go to System Settings → Trackpad and disable any four finger horizontal swipe gestures." xml:space="preserve">
         <source>Please go to System Settings → Trackpad and disable any four finger horizontal swipe gestures.</source>
-        <target state="needs-review-l10n">请前往“系统设置”→“触控板”，停用所有四指水平轻扫手势。</target>
+        <target state="translated">请前往“系统设置”→“触控板”，禁用所有四指左右轻扫手势。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Please go to System Settings → Trackpad and disable any four finger vertical swipe gestures." xml:space="preserve">
         <source>Please go to System Settings → Trackpad and disable any four finger vertical swipe gestures.</source>
-        <target state="needs-review-l10n">请前往“系统设置”→“触控板”，停用所有四指垂直轻扫手势。</target>
+        <target state="translated">请前往“系统设置”→“触控板”，禁用所有四指上下轻扫手势。</target>
         <note from="auto-generated">Text displayed in a warning banner at the top of the screen when a four-finger vertical swipe gesture is enabled.</note>
       </trans-unit>
       <trans-unit id="Please go to System Settings → Trackpad and disable any three finger horizontal swipe gestures." xml:space="preserve">
         <source>Please go to System Settings → Trackpad and disable any three finger horizontal swipe gestures.</source>
-        <target state="needs-review-l10n">请前往“系统设置”→“触控板”，停用所有三指水平轻扫手势。</target>
+        <target state="translated">请前往“系统设置”→“触控板”，禁用所有三指左右轻扫手势。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Preconfigured Collections" xml:space="preserve">
         <source>Preconfigured Collections</source>
-        <target state="needs-review-l10n">预配置合集</target>
+        <target state="translated">预设手势组</target>
         <note from="auto-generated">Name of the preconfigured gesture category.</note>
       </trans-unit>
       <trans-unit id="Prev display, maximize" xml:space="preserve">
         <source>Prev display, maximize</source>
-        <target state="needs-review-l10n">上一个显示器，最大化</target>
+        <target state="translated">上一个显示器，最大化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Previous Space" xml:space="preserve">
         <source>Previous Space</source>
-        <target state="needs-review-l10n">上一个空间</target>
+        <target state="translated">上一个空间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Previous Space (⌃←)" xml:space="preserve">
         <source>Previous Space (⌃←)</source>
-        <target state="needs-review-l10n">上一个空间 (⌃←)</target>
+        <target state="translated">上一个空间（⌃←）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Previous window (⇧⌘`)" xml:space="preserve">
         <source>Previous window (⇧⌘`)</source>
-        <target state="needs-review-l10n">上一个窗口 (⇧⌘`)</target>
+        <target state="translated">上一个窗口（⇧⌘`）</target>
         <note from="auto-generated">Text displayed in a button that opens the previous window.</note>
       </trans-unit>
       <trans-unit id="Provide haptic feedback where possible" xml:space="preserve">
         <source>Provide haptic feedback where possible</source>
-        <target state="needs-review-l10n">尽可能提供触觉反馈</target>
+        <target state="translated">尽可能提供触感反馈</target>
         <note/>
       </trans-unit>
       <trans-unit id="Purchase" xml:space="preserve">
         <source>Purchase</source>
-        <target state="needs-review-l10n">购买</target>
+        <target state="translated">购买</target>
         <note from="auto-generated">Title of the button that allows the user to activate or remove the license for Multitouch.</note>
       </trans-unit>
       <trans-unit id="Purchase (%lld days left)" xml:space="preserve">
         <source>Purchase (%lld days left)</source>
-        <target state="needs-review-l10n">购买（剩余 %lld 天）</target>
+        <target state="translated">购买（剩余 %lld 天）</target>
         <note from="auto-generated">The title of the menu item that allows users to purchase Multitouch. The argument is the number of days remaining on the trial.</note>
       </trans-unit>
       <trans-unit id="Quit" xml:space="preserve">
         <source>Quit</source>
-        <target state="needs-review-l10n">退出</target>
+        <target state="translated">退出</target>
         <note from="auto-generated">Label for the multitouch action to quit the app.</note>
       </trans-unit>
       <trans-unit id="Quit Multitouch" xml:space="preserve">
         <source>Quit Multitouch</source>
-        <target state="needs-review-l10n">退出 Multitouch</target>
+        <target state="translated">退出 Multitouch</target>
         <note from="auto-generated">Title of the quit Multitouch menu item.</note>
       </trans-unit>
       <trans-unit id="Quit application under cursor" xml:space="preserve">
         <source>Quit application under cursor</source>
-        <target state="needs-review-l10n">退出指针下的应用</target>
+        <target state="translated">退出光标下的应用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rectangle Pro" translate="no" xml:space="preserve">
@@ -2120,987 +2122,987 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Relaunch" xml:space="preserve">
         <source>Relaunch</source>
-        <target state="needs-review-l10n">重新启动</target>
+        <target state="translated">重新打开</target>
         <note from="auto-generated">Label for the multitouch action to relaunch the app.</note>
       </trans-unit>
       <trans-unit id="Reload Page" xml:space="preserve">
         <source>Reload Page</source>
-        <target state="needs-review-l10n">重新载入页面</target>
+        <target state="translated">重新加载页面</target>
         <note from="auto-generated">Label for the browser action to reload the current page.</note>
       </trans-unit>
       <trans-unit id="Remove" xml:space="preserve">
         <source>Remove</source>
-        <target state="needs-review-l10n">移除</target>
+        <target state="translated">移除</target>
         <note from="auto-generated">The title of a button that removes a device from the list of activated devices.</note>
       </trans-unit>
       <trans-unit id="Remove License Activation" xml:space="preserve">
         <source>Remove License Activation</source>
-        <target state="needs-review-l10n">移除许可证激活</target>
+        <target state="translated">移除许可证激活</target>
         <note from="auto-generated">Button title when the app is activated.</note>
       </trans-unit>
       <trans-unit id="Remove Oldest Activation" xml:space="preserve">
         <source>Remove Oldest Activation</source>
-        <target state="needs-review-l10n">移除最早的激活</target>
+        <target state="translated">移除最早的激活</target>
         <note from="auto-generated">A button that removes the oldest license activation.</note>
       </trans-unit>
       <trans-unit id="Remove oldest license activation" xml:space="preserve">
         <source>Remove oldest license activation</source>
-        <target state="needs-review-l10n">移除最早的许可证激活</target>
+        <target state="translated">移除最早的许可证激活</target>
         <note from="auto-generated">A button that displays a sheet for removing the oldest license activation.</note>
       </trans-unit>
       <trans-unit id="Reopen closed tab" xml:space="preserve">
         <source>Reopen closed tab</source>
-        <target state="needs-review-l10n">重新打开已关闭的标签页</target>
+        <target state="translated">重新打开已关闭的标签页</target>
         <note from="auto-generated">Label for the browser action to reopen a closed tab.</note>
       </trans-unit>
       <trans-unit id="Reset Accessibility Permissions" xml:space="preserve">
         <source>Reset Accessibility Permissions</source>
-        <target state="needs-review-l10n">重置辅助功能权限</target>
+        <target state="translated">重置辅助功能权限</target>
         <note from="auto-generated">Label for a menu item that resets accessibility permissions.</note>
       </trans-unit>
       <trans-unit id="Resize window under cursor" xml:space="preserve">
         <source>Resize window under cursor</source>
-        <target state="needs-review-l10n">调整指针下窗口的大小</target>
+        <target state="translated">调整光标下的窗口大小</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest five touches, remove all but one" xml:space="preserve">
         <source>Rest five touches, remove all but one</source>
-        <target state="needs-review-l10n">五指放置，然后只留一指</target>
+        <target state="translated">五指放上，只留一指</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest five touches, remove all but one and slide it (4 gestures)" xml:space="preserve">
         <source>Rest five touches, remove all but one and slide it (4 gestures)</source>
-        <target state="needs-review-l10n">五指放置，只留一指并滑动（4 个手势）</target>
+        <target state="translated">五指放上，只留一指并滑动（4 个手势）</target>
         <note from="auto-generated">Description of the FiveOne preconfigured gesture set.</note>
       </trans-unit>
       <trans-unit id="Rest five touches, remove all but one and slide it down" xml:space="preserve">
         <source>Rest five touches, remove all but one and slide it down</source>
-        <target state="needs-review-l10n">五指放置，只留一指并向下滑动</target>
+        <target state="translated">五指放上，只留一指并向下滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest five touches, remove all but one and slide it left" xml:space="preserve">
         <source>Rest five touches, remove all but one and slide it left</source>
-        <target state="needs-review-l10n">五指放置，只留一指并向左滑动</target>
+        <target state="translated">五指放上，只留一指并向左滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest five touches, remove all but one and slide it right" xml:space="preserve">
         <source>Rest five touches, remove all but one and slide it right</source>
-        <target state="needs-review-l10n">五指放置，只留一指并向右滑动</target>
+        <target state="translated">五指放上，只留一指并向右滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest five touches, remove all but one and slide it up" xml:space="preserve">
         <source>Rest five touches, remove all but one and slide it up</source>
-        <target state="needs-review-l10n">五指放置，只留一指并向上滑动</target>
+        <target state="translated">五指放上，只留一指并向上滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest four touches, remove all but one" xml:space="preserve">
         <source>Rest four touches, remove all but one</source>
-        <target state="needs-review-l10n">四指放置，然后只留一指</target>
+        <target state="translated">四指放上，只留一指</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest four touches, remove all but one and slide it down" xml:space="preserve">
         <source>Rest four touches, remove all but one and slide it down</source>
-        <target state="needs-review-l10n">四指放置，只留一指并向下滑动</target>
+        <target state="translated">四指放上，只留一指并向下滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest four touches, remove all but one and slide it left" xml:space="preserve">
         <source>Rest four touches, remove all but one and slide it left</source>
-        <target state="needs-review-l10n">四指放置，只留一指并向左滑动</target>
+        <target state="translated">四指放上，只留一指并向左滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest four touches, remove all but one and slide it right" xml:space="preserve">
         <source>Rest four touches, remove all but one and slide it right</source>
-        <target state="needs-review-l10n">四指放置，只留一指并向右滑动</target>
+        <target state="translated">四指放上，只留一指并向右滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest four touches, remove all but one and slide it up" xml:space="preserve">
         <source>Rest four touches, remove all but one and slide it up</source>
-        <target state="needs-review-l10n">四指放置，只留一指并向上滑动</target>
+        <target state="translated">四指放上，只留一指并向上滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, and tap one near to the left" xml:space="preserve">
         <source>Rest one, and tap one near to the left</source>
-        <target state="needs-review-l10n">一指放置，在紧靠左侧处轻点一指</target>
+        <target state="translated">单指放上，另一指在其左侧近处轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, swipe down one to the left" xml:space="preserve">
         <source>Rest one, swipe down one to the left</source>
-        <target state="needs-review-l10n">一指放置，在左侧用一指向下轻扫</target>
+        <target state="translated">单指放上，另一指在其左侧向下轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, swipe down one to the right" xml:space="preserve">
         <source>Rest one, swipe down one to the right</source>
-        <target state="needs-review-l10n">一指放置，在右侧用一指向下轻扫</target>
+        <target state="translated">单指放上，另一指在其右侧向下轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, swipe two down to the left" xml:space="preserve">
         <source>Rest one, swipe two down to the left</source>
-        <target state="needs-review-l10n">一指放置，在左侧用两指向下轻扫</target>
+        <target state="translated">单指放上，另两指在其左侧向下轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, swipe two down to the right" xml:space="preserve">
         <source>Rest one, swipe two down to the right</source>
-        <target state="needs-review-l10n">一指放置，在右侧用两指向下轻扫</target>
+        <target state="translated">单指放上，另两指在其右侧向下轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, swipe two up to the left" xml:space="preserve">
         <source>Rest one, swipe two up to the left</source>
-        <target state="needs-review-l10n">一指放置，在左侧用两指向上轻扫</target>
+        <target state="translated">单指放上，另两指在其左侧向上轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, swipe up one to the left" xml:space="preserve">
         <source>Rest one, swipe up one to the left</source>
-        <target state="needs-review-l10n">一指放置，在左侧用一指向上轻扫</target>
+        <target state="translated">单指放上，另一指在其左侧向上轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, swipe up one to the right" xml:space="preserve">
         <source>Rest one, swipe up one to the right</source>
-        <target state="needs-review-l10n">一指放置，在右侧用一指向上轻扫</target>
+        <target state="translated">单指放上，另一指在其右侧向上轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, swipe up with two to the right" xml:space="preserve">
         <source>Rest one, swipe up with two to the right</source>
-        <target state="needs-review-l10n">一指放置，在右侧用两指向上轻扫</target>
+        <target state="translated">单指放上，另两指在其右侧向上轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, tap one near to the left" xml:space="preserve">
         <source>Rest one, tap one near to the left</source>
-        <target state="needs-review-l10n">一指放置，在紧靠左侧处轻点一指</target>
+        <target state="translated">单指放上，另一指在其左侧近处轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, tap one near to the right" xml:space="preserve">
         <source>Rest one, tap one near to the right</source>
-        <target state="needs-review-l10n">一指放置，在紧靠右侧处轻点一指</target>
+        <target state="translated">单指放上，另一指在其右侧近处轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, tap one to the left" xml:space="preserve">
         <source>Rest one, tap one to the left</source>
-        <target state="needs-review-l10n">一指放置，在左侧轻点一指</target>
+        <target state="translated">单指放上，另一指在其左侧轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest one, tap one to the right" xml:space="preserve">
         <source>Rest one, tap one to the right</source>
-        <target state="needs-review-l10n">一指放置，在右侧轻点一指</target>
+        <target state="translated">单指放上，另一指在其右侧轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest three touches, remove all but one" xml:space="preserve">
         <source>Rest three touches, remove all but one</source>
-        <target state="needs-review-l10n">三指放置，然后只留一指</target>
+        <target state="translated">三指放上，只留一指</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest three touches, remove all but one and slide it down" xml:space="preserve">
         <source>Rest three touches, remove all but one and slide it down</source>
-        <target state="needs-review-l10n">三指放置，只留一指并向下滑动</target>
+        <target state="translated">三指放上，只留一指并向下滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest three touches, remove all but one and slide it left" xml:space="preserve">
         <source>Rest three touches, remove all but one and slide it left</source>
-        <target state="needs-review-l10n">三指放置，只留一指并向左滑动</target>
+        <target state="translated">三指放上，只留一指并向左滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest three touches, remove all but one and slide it right" xml:space="preserve">
         <source>Rest three touches, remove all but one and slide it right</source>
-        <target state="needs-review-l10n">三指放置，只留一指并向右滑动</target>
+        <target state="translated">三指放上，只留一指并向右滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest three touches, remove all but one and slide it up" xml:space="preserve">
         <source>Rest three touches, remove all but one and slide it up</source>
-        <target state="needs-review-l10n">三指放置，只留一指并向上滑动</target>
+        <target state="translated">三指放上，只留一指并向上滑动</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest three, tap one to the left" xml:space="preserve">
         <source>Rest three, tap one to the left</source>
-        <target state="needs-review-l10n">三指放置，在左侧轻点一指</target>
+        <target state="translated">三指放上，另一指在其左侧轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest three, tap one to the right" xml:space="preserve">
         <source>Rest three, tap one to the right</source>
-        <target state="needs-review-l10n">三指放置，在右侧轻点一指</target>
+        <target state="translated">三指放上，另一指在其右侧轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest two, tap one between" xml:space="preserve">
         <source>Rest two, tap one between</source>
-        <target state="needs-review-l10n">两指放置，在中间轻点一指</target>
+        <target state="translated">双指放上，另一指在两指之间轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest two, tap one to the left" xml:space="preserve">
         <source>Rest two, tap one to the left</source>
-        <target state="needs-review-l10n">两指放置，在左侧轻点一指</target>
+        <target state="translated">双指放上，另一指在其左侧轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rest two, tap one to the right" xml:space="preserve">
         <source>Rest two, tap one to the right</source>
-        <target state="needs-review-l10n">两指放置，在右侧轻点一指</target>
+        <target state="translated">双指放上，另一指在其右侧轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restart on wake" xml:space="preserve">
         <source>Restart on wake</source>
-        <target state="needs-review-l10n">唤醒时重新启动</target>
+        <target state="translated">唤醒时重新启动</target>
         <note from="auto-generated">A toggle that allows the user to restart Multitouch when the device wakes.</note>
       </trans-unit>
       <trans-unit id="Restore Default Shortcuts &amp; Snap Areas" xml:space="preserve">
         <source>Restore Default Shortcuts &amp; Snap Areas</source>
-        <target state="needs-review-l10n">恢复默认快捷键与吸附区域</target>
+        <target state="translated">恢复默认快捷键和吸附区域</target>
         <note from="auto-generated">A button that restores default shortcuts and snap areas.</note>
       </trans-unit>
       <trans-unit id="Restore Defaults" xml:space="preserve">
         <source>Restore Defaults</source>
-        <target state="needs-review-l10n">恢复默认设置</target>
+        <target state="translated">恢复默认设置</target>
         <note from="auto-generated">A confirmation dialog for restoring default settings.</note>
       </trans-unit>
       <trans-unit id="Restore to before snap" xml:space="preserve">
         <source>Restore to before snap</source>
-        <target state="needs-review-l10n">恢复到吸附之前</target>
+        <target state="translated">恢复到吸附前</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restrictions" xml:space="preserve">
         <source>Restrictions</source>
-        <target state="needs-review-l10n">限制</target>
+        <target state="translated">限制</target>
         <note from="auto-generated">The title of the button that expands/collapses the restrictions section.</note>
       </trans-unit>
       <trans-unit id="Reveal Desktop Edge" xml:space="preserve">
         <source>Reveal Desktop Edge</source>
-        <target state="needs-review-l10n">显示桌面边缘</target>
+        <target state="translated">显示桌面边缘</target>
         <note/>
       </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
         <source>Right</source>
-        <target state="needs-review-l10n">右</target>
+        <target state="needs-review-l10n">右手</target>
         <note/>
       </trans-unit>
       <trans-unit id="Right Click" xml:space="preserve">
         <source>Right Click</source>
-        <target state="needs-review-l10n">右键点按</target>
+        <target state="translated">右键点按</target>
         <note from="auto-generated">The name of the right click gesture.</note>
       </trans-unit>
       <trans-unit id="Right Half" xml:space="preserve">
         <source>Right Half</source>
-        <target state="needs-review-l10n">右半屏</target>
+        <target state="translated">右半屏</target>
         <note/>
       </trans-unit>
       <trans-unit id="Run AppleScript" xml:space="preserve">
         <source>Run AppleScript</source>
-        <target state="needs-review-l10n">运行 AppleScript</target>
+        <target state="translated">运行 AppleScript</target>
         <note from="auto-generated">Label for the Run AppleScript action in the Multitouch app.</note>
       </trans-unit>
       <trans-unit id="Save Current Layout…" xml:space="preserve">
         <source>Save Current Layout…</source>
-        <target state="needs-review-l10n">保存当前布局…</target>
+        <target state="translated">保存当前布局…</target>
         <note from="auto-generated">Text for the menu item to save the current multitouch layout.</note>
       </trans-unit>
       <trans-unit id="Screenshot copy (⌃⌘⇧4)" xml:space="preserve">
         <source>Screenshot copy (⌃⌘⇧4)</source>
-        <target state="needs-review-l10n">拷贝截屏 (⌃⌘⇧4)</target>
+        <target state="translated">截屏并拷贝（⌃⌘⇧4）</target>
         <note from="auto-generated">Text for the screenshot copy key.</note>
       </trans-unit>
       <trans-unit id="Screenshot entire screen (⌘⇧3)" xml:space="preserve">
         <source>Screenshot entire screen (⌘⇧3)</source>
-        <target state="needs-review-l10n">截取整个屏幕 (⌘⇧3)</target>
+        <target state="translated">全屏截屏（⌘⇧3）</target>
         <note from="auto-generated">Text for the screenshot entire screen key.</note>
       </trans-unit>
       <trans-unit id="Screenshot of touchbar (⌘⇧6)" xml:space="preserve">
         <source>Screenshot of touchbar (⌘⇧6)</source>
-        <target state="needs-review-l10n">截取触控栏 (⌘⇧6)</target>
+        <target state="translated">触控栏截屏（⌘⇧6）</target>
         <note from="auto-generated">Screenshot of touchbar (⌘⇧6)</note>
       </trans-unit>
       <trans-unit id="Screenshot selector (⌘⇧4)" xml:space="preserve">
         <source>Screenshot selector (⌘⇧4)</source>
-        <target state="needs-review-l10n">截取所选部分 (⌘⇧4)</target>
+        <target state="translated">所选部分截屏（⌘⇧4）</target>
         <note from="auto-generated">Text for the screenshot selector key on a Mac.</note>
       </trans-unit>
       <trans-unit id="Screenshot tool (⌘⇧5)" xml:space="preserve">
         <source>Screenshot tool (⌘⇧5)</source>
-        <target state="needs-review-l10n">截屏工具 (⌘⇧5)</target>
+        <target state="translated">截屏工具（⌘⇧5）</target>
         <note from="auto-generated">Text for the screenshot tool key on a Mac.</note>
       </trans-unit>
       <trans-unit id="Screenshot window (⌘⇧4 _ Click)" xml:space="preserve">
         <source>Screenshot window (⌘⇧4 _ Click)</source>
-        <target state="needs-review-l10n">截取窗口 (⌘⇧4 _ 点按)</target>
+        <target state="translated">窗口截屏（⌘⇧4 _ 点按）</target>
         <note from="auto-generated">Text for the screenshot of the window.</note>
       </trans-unit>
       <trans-unit id="Screenshot window w/o shadow" xml:space="preserve">
         <source>Screenshot window w/o shadow</source>
-        <target state="needs-review-l10n">截取不带阴影的窗口</target>
+        <target state="translated">窗口截屏（无阴影）</target>
         <note from="auto-generated">Screenshot of the current window without the shadow.</note>
       </trans-unit>
       <trans-unit id="Second Fourth" xml:space="preserve">
         <source>Second Fourth</source>
-        <target state="needs-review-l10n">第二个 1/4</target>
+        <target state="translated">左二１／４</target>
         <note/>
       </trans-unit>
       <trans-unit id="Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures." xml:space="preserve">
         <source>Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures.</source>
-        <target state="needs-review-l10n">选择惯用手后，将调整用于判断哪些手指位于放置手指左侧或右侧的轴（适用于相关手势）。</target>
+        <target state="translated">选择惯用手会调整相关手势所用的轴，该轴用于判断哪些手指位于放上的手指左侧或右侧。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Center" xml:space="preserve">
         <source>Send Window Center</source>
-        <target state="needs-review-l10n">将窗口移到中央</target>
+        <target state="translated">将窗口居中</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Down" xml:space="preserve">
         <source>Send Window Down</source>
-        <target state="needs-review-l10n">将窗口移到下方</target>
+        <target state="translated">将窗口移到下方</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Left" xml:space="preserve">
         <source>Send Window Left</source>
-        <target state="needs-review-l10n">将窗口移到左侧</target>
+        <target state="translated">将窗口移到左侧</target>
         <note from="auto-generated">Label for the action to send the window to the left.</note>
       </trans-unit>
       <trans-unit id="Send Window Lower Left" xml:space="preserve">
         <source>Send Window Lower Left</source>
-        <target state="needs-review-l10n">将窗口移到左下方</target>
+        <target state="translated">将窗口移到左下方</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Lower Right" xml:space="preserve">
         <source>Send Window Lower Right</source>
-        <target state="needs-review-l10n">将窗口移到右下方</target>
+        <target state="translated">将窗口移到右下方</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Next Monitor" xml:space="preserve">
         <source>Send Window Next Monitor</source>
-        <target state="needs-review-l10n">将窗口移到下一个显示器</target>
+        <target state="translated">将窗口移到下一个显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Prev Monitor" xml:space="preserve">
         <source>Send Window Prev Monitor</source>
-        <target state="needs-review-l10n">将窗口移到上一个显示器</target>
+        <target state="translated">将窗口移到上一个显示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Right" xml:space="preserve">
         <source>Send Window Right</source>
-        <target state="needs-review-l10n">将窗口移到右侧</target>
+        <target state="translated">将窗口移到右侧</target>
         <note from="auto-generated">Text displayed in a menu item to send the currently focused window to the right.</note>
       </trans-unit>
       <trans-unit id="Send Window Space Above" xml:space="preserve">
         <source>Send Window Space Above</source>
-        <target state="needs-review-l10n">将窗口移到上方的空间</target>
+        <target state="translated">将窗口移到上方的空间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Space Below" xml:space="preserve">
         <source>Send Window Space Below</source>
-        <target state="needs-review-l10n">将窗口移到下方的空间</target>
+        <target state="translated">将窗口移到下方的空间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Space Next" xml:space="preserve">
         <source>Send Window Space Next</source>
-        <target state="needs-review-l10n">将窗口移到下一个空间</target>
+        <target state="translated">将窗口移到下一个空间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Space Prev" xml:space="preserve">
         <source>Send Window Space Prev</source>
-        <target state="needs-review-l10n">将窗口移到上一个空间</target>
+        <target state="translated">将窗口移到上一个空间</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Up" xml:space="preserve">
         <source>Send Window Up</source>
-        <target state="needs-review-l10n">将窗口移到上方</target>
+        <target state="translated">将窗口移到上方</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Upper Left" xml:space="preserve">
         <source>Send Window Upper Left</source>
-        <target state="needs-review-l10n">将窗口移到左上方</target>
+        <target state="translated">将窗口移到左上方</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send Window Upper Right" xml:space="preserve">
         <source>Send Window Upper Right</source>
-        <target state="needs-review-l10n">将窗口移到右上方</target>
+        <target state="translated">将窗口移到右上方</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings…" xml:space="preserve">
         <source>Settings…</source>
-        <target state="needs-review-l10n">设置…</target>
+        <target state="translated">设置…</target>
         <note from="auto-generated">Title of the settings menu item.</note>
       </trans-unit>
       <trans-unit id="Shortcut &amp; Key Entry" xml:space="preserve">
         <source>Shortcut &amp; Key Entry</source>
-        <target state="needs-review-l10n">快捷键与按键输入</target>
+        <target state="translated">快捷键与按键输入</target>
         <note from="auto-generated">Group name for multitouch gesture receivers that support shortcuts and key entry.</note>
       </trans-unit>
       <trans-unit id="Show Emoji &amp; Symbols" xml:space="preserve">
         <source>Show Emoji &amp; Symbols</source>
-        <target state="needs-review-l10n">显示表情与符号</target>
+        <target state="translated">显示表情与符号</target>
         <note from="auto-generated">Text for the "Show Emoji &amp; Symbols" button.</note>
       </trans-unit>
       <trans-unit id="Show desktop (F11)" xml:space="preserve">
         <source>Show desktop (F11)</source>
-        <target state="needs-review-l10n">显示桌面 (F11)</target>
+        <target state="translated">显示桌面（F11）</target>
         <note from="auto-generated">Text for the "Show desktop" key on a Mac keyboard.</note>
       </trans-unit>
       <trans-unit id="Show menu bar icon" xml:space="preserve">
         <source>Show menu bar icon</source>
-        <target state="needs-review-l10n">显示菜单栏图标</target>
+        <target state="translated">显示菜单栏图标</target>
         <note from="auto-generated">A label for the user to toggle the display of the menu bar icon.</note>
       </trans-unit>
       <trans-unit id="Show/Hide preferences" xml:space="preserve">
         <source>Show/Hide preferences</source>
-        <target state="needs-review-l10n">显示/隐藏设置</target>
+        <target state="translated">显示／隐藏设置</target>
         <note from="auto-generated">Label for the multitouch action to show/hide the preferences.</note>
       </trans-unit>
       <trans-unit id="Show/hide dock (⌥⌘D)" xml:space="preserve">
         <source>Show/hide dock (⌥⌘D)</source>
-        <target state="needs-review-l10n">显示/隐藏程序坞 (⌥⌘D)</target>
+        <target state="translated">显示／隐藏程序坞（⌥⌘D）</target>
         <note from="auto-generated">Text for the "Show/hide dock (⌥⌘D)" key on a Mac keyboard.</note>
       </trans-unit>
       <trans-unit id="Sleep (⌥⌘ ⏏)" xml:space="preserve">
         <source>Sleep (⌥⌘ ⏏)</source>
-        <target state="needs-review-l10n">睡眠 (⌥⌘ ⏏)</target>
+        <target state="translated">睡眠（⌥⌘ ⏏）</target>
         <note from="auto-generated">Text for the sleep key on a Mac.</note>
       </trans-unit>
       <trans-unit id="Small menu bar icon" xml:space="preserve">
         <source>Small menu bar icon</source>
-        <target state="needs-review-l10n">小号菜单栏图标</target>
+        <target state="translated">小号菜单栏图标</target>
         <note from="auto-generated">A toggle that allows users to choose whether to display the Multitouch menu bar icon in a small size.</note>
       </trans-unit>
       <trans-unit id="SnapBack Window" xml:space="preserve">
         <source>SnapBack Window</source>
-        <target state="needs-review-l10n">窗口回弹 (SnapBack)</target>
+        <target state="translated">恢复窗口（SnapBack）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spotlight (⌘ Space)" xml:space="preserve">
         <source>Spotlight (⌘ Space)</source>
-        <target state="needs-review-l10n">聚焦 (⌘ 空格)</target>
+        <target state="translated">聚焦（⌘ 空格键）</target>
         <note from="auto-generated">Text for the Spotlight key on a Mac.</note>
       </trans-unit>
       <trans-unit id="Spotlight Finder (⌥⌘ Space)" xml:space="preserve">
         <source>Spotlight Finder (⌥⌘ Space)</source>
-        <target state="needs-review-l10n">在访达中聚焦搜索 (⌥⌘ 空格)</target>
+        <target state="translated">访达搜索窗口（⌥⌘ 空格键）</target>
         <note from="auto-generated">Text for the Spotlight Finder key combination.</note>
       </trans-unit>
       <trans-unit id="Start on login" xml:space="preserve">
         <source>Start on login</source>
-        <target state="needs-review-l10n">登录时启动</target>
+        <target state="translated">登录时打开</target>
         <note from="auto-generated">A toggle that allows users to enable or disable starting Multitouch on login.</note>
       </trans-unit>
       <trans-unit id="Submit" xml:space="preserve">
         <source>Submit</source>
-        <target state="needs-review-l10n">提交</target>
+        <target state="translated">提交</target>
         <note from="auto-generated">A button that submits the license key for deactivation.</note>
       </trans-unit>
       <trans-unit id="Success" xml:space="preserve">
         <source>Success</source>
-        <target state="needs-review-l10n">成功</target>
+        <target state="translated">成功</target>
         <note from="auto-generated">A label for a successful action.</note>
       </trans-unit>
       <trans-unit id="Swipe Sensitivity" xml:space="preserve">
         <source>Swipe Sensitivity</source>
-        <target state="needs-review-l10n">轻扫灵敏度</target>
+        <target state="translated">轻扫灵敏度</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe down with four" xml:space="preserve">
         <source>Swipe down with four</source>
-        <target state="needs-review-l10n">四指向下轻扫</target>
+        <target state="translated">四指向下轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe down with three" xml:space="preserve">
         <source>Swipe down with three</source>
-        <target state="needs-review-l10n">三指向下轻扫</target>
+        <target state="translated">三指向下轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe down with three touches" xml:space="preserve">
         <source>Swipe down with three touches</source>
-        <target state="needs-review-l10n">三指向下轻扫</target>
+        <target state="translated">三指向下轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe left with four" xml:space="preserve">
         <source>Swipe left with four</source>
-        <target state="needs-review-l10n">四指向左轻扫</target>
+        <target state="translated">四指向左轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe left with three" xml:space="preserve">
         <source>Swipe left with three</source>
-        <target state="needs-review-l10n">三指向左轻扫</target>
+        <target state="translated">三指向左轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe left with three touches" xml:space="preserve">
         <source>Swipe left with three touches</source>
-        <target state="needs-review-l10n">三指向左轻扫</target>
+        <target state="translated">三指向左轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe right with four" xml:space="preserve">
         <source>Swipe right with four</source>
-        <target state="needs-review-l10n">四指向右轻扫</target>
+        <target state="translated">四指向右轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe right with three" xml:space="preserve">
         <source>Swipe right with three</source>
-        <target state="needs-review-l10n">三指向右轻扫</target>
+        <target state="translated">三指向右轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe right with three touches" xml:space="preserve">
         <source>Swipe right with three touches</source>
-        <target state="needs-review-l10n">三指向右轻扫</target>
+        <target state="translated">三指向右轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe two from the left trackpad edge" xml:space="preserve">
         <source>Swipe two from the left trackpad edge</source>
-        <target state="needs-review-l10n">双指从触控板左边缘轻扫</target>
+        <target state="translated">双指从触控板左边缘轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe up with four" xml:space="preserve">
         <source>Swipe up with four</source>
-        <target state="needs-review-l10n">四指向上轻扫</target>
+        <target state="translated">四指向上轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe up with three" xml:space="preserve">
         <source>Swipe up with three</source>
-        <target state="needs-review-l10n">三指向上轻扫</target>
+        <target state="translated">三指向上轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Swipe up with three touches" xml:space="preserve">
         <source>Swipe up with three touches</source>
-        <target state="needs-review-l10n">三指向上轻扫</target>
+        <target state="translated">三指向上轻扫</target>
         <note/>
       </trans-unit>
       <trans-unit id="Switch apps left" xml:space="preserve">
         <source>Switch apps left</source>
-        <target state="needs-review-l10n">切换到左侧应用</target>
+        <target state="translated">切换到左侧应用</target>
         <note from="auto-generated">Text displayed in the app switcher for switching to the previous application.</note>
       </trans-unit>
       <trans-unit id="Switch apps right" xml:space="preserve">
         <source>Switch apps right</source>
-        <target state="needs-review-l10n">切换到右侧应用</target>
+        <target state="translated">切换到右侧应用</target>
         <note from="auto-generated">Label for the "Switch apps right" action in the app switcher.</note>
       </trans-unit>
       <trans-unit id="Switch tabs left" xml:space="preserve">
         <source>Switch tabs left</source>
-        <target state="needs-review-l10n">切换到左侧标签页</target>
+        <target state="translated">切换到左侧标签页</target>
         <note from="auto-generated">Label for the tab action to switch tabs to the left.</note>
       </trans-unit>
       <trans-unit id="Switch tabs right" xml:space="preserve">
         <source>Switch tabs right</source>
-        <target state="needs-review-l10n">切换到右侧标签页</target>
+        <target state="translated">切换到右侧标签页</target>
         <note from="auto-generated">Label for the "Switch tabs right" multitouch action.</note>
       </trans-unit>
       <trans-unit id="Sync configuration over iCloud" xml:space="preserve">
         <source>Sync configuration over iCloud</source>
-        <target state="needs-review-l10n">通过 iCloud 同步配置</target>
+        <target state="translated">通过 iCloud 同步配置</target>
         <note from="auto-generated">A toggle that allows users to sync their Multitouch configuration over iCloud.</note>
       </trans-unit>
       <trans-unit id="Synchronize clicks" xml:space="preserve">
         <source>Synchronize clicks</source>
-        <target state="needs-review-l10n">同步点按</target>
+        <target state="translated">同步点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Synchronize the trackpad down and up of click gestures with click actions instead of executing actions after up. Not recommended when tap to click is enabled." xml:space="preserve">
         <source>Synchronize the trackpad down and up of click gestures with click actions instead of executing actions after up. Not recommended when tap to click is enabled.</source>
-        <target state="needs-review-l10n">将点按手势中触控板的按下和松开与点按操作同步，而不是在松开后才执行操作。启用“轻点来点按”时不建议使用。</target>
+        <target state="translated">将点按手势中触控板的按下和松开与点按操作同步，而不是在松开后才执行操作。启用“轻点以点按”时不建议使用。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tabbed Apps" xml:space="preserve">
         <source>Tabbed Apps</source>
-        <target state="needs-review-l10n">带标签页的应用</target>
+        <target state="translated">使用标签页的应用</target>
         <note from="auto-generated">The name of the category for multitouch apps that can be opened in multiple tabs.</note>
       </trans-unit>
       <trans-unit id="Tap one on the left half" xml:space="preserve">
         <source>Tap one on the left half</source>
-        <target state="needs-review-l10n">在左半边轻点一指</target>
+        <target state="translated">单指轻点左半边</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap one on the right half" xml:space="preserve">
         <source>Tap one on the right half</source>
-        <target state="needs-review-l10n">在右半边轻点一指</target>
+        <target state="translated">单指轻点右半边</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap one: bottom left corner" xml:space="preserve">
         <source>Tap one: bottom left corner</source>
-        <target state="needs-review-l10n">单指轻点：左下角</target>
+        <target state="translated">单指轻点：左下角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap one: bottom right corner" xml:space="preserve">
         <source>Tap one: bottom right corner</source>
-        <target state="needs-review-l10n">单指轻点：右下角</target>
+        <target state="translated">单指轻点：右下角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap one: top left corner" xml:space="preserve">
         <source>Tap one: top left corner</source>
-        <target state="needs-review-l10n">单指轻点：左上角</target>
+        <target state="translated">单指轻点：左上角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap one: top right corner" xml:space="preserve">
         <source>Tap one: top right corner</source>
-        <target state="needs-review-l10n">单指轻点：右上角</target>
+        <target state="translated">单指轻点：右上角</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap to click" xml:space="preserve">
         <source>Tap to click</source>
-        <target state="needs-review-l10n">轻点来点按</target>
+        <target state="translated">轻点以点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap two to right click" xml:space="preserve">
         <source>Tap two to right click</source>
-        <target state="needs-review-l10n">双指轻点以右键点按</target>
+        <target state="translated">双指轻点以右键点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap with four touches" xml:space="preserve">
         <source>Tap with four touches</source>
-        <target state="needs-review-l10n">四指轻点</target>
+        <target state="translated">四指轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tap with three touches" xml:space="preserve">
         <source>Tap with three touches</source>
-        <target state="needs-review-l10n">三指轻点</target>
+        <target state="translated">三指轻点</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tapping three fingers with three finger drag enabled causes a click to be executed that Multitouch will not prevent." xml:space="preserve">
         <source>Tapping three fingers with three finger drag enabled causes a click to be executed that Multitouch will not prevent.</source>
-        <target state="needs-review-l10n">启用三指拖移时，三指轻点会执行一次点按，Multitouch 无法阻止。</target>
+        <target state="translated">启用三指拖移时，三指轻点会执行一次点按，Multitouch 无法阻止。</target>
         <note from="auto-generated">Tooltip for a gesture that conflicts with the three finger drag gesture in macOS.</note>
       </trans-unit>
       <trans-unit id="The Force Touch Middle Click is designed to properly open links in new tabs for Chrome and Firefox, while still acting as a middle click elsewhere." xml:space="preserve">
         <source>The Force Touch Middle Click is designed to properly open links in new tabs for Chrome and Firefox, while still acting as a middle click elsewhere.</source>
-        <target state="needs-review-l10n">“用力点按作为中键点按”可在 Chrome 和 Firefox 中正确地在新标签页中打开链接，在其他地方仍作为中键点按。</target>
+        <target state="translated">用力点按式中键点按旨在让 Chrome 和 Firefox 正确地在新标签页中打开链接，在其他地方仍作为中键点按。</target>
         <note from="auto-generated">Tooltip for the Force Touch Middle Click multitouch gesture.</note>
       </trans-unit>
       <trans-unit id="The Linux Middle Click action automatically copies text highlighted with the text selection cursor." xml:space="preserve">
         <source>The Linux Middle Click action automatically copies text highlighted with the text selection cursor.</source>
-        <target state="needs-review-l10n">“Linux 式中键点按”操作会自动拷贝用文本选择光标高亮的文本。</target>
+        <target state="translated">Linux 式中键点按操作会自动拷贝用文本选择光标选中的文本。</target>
         <note from="auto-generated">Tooltip for the Linux Middle Click gesture.</note>
       </trans-unit>
       <trans-unit id="The app switcher will remain open until the next touches on the device are removed. This allows scroll gestures to easily select an application." xml:space="preserve">
         <source>The app switcher will remain open until the next touches on the device are removed. This allows scroll gestures to easily select an application.</source>
-        <target state="needs-review-l10n">应用切换器会保持打开，直到下一次手指离开设备。这样可以使用滚动手势轻松选择应用。</target>
+        <target state="translated">应用切换器会保持打开，直到下次放在设备上的手指抬起。这样可以使用滚动手势轻松选择应用。</target>
         <note from="auto-generated">Text displayed in a tooltip for the "Open, then auto-close" option in the app switcher.</note>
       </trans-unit>
       <trans-unit id="The following browsers will respond to browser actions:" xml:space="preserve">
         <source>The following browsers will respond to browser actions:</source>
-        <target state="needs-review-l10n">以下浏览器将响应浏览器操作：</target>
+        <target state="translated">以下浏览器将响应浏览器操作：</target>
         <note/>
       </trans-unit>
       <trans-unit id="The following installed applications will respond to tab actions:" xml:space="preserve">
         <source>The following installed applications will respond to tab actions:</source>
-        <target state="needs-review-l10n">以下已安装的应用将响应标签页操作：</target>
+        <target state="translated">以下已安装的应用将响应标签页操作：</target>
         <note from="auto-generated">Title of a section in the settings UI that lists the installed apps that will respond to tab actions.</note>
       </trans-unit>
       <trans-unit id="The gesture will perform a middle click down and the middle click up will be executed when all touches are removed from the device. As you complete the gesture, leave one touch on the trackpad to pan." xml:space="preserve">
         <source>The gesture will perform a middle click down and the middle click up will be executed when all touches are removed from the device. As you complete the gesture, leave one touch on the trackpad to pan.</source>
-        <target state="needs-review-l10n">该手势会执行中键点按的按下，当所有手指离开设备时执行松开。完成手势时，将一指留在触控板上即可平移。</target>
+        <target state="translated">该手势会执行中键点按的按下，所有手指从设备上抬起后再执行松开。完成手势时，将一指留在触控板上即可平移。</target>
         <note from="auto-generated">Tooltip for the "Middle Click and Pan" gesture.</note>
       </trans-unit>
       <trans-unit id="The gesture will perform a ⌘+click down and the ⌘+click up will be executed when all touches are removed from the device. As you complete the gesture, leave one touch on the trackpad to pan." xml:space="preserve">
         <source>The gesture will perform a ⌘+click down and the ⌘+click up will be executed when all touches are removed from the device. As you complete the gesture, leave one touch on the trackpad to pan.</source>
-        <target state="needs-review-l10n">该手势会执行 ⌘+点按的按下，当所有手指离开设备时执行松开。完成手势时，将一指留在触控板上即可平移。</target>
+        <target state="translated">该手势会执行 ⌘+点按的按下，所有手指从设备上抬起后再执行松开。完成手势时，将一指留在触控板上即可平移。</target>
         <note from="auto-generated">Tooltip for the "⌘ + Click and Drag" multitouch gesture.</note>
       </trans-unit>
       <trans-unit id="The keystroke recorder will record all keystrokes, along with the modifier keys held during recording." xml:space="preserve">
         <source>The keystroke recorder will record all keystrokes, along with the modifier keys held during recording.</source>
-        <target state="needs-review-l10n">按键录制器将录制所有按键，以及录制期间按住的修饰键。</target>
+        <target state="translated">按键录制栏将录制所有按键，以及录制期间按住的修饰键。</target>
         <note from="auto-generated">Description of the keystroke recorder's functionality.</note>
       </trans-unit>
       <trans-unit id="The rest two and tap one between gesture on the trackpad works best when touches are aligned horizontally, regardless of dominant hand configuration." xml:space="preserve">
         <source>The rest two and tap one between gesture on the trackpad works best when touches are aligned horizontally, regardless of dominant hand configuration.</source>
-        <target state="needs-review-l10n">无论惯用手如何配置，触控板上的“两指放置，在中间轻点一指”手势在手指水平排列时效果最好。</target>
+        <target state="translated">无论惯用手如何配置，触控板上的“双指放上，另一指在两指之间轻点”手势在手指水平排列时效果最好。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Then relaunch Multitouch and check the box in System Settings again when prompted." xml:space="preserve">
         <source>Then relaunch Multitouch and check the box in System Settings again when prompted.</source>
-        <target state="needs-review-l10n">然后重新启动 Multitouch，并在出现提示时再次在“系统设置”中勾选该复选框。</target>
+        <target state="translated">然后重新打开 Multitouch，并在出现提示时再次在“系统设置”中勾选该复选框。</target>
         <note from="auto-generated">Text to be displayed in a warning banner at the top of the screen.</note>
       </trans-unit>
       <trans-unit id="Third Fourth" xml:space="preserve">
         <source>Third Fourth</source>
-        <target state="needs-review-l10n">第三个 1/4</target>
+        <target state="translated">右二１／４</target>
         <note/>
       </trans-unit>
       <trans-unit id="This gesture will conflict with the corresponding gesture in macOS." xml:space="preserve">
         <source>This gesture will conflict with the corresponding gesture in macOS.</source>
-        <target state="needs-review-l10n">此手势将与 macOS 中的相应手势冲突。</target>
+        <target state="translated">此手势将与 macOS 中的相应手势冲突。</target>
         <note from="auto-generated">Text displayed in a notification when a three-finger horizontal swipe gesture conflicts with the corresponding macOS gesture.</note>
       </trans-unit>
       <trans-unit id="This gesture will conflict with the three finger drag gesture in macOS." xml:space="preserve">
         <source>This gesture will conflict with the three finger drag gesture in macOS.</source>
-        <target state="needs-review-l10n">此手势将与 macOS 中的三指拖移手势冲突。</target>
+        <target state="translated">此手势将与 macOS 中的三指拖移手势冲突。</target>
         <note from="auto-generated">Description of a gesture that will conflict with the three finger drag gesture in macOS.</note>
       </trans-unit>
       <trans-unit id="This gesture will conflict with three finger vertical swipe gestures in macOS." xml:space="preserve">
         <source>This gesture will conflict with three finger vertical swipe gestures in macOS.</source>
-        <target state="needs-review-l10n">此手势将与 macOS 中的三指垂直轻扫手势冲突。</target>
+        <target state="translated">此手势将与 macOS 中的三指上下轻扫手势冲突。</target>
         <note from="auto-generated">Tooltip for a gesture that conflicts with three finger vertical swipe gestures in macOS.</note>
       </trans-unit>
       <trans-unit id="This gesture works best when none of the initial five touches are near the edge of the trackpad" xml:space="preserve">
         <source>This gesture works best when none of the initial five touches are near the edge of the trackpad</source>
-        <target state="needs-review-l10n">当最初的五指都不靠近触控板边缘时，此手势效果最好</target>
+        <target state="translated">当最初的五指都不靠近触控板边缘时，此手势效果最好</target>
         <note from="auto-generated">Tooltip for the five one gesture.</note>
       </trans-unit>
       <trans-unit id="This will restart Multitouch. Continue?" xml:space="preserve">
         <source>This will restart Multitouch. Continue?</source>
-        <target state="needs-review-l10n">这将重新启动 Multitouch。是否继续？</target>
+        <target state="translated">这将重新启动 Multitouch。是否继续？</target>
         <note/>
       </trans-unit>
       <trans-unit id="Three Touch" xml:space="preserve">
         <source>Three Touch</source>
-        <target state="needs-review-l10n">三指</target>
+        <target state="translated">三指</target>
         <note from="auto-generated">Name of the multitouch gesture category for three-finger touch input.</note>
       </trans-unit>
       <trans-unit id="Tile 2x2 Grid" xml:space="preserve">
         <source>Tile 2x2 Grid</source>
-        <target state="needs-review-l10n">以 2×2 网格平铺</target>
+        <target state="translated">按 2×2 网格平铺</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tile 2x3 Grid" xml:space="preserve">
         <source>Tile 2x3 Grid</source>
-        <target state="needs-review-l10n">以 2×3 网格平铺</target>
+        <target state="translated">按 2×3 网格平铺</target>
         <note/>
       </trans-unit>
       <trans-unit id="Timing is not preserved during the recording/playback." xml:space="preserve">
         <source>Timing is not preserved during the recording/playback.</source>
-        <target state="needs-review-l10n">录制/回放时不会保留时间间隔。</target>
+        <target state="translated">录制／回放时不会保留时间间隔。</target>
         <note from="auto-generated">Description of the timing of keystroke recording.</note>
       </trans-unit>
       <trans-unit id="Toggle Illumination" xml:space="preserve">
         <source>Toggle Illumination</source>
-        <target state="needs-review-l10n">切换背光</target>
+        <target state="translated">开关键盘背光</target>
         <note from="auto-generated">Text for the "Toggle Illumination" key on a keyboard.</note>
       </trans-unit>
       <trans-unit id="Toggle zoom (⌥⌘8)" xml:space="preserve">
         <source>Toggle zoom (⌥⌘8)</source>
-        <target state="needs-review-l10n">切换缩放 (⌥⌘8)</target>
+        <target state="translated">开关缩放（⌥⌘8）</target>
         <note from="auto-generated">Text displayed in a button that toggles the zoom mode.</note>
       </trans-unit>
       <trans-unit id="Top Center Sixth" xml:space="preserve">
         <source>Top Center Sixth</source>
-        <target state="needs-review-l10n">顶部中央 1/6</target>
+        <target state="translated">中上１／６</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Half" xml:space="preserve">
         <source>Top Half</source>
-        <target state="needs-review-l10n">上半屏</target>
+        <target state="translated">上半屏</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Left" xml:space="preserve">
         <source>Top Left</source>
-        <target state="needs-review-l10n">左上</target>
+        <target state="translated">左上</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Left Sixth" xml:space="preserve">
         <source>Top Left Sixth</source>
-        <target state="needs-review-l10n">左上 1/6</target>
+        <target state="translated">左上１／６</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Right" xml:space="preserve">
         <source>Top Right</source>
-        <target state="needs-review-l10n">右上</target>
+        <target state="translated">右上</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Right Sixth" xml:space="preserve">
         <source>Top Right Sixth</source>
-        <target state="needs-review-l10n">右上 1/6</target>
+        <target state="translated">右上１／６</target>
         <note/>
       </trans-unit>
       <trans-unit id="Touch Precision" xml:space="preserve">
         <source>Touch Precision</source>
-        <target state="needs-review-l10n">触控精度</target>
+        <target state="translated">触控精度</target>
         <note/>
       </trans-unit>
       <trans-unit id="Touch Viewer" xml:space="preserve">
         <source>Touch Viewer</source>
-        <target state="needs-review-l10n">触控查看器</target>
+        <target state="translated">触控查看器</target>
         <note from="auto-generated">Title of the alert that appears when the user clicks the "View Touches" menu item.</note>
       </trans-unit>
       <trans-unit id="Trackpad" xml:space="preserve">
         <source>Trackpad</source>
-        <target state="needs-review-l10n">触控板</target>
+        <target state="translated">触控板</target>
         <note from="auto-generated">Name of the input device type: trackpad.</note>
       </trans-unit>
       <trans-unit id="Triple Click" xml:space="preserve">
         <source>Triple Click</source>
-        <target state="needs-review-l10n">连按三下</target>
+        <target state="translated">连按三次</target>
         <note from="auto-generated">The name of the gesture that triggers a triple click.</note>
       </trans-unit>
       <trans-unit id="Try removing Multitouch from the list in System Settings → Privacy &amp; Security → Accessibility." xml:space="preserve">
         <source>Try removing Multitouch from the list in System Settings → Privacy &amp; Security → Accessibility.</source>
-        <target state="needs-review-l10n">请尝试从“系统设置”→“隐私与安全性”→“辅助功能”的列表中移除 Multitouch。</target>
+        <target state="translated">请尝试从“系统设置”→“隐私与安全性”→“辅助功能”的列表中移除 Multitouch。</target>
         <note from="auto-generated">Text to be displayed in a warning banner at the top of the screen.</note>
       </trans-unit>
       <trans-unit id="Try resetting permissions for %@ in System Settings. Would you like %@ to attempt the reset?" xml:space="preserve">
         <source>Try resetting permissions for %1$@ in System Settings. Would you like %2$@ to attempt the reset?</source>
-        <target state="needs-review-l10n">请尝试在“系统设置”中重置 %1$@ 的权限。要让 %2$@ 尝试重置吗？</target>
+        <target state="translated">请尝试在“系统设置”中重置 %1$@ 的权限。要让 %2$@ 尝试重置吗？</target>
         <note from="auto-generated">Alert shown when the user has denied access to the application's input device.</note>
       </trans-unit>
       <trans-unit id="Two Touch" xml:space="preserve">
         <source>Two Touch</source>
-        <target state="needs-review-l10n">双指</target>
+        <target state="translated">双指</target>
         <note from="auto-generated">Name of the multitouch gesture category for two-finger multitouch input.</note>
       </trans-unit>
       <trans-unit id="UUID copied to clipboard" xml:space="preserve">
         <source>UUID copied to clipboard</source>
-        <target state="needs-review-l10n">UUID 已拷贝到剪贴板</target>
+        <target state="translated">UUID 已拷贝到剪贴板</target>
         <note from="auto-generated">Title of a notification when a UUID is copied to the clipboard.</note>
       </trans-unit>
       <trans-unit id="Unable to deactivate license" xml:space="preserve">
         <source>Unable to deactivate license</source>
-        <target state="needs-review-l10n">无法停用许可证</target>
+        <target state="translated">无法停用许可证</target>
         <note from="auto-generated">A title for an alert that occurs when the user tries to deactivate their license.</note>
       </trans-unit>
       <trans-unit id="Unable to initiate purchase without internet connection." xml:space="preserve">
         <source>Unable to initiate purchase without internet connection.</source>
-        <target state="needs-review-l10n">没有互联网连接，无法开始购买。</target>
+        <target state="translated">没有互联网连接，无法开始购买。</target>
         <note from="auto-generated">Alert message displayed when the user tries to purchase a product while not connected to the internet.</note>
       </trans-unit>
       <trans-unit id="Unable to listen to device input" xml:space="preserve">
         <source>Unable to listen to device input</source>
-        <target state="needs-review-l10n">无法监听设备输入</target>
+        <target state="translated">无法接收设备输入</target>
         <note from="auto-generated">Alert title when the user cannot listen to device input.</note>
       </trans-unit>
       <trans-unit id="Unable to parse AppleScript." xml:space="preserve">
         <source>Unable to parse AppleScript.</source>
-        <target state="needs-review-l10n">无法解析 AppleScript。</target>
+        <target state="translated">无法解析 AppleScript。</target>
         <note from="auto-generated">Error message displayed in the log viewer when an AppleScript cannot be parsed.</note>
       </trans-unit>
       <trans-unit id="Unable to remove license activation" xml:space="preserve">
         <source>Unable to remove license activation</source>
-        <target state="needs-review-l10n">无法移除许可证激活</target>
+        <target state="translated">无法移除许可证激活</target>
         <note from="auto-generated">Error message when the user tries to remove a license activation from the device.</note>
       </trans-unit>
       <trans-unit id="Unminimize all windows" xml:space="preserve">
         <source>Unminimize all windows</source>
-        <target state="needs-review-l10n">取消最小化所有窗口</target>
+        <target state="translated">取消最小化所有窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Update Available…" xml:space="preserve">
         <source>Update Available…</source>
-        <target state="needs-review-l10n">有可用更新…</target>
+        <target state="translated">有可用更新…</target>
         <note from="auto-generated">The title of a button that updates the user's software.</note>
       </trans-unit>
       <trans-unit id="Updating private framework usage" xml:space="preserve">
         <source>Updating private framework usage</source>
-        <target state="needs-review-l10n">正在更新私有框架的使用</target>
+        <target state="translated">正在更新私有框架的使用设置</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use fn and left click to middle click" xml:space="preserve">
         <source>Use fn and left click to middle click</source>
-        <target state="needs-review-l10n">使用 fn 和左键点按作为中键点按</target>
+        <target state="translated">按住 fn 并左键点按以中键点按</target>
         <note/>
       </trans-unit>
       <trans-unit id="Using the private framework fixes certain scenarios where trackpad gestures are not being recognized." xml:space="preserve">
         <source>Using the private framework fixes certain scenarios where trackpad gestures are not being recognized.</source>
-        <target state="needs-review-l10n">使用私有框架可修复某些无法识别触控板手势的情况。</target>
+        <target state="translated">使用私有框架可修复某些无法识别触控板手势的情况。</target>
         <note/>
       </trans-unit>
       <trans-unit id="View Logging" xml:space="preserve">
         <source>View Logging</source>
-        <target state="needs-review-l10n">查看日志</target>
+        <target state="translated">查看日志</target>
         <note from="auto-generated">Menu item title to open the logging window.</note>
       </trans-unit>
       <trans-unit id="View Touches" xml:space="preserve">
         <source>View Touches</source>
-        <target state="needs-review-l10n">查看触控</target>
+        <target state="translated">查看触控</target>
         <note from="auto-generated">Menu item title to open the touches view.</note>
       </trans-unit>
       <trans-unit id="Viewing windows will be displayed for each device when touches are detected on that device" xml:space="preserve">
         <source>Viewing windows will be displayed for each device when touches are detected on that device</source>
-        <target state="needs-review-l10n">在设备上检测到触控时，将为每个设备显示查看窗口</target>
+        <target state="translated">在某个设备上检测到触控时，将为该设备显示查看窗口</target>
         <note from="auto-generated">Text displayed in a notification when the user enables touch viewer.</note>
       </trans-unit>
       <trans-unit id="Volume Down" xml:space="preserve">
         <source>Volume Down</source>
-        <target state="needs-review-l10n">调低音量</target>
+        <target state="translated">调低音量</target>
         <note from="auto-generated">Label for the volume down action in the iTunes app.</note>
       </trans-unit>
       <trans-unit id="Volume Up" xml:space="preserve">
         <source>Volume Up</source>
-        <target state="needs-review-l10n">调高音量</target>
+        <target state="translated">调高音量</target>
         <note from="auto-generated">Label for the volume up action in the multitouch interface.</note>
       </trans-unit>
       <trans-unit id="When the desired window footprint is displayed, remove the touch (for applicable gestures), perform the gesture again, or click." xml:space="preserve">
         <source>When the desired window footprint is displayed, remove the touch (for applicable gestures), perform the gesture again, or click.</source>
-        <target state="needs-review-l10n">显示所需的窗口预览框后，抬起手指（适用于相关手势）、再次执行手势或点按。</target>
+        <target state="translated">显示所需的窗口预览框后，抬起手指（适用于相关手势）、再次执行手势或点按。</target>
         <note from="auto-generated">Text for the "When the desired window footprint is displayed, remove the touch (for applicable gestures), perform the gesture again, or click." section of the Multitouch.reticle.info.</note>
       </trans-unit>
       <trans-unit id="When the menu bar icon is hidden, relaunch Multitouch from Finder to open the menu." xml:space="preserve">
         <source>When the menu bar icon is hidden, relaunch Multitouch from Finder to open the menu.</source>
-        <target state="needs-review-l10n">隐藏菜单栏图标后，从“访达”重新启动 Multitouch 即可打开菜单。</target>
+        <target state="translated">隐藏菜单栏图标后，从访达重新打开 Multitouch 即可打开菜单。</target>
         <note from="auto-generated">Tooltip for the "Show menu bar icon" toggle in the Multitouch settings.</note>
       </trans-unit>
       <trans-unit id="Window Management" xml:space="preserve">
         <source>Window Management</source>
-        <target state="needs-review-l10n">窗口管理</target>
+        <target state="translated">窗口管理</target>
         <note from="auto-generated">Name of the receiver type that manages windows.</note>
       </trans-unit>
       <trans-unit id="Window Throw" xml:space="preserve">
         <source>Window Throw</source>
-        <target state="needs-review-l10n">窗口抛掷</target>
+        <target state="translated">窗口投掷</target>
         <note/>
       </trans-unit>
       <trans-unit id="Window management requires accessibility authorization." xml:space="preserve">
         <source>Window management requires accessibility authorization.</source>
-        <target state="needs-review-l10n">窗口管理需要辅助功能授权。</target>
+        <target state="translated">窗口管理需要辅助功能授权。</target>
         <note from="auto-generated">Tooltip text for the Window Management receiver type.</note>
       </trans-unit>
       <trans-unit id="You can reactivate with your license key at any time." xml:space="preserve">
         <source>You can reactivate with your license key at any time.</source>
-        <target state="needs-review-l10n">你可以随时使用许可证密钥重新激活。</target>
+        <target state="translated">可以随时使用许可证密钥重新激活。</target>
         <note from="auto-generated">Text displayed in a dialog when the user confirms removing a device from their activations.</note>
       </trans-unit>
       <trans-unit id="You've already used this shortcut." xml:space="preserve">
         <source>You've already used this shortcut.</source>
-        <target state="needs-review-l10n">你已使用过此快捷键。</target>
+        <target state="translated">此快捷键已被使用。</target>
         <note from="auto-generated">Error message displayed when a user tries to create a shortcut that is already in use.</note>
       </trans-unit>
       <trans-unit id="Zoom in (⌥⌘=)" xml:space="preserve">
         <source>Zoom in (⌥⌘=)</source>
-        <target state="needs-review-l10n">放大 (⌥⌘=)</target>
+        <target state="translated">放大（⌥⌘=）</target>
         <note from="auto-generated">Text for the zoom in keyboard shortcut.</note>
       </trans-unit>
       <trans-unit id="Zoom out (⌥⌘-)" xml:space="preserve">
         <source>Zoom out (⌥⌘-)</source>
-        <target state="needs-review-l10n">缩小 (⌥⌘-)</target>
+        <target state="translated">缩小（⌥⌘-）</target>
         <note from="auto-generated">Text for the zoom out key on a Mac.</note>
       </trans-unit>
       <trans-unit id="browser.back" xml:space="preserve">
         <source>Back</source>
-        <target state="needs-review-l10n">后退</target>
+        <target state="translated">返回</target>
         <note>Browser action: navigate back in history.</note>
       </trans-unit>
       <trans-unit id="browser.forward" xml:space="preserve">
         <source>Forward</source>
-        <target state="needs-review-l10n">前进</target>
+        <target state="translated">前进</target>
         <note>Browser action: navigate forward in history.</note>
       </trans-unit>
       <trans-unit id="macOS Keys &amp; Shortcuts" xml:space="preserve">
         <source>macOS Keys &amp; Shortcuts</source>
-        <target state="needs-review-l10n">macOS 按键与快捷键</target>
+        <target state="translated">macOS 按键与快捷键</target>
         <note from="auto-generated">Name of the keyboard shortcut type.</note>
       </trans-unit>
       <trans-unit id="music.back" xml:space="preserve">
         <source>Back</source>
-        <target state="needs-review-l10n">上一首</target>
+        <target state="translated">上一首</target>
         <note>Music app action: go back to the previous track.</note>
       </trans-unit>
       <trans-unit id="music.forward" xml:space="preserve">
         <source>Forward</source>
-        <target state="needs-review-l10n">下一首</target>
+        <target state="translated">下一首</target>
         <note>Music app action: skip to the next track.</note>
       </trans-unit>
       <trans-unit id="⇧ + Click" xml:space="preserve">
         <source>⇧ + Click</source>
-        <target state="needs-review-l10n">⇧ + 点按</target>
+        <target state="translated">⇧ + 点按</target>
         <note from="auto-generated">The text for the ⇧ + Click action.</note>
       </trans-unit>
       <trans-unit id="⇧ + Middle Click" xml:space="preserve">
         <source>⇧ + Middle Click</source>
-        <target state="needs-review-l10n">⇧ + 中键点按</target>
+        <target state="translated">⇧ + 中键点按</target>
         <note from="auto-generated">The name of the multitouch gesture that is executed when the ⇧ + Middle Click action is selected.</note>
       </trans-unit>
       <trans-unit id="⌃ + Click" xml:space="preserve">
         <source>⌃ + Click</source>
-        <target state="needs-review-l10n">⌃ + 点按</target>
+        <target state="translated">⌃ + 点按</target>
         <note from="auto-generated">Text for the ⌃ + Click action.</note>
       </trans-unit>
       <trans-unit id="⌘ + Click" xml:space="preserve">
         <source>⌘ + Click</source>
-        <target state="needs-review-l10n">⌘ + 点按</target>
+        <target state="translated">⌘ + 点按</target>
         <note from="auto-generated">The ⌘ + Click gesture.</note>
       </trans-unit>
       <trans-unit id="⌘ + Click and Drag" xml:space="preserve">
         <source>⌘ + Click and Drag</source>
-        <target state="needs-review-l10n">⌘ + 点按并拖移</target>
+        <target state="translated">⌘ + 点按并拖移</target>
         <note from="auto-generated">The text for the "⌘ + Click and Drag" action.</note>
       </trans-unit>
       <trans-unit id="⌘ + Double Click" xml:space="preserve">
         <source>⌘ + Double Click</source>
-        <target state="needs-review-l10n">⌘ + 连按两下</target>
+        <target state="translated">⌘ + 连按</target>
         <note from="auto-generated">The text for the ⌘ + Double Click action.</note>
       </trans-unit>
       <trans-unit id="⌘Q" translate="no" xml:space="preserve">
@@ -3117,12 +3119,12 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="⌘⇧ + Click" xml:space="preserve">
         <source>⌘⇧ + Click</source>
-        <target state="needs-review-l10n">⌘⇧ + 点按</target>
+        <target state="translated">⌘⇧ + 点按</target>
         <note from="auto-generated">The name of the gesture when the modifier keys are ⌘ and ⇧.</note>
       </trans-unit>
       <trans-unit id="⌥ + Click" xml:space="preserve">
         <source>⌥ + Click</source>
-        <target state="needs-review-l10n">⌥ + 点按</target>
+        <target state="translated">⌥ + 点按</target>
         <note from="auto-generated">Text for the ⌥ + Click gesture.</note>
       </trans-unit>
       <trans-unit id="⌥tab" translate="no" xml:space="preserve">
