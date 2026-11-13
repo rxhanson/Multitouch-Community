@@ -5570,7 +5570,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Focus window under cursor" xml:space="preserve">
         <source>Focus window under cursor</source>
-        <target state="translated">聚焦光标下的窗口</target>
+        <target state="translated">将焦点移到光标下的窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="For example, first will be top instead of left." xml:space="preserve">
