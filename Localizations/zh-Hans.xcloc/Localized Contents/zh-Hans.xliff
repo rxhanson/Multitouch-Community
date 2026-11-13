@@ -1713,12 +1713,12 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Left and Middle Click" xml:space="preserve">
         <source>Left and Middle Click</source>
-        <target state="translated">左键与中键点按</target>
+        <target state="translated">左键与中键同时点按</target>
         <note from="auto-generated">The text for the left and middle click gesture.</note>
       </trans-unit>
       <trans-unit id="Left and Right Click" xml:space="preserve">
         <source>Left and Right Click</source>
-        <target state="translated">左键与右键点按</target>
+        <target state="translated">左键与右键同时点按</target>
         <note from="auto-generated">The text for the left and right click action.</note>
       </trans-unit>
       <trans-unit id="License activation not found" xml:space="preserve">
