@@ -5100,7 +5100,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Bottom sixths from corners; thirds" xml:space="preserve">
         <source>Bottom sixths from corners; thirds</source>
-        <target state="translated">靠近角落则底部⅙；其余⅓</target>
+        <target state="translated">从角落拖入则底部⅙；否则⅓</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bring-front" xml:space="preserve">
@@ -6890,7 +6890,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Top sixths from corners; maximize" xml:space="preserve">
         <source>Top sixths from corners; maximize</source>
-        <target state="translated">靠近角落则顶部⅙；其余最大化</target>
+        <target state="translated">从角落拖入则顶部⅙；否则最大化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top/bottom halves" xml:space="preserve">
