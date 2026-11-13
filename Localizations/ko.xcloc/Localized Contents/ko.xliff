@@ -1000,21 +1000,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">Multitouch에 관하여</target>
         <note from="auto-generated">Title of the About window.</note>
       </trans-unit>
-      <trans-unit id="Activate License…" xml:space="preserve">
-        <source>Activate License…</source>
-        <target state="needs-review-l10n">라이선스 활성화…</target>
-        <note>Menu item and settings button that opens the window for entering a license code.</note>
-      </trans-unit>
-      <trans-unit id="Activate Multitouch" xml:space="preserve">
-        <source>Activate Multitouch</source>
-        <target state="needs-review-l10n">Multitouch 활성화</target>
-        <note>Title of the window for entering a license code.</note>
-      </trans-unit>
-      <trans-unit id="Add" xml:space="preserve">
-        <source>Add</source>
-        <target state="needs-review-l10n">추가</target>
-        <note from="auto-generated">Text for a button to add a keyboard shortcut.</note>
-      </trans-unit>
       <trans-unit id="Add Gesture" xml:space="preserve">
         <source>Add Gesture</source>
         <target state="needs-review-l10n">제스처 추가</target>
@@ -1060,11 +1045,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">앱 Exposé</target>
         <note from="auto-generated">Text for the App Exposé button.</note>
       </trans-unit>
-      <trans-unit id="App Settings" xml:space="preserve">
-        <source>App Settings</source>
-        <target state="needs-review-l10n">앱 설정</target>
-        <note from="auto-generated">Display name for the MultitouchSettings.appSettings case.</note>
-      </trans-unit>
       <trans-unit id="App left half" xml:space="preserve">
         <source>App left half</source>
         <target state="needs-review-l10n">앱 왼쪽 절반</target>
@@ -1095,16 +1075,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">탭이 있는 앱</target>
         <note from="auto-generated">Text for the "Apps with tabs" receiver type.</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to remove this device from your activations?" xml:space="preserve">
-        <source>Are you sure you want to remove this device from your activations?</source>
-        <target state="needs-review-l10n">활성화된 기기 목록에서 이 기기를 제거하시겠습니까?</target>
-        <note from="auto-generated">Confirmation dialog question for removing a device from the user's activations.</note>
-      </trans-unit>
-      <trans-unit id="Are you sure you want to restore the default shortcuts and snap areas?" xml:space="preserve">
-        <source>Are you sure you want to restore the default shortcuts and snap areas?</source>
-        <target state="needs-review-l10n">기본 단축키와 스냅 영역으로 복원하시겠습니까?</target>
-        <note from="auto-generated">A confirmation dialog for restoring default shortcuts and snap areas.</note>
-      </trans-unit>
       <trans-unit id="Avoid private framework" xml:space="preserve">
         <source>Avoid private framework</source>
         <target state="needs-review-l10n">비공개 프레임워크 사용 안 함</target>
@@ -1115,34 +1085,9 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">Bash 명령</target>
         <note from="auto-generated">Label for the execute action type "Bash command".</note>
       </trans-unit>
-      <trans-unit id="Bottom Center Sixth" xml:space="preserve">
-        <source>Bottom Center Sixth</source>
-        <target state="needs-review-l10n">하단 중앙 1/6</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Bottom Half" xml:space="preserve">
         <source>Bottom Half</source>
         <target state="needs-review-l10n">하단 절반</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Left" xml:space="preserve">
-        <source>Bottom Left</source>
-        <target state="needs-review-l10n">하단 왼쪽</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Left Sixth" xml:space="preserve">
-        <source>Bottom Left Sixth</source>
-        <target state="needs-review-l10n">하단 왼쪽 1/6</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Right" xml:space="preserve">
-        <source>Bottom Right</source>
-        <target state="needs-review-l10n">하단 오른쪽</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Right Sixth" xml:space="preserve">
-        <source>Bottom Right Sixth</source>
-        <target state="needs-review-l10n">하단 오른쪽 1/6</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness Down" xml:space="preserve">
@@ -1155,20 +1100,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">밝기 높이기</target>
         <note from="auto-generated">Text for the "Brightness Up" key on a keyboard.</note>
       </trans-unit>
-      <trans-unit id="Browsers" xml:space="preserve">
-        <source>Browsers</source>
-        <target state="needs-review-l10n">브라우저</target>
-        <note from="auto-generated">Plural form of "Browser".</note>
-      </trans-unit>
       <trans-unit id="Button Mouse" xml:space="preserve">
         <source>Button Mouse</source>
         <target state="needs-review-l10n">버튼 마우스</target>
         <note from="auto-generated">Type of trigger for a button mouse.</note>
-      </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target state="needs-review-l10n">취소</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Cascade all windows" xml:space="preserve">
         <source>Cascade all windows</source>
@@ -1183,11 +1118,6 @@ If you really want to use this key combination, most shortcuts can be changed in
       <trans-unit id="Center Half" xml:space="preserve">
         <source>Center Half</source>
         <target state="needs-review-l10n">중앙 절반</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Center Third" xml:space="preserve">
-        <source>Center Third</source>
-        <target state="needs-review-l10n">중앙 1/3</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center on display with cursor" xml:space="preserve">
@@ -1214,16 +1144,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Center window</source>
         <target state="needs-review-l10n">창 가운데로</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Check for Updates…" xml:space="preserve">
-        <source>Check for Updates…</source>
-        <target state="needs-review-l10n">업데이트 확인…</target>
-        <note from="auto-generated">The title of the check for updates button.</note>
-      </trans-unit>
-      <trans-unit id="Check for updates automatically" xml:space="preserve">
-        <source>Check for updates automatically</source>
-        <target state="needs-review-l10n">자동으로 업데이트 확인</target>
-        <note from="auto-generated">A toggle that allows users to enable or disable automatic update checking for the app.</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
@@ -1424,45 +1344,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">텍스트 선택 커서가 표시될 때 제스처를 실행하면 복사한 텍스트가 붙여넣어집니다.</target>
         <note from="auto-generated">Tooltip for the Linux Middle Click gesture.</note>
       </trans-unit>
-      <trans-unit id="Export Config" xml:space="preserve">
-        <source>Export Config</source>
-        <target state="needs-review-l10n">구성 내보내기</target>
-        <note from="auto-generated">A button that exports the user's configuration.</note>
-      </trans-unit>
-      <trans-unit id="First Fourth" xml:space="preserve">
-        <source>First Fourth</source>
-        <target state="needs-review-l10n">첫 번째 1/4</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Sixth" xml:space="preserve">
-        <source>First Sixth</source>
-        <target state="needs-review-l10n">첫 번째 1/6</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Third" xml:space="preserve">
-        <source>First Third</source>
-        <target state="needs-review-l10n">첫 번째 1/3</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Three Fourths" xml:space="preserve">
-        <source>First Three Fourths</source>
-        <target state="needs-review-l10n">첫 번째 3/4</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Two Thirds" xml:space="preserve">
-        <source>First Two Thirds</source>
-        <target state="needs-review-l10n">첫 번째 2/3</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Five Touch" xml:space="preserve">
         <source>Five Touch</source>
         <target state="needs-review-l10n">다섯 손가락</target>
         <note from="auto-generated">Name of the multitouch gesture category for five-finger trackpad input.</note>
-      </trans-unit>
-      <trans-unit id="Focus window under cursor" xml:space="preserve">
-        <source>Focus window under cursor</source>
-        <target state="needs-review-l10n">커서 아래 창에 포커스</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Force Touch" xml:space="preserve">
         <source>Force Touch</source>
@@ -1534,11 +1419,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">제스처로 커서 아래의 창을 스냅</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Global" xml:space="preserve">
-        <source>Global</source>
-        <target state="needs-review-l10n">전역</target>
-        <note from="auto-generated">Name of the multitouch app group that allows global multitouch settings.</note>
-      </trans-unit>
       <trans-unit id="Go to first tab" xml:space="preserve">
         <source>Go to first tab</source>
         <target state="needs-review-l10n">첫 번째 탭으로 이동</target>
@@ -1589,11 +1469,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">이 설정을 비활성화하면 별도로 지정하지 않는 한 이 동작들은 맨 앞의 창에 적용됩니다.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation." xml:space="preserve">
-        <source>If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation.</source>
-        <target state="needs-review-l10n">라이선스 활성화를 모두 사용했다면 가장 오래된 활성화를 제거할 수 있습니다. 비활성화하려면 라이선스 키를 입력하세요.</target>
-        <note from="auto-generated">A message displayed in an alert when the user wants to remove the oldest license activation.</note>
-      </trans-unit>
       <trans-unit id="Ignore Windows in frontmost.app" xml:space="preserve">
         <source>Ignore Windows in frontmost.app</source>
         <target state="needs-review-l10n">frontmost.app의 창 무시</target>
@@ -1603,11 +1478,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Ignore frontmost.app</source>
         <target state="needs-review-l10n">frontmost.app 무시</target>
         <note from="auto-generated">Menu item title to ignore the currently active application.</note>
-      </trans-unit>
-      <trans-unit id="Import Config" xml:space="preserve">
-        <source>Import Config</source>
-        <target state="needs-review-l10n">구성 가져오기</target>
-        <note from="auto-generated">A button that imports a configuration file.</note>
       </trans-unit>
       <trans-unit id="Important note on dominant hand with your configuration" xml:space="preserve">
         <source>Important note on dominant hand with your configuration</source>
@@ -1653,31 +1523,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Keystroke Recording</source>
         <target state="needs-review-l10n">키 입력 기록</target>
         <note from="auto-generated">Label for the keystroke recording receiver.</note>
-      </trans-unit>
-      <trans-unit id="Last Fourth" xml:space="preserve">
-        <source>Last Fourth</source>
-        <target state="needs-review-l10n">마지막 1/4</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Sixth" xml:space="preserve">
-        <source>Last Sixth</source>
-        <target state="needs-review-l10n">마지막 1/6</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Third" xml:space="preserve">
-        <source>Last Third</source>
-        <target state="needs-review-l10n">마지막 1/3</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Three Fourths" xml:space="preserve">
-        <source>Last Three Fourths</source>
-        <target state="needs-review-l10n">마지막 3/4</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Two Thirds" xml:space="preserve">
-        <source>Last Two Thirds</source>
-        <target state="needs-review-l10n">마지막 2/3</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Launch Application" xml:space="preserve">
         <source>Launch Application</source>
@@ -1728,11 +1573,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Left and Right Click</source>
         <target state="needs-review-l10n">왼쪽 및 오른쪽 클릭</target>
         <note from="auto-generated">The text for the left and right click action.</note>
-      </trans-unit>
-      <trans-unit id="License activation not found" xml:space="preserve">
-        <source>License activation not found</source>
-        <target state="needs-review-l10n">라이선스 활성화를 찾을 수 없음</target>
-        <note from="auto-generated">The message displayed when the user tries to remove an activation that doesn't exist.</note>
       </trans-unit>
       <trans-unit id="License key" xml:space="preserve">
         <source>License key</source>
@@ -1929,20 +1769,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">음소거</target>
         <note from="auto-generated">Text for the mute key on a keyboard.</note>
       </trans-unit>
-      <trans-unit id="Next Space" xml:space="preserve">
-        <source>Next Space</source>
-        <target state="needs-review-l10n">다음 Space</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Next Space (⌃→)" xml:space="preserve">
         <source>Next Space (⌃→)</source>
         <target state="needs-review-l10n">다음 Space (⌃→)</target>
         <note from="auto-generated">Text displayed in a notification when the user is not a member.</note>
-      </trans-unit>
-      <trans-unit id="Next display, maximize" xml:space="preserve">
-        <source>Next display, maximize</source>
-        <target state="needs-review-l10n">다음 디스플레이, 최대화</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Next window (⌘`)" xml:space="preserve">
         <source>Next window (⌘`)</source>
@@ -1954,20 +1784,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">호환되는 터치 입력 기기가 감지되지 않음</target>
         <note from="auto-generated">Header text when no compatible touch input devices are detected.</note>
       </trans-unit>
-      <trans-unit id="No Connection" xml:space="preserve">
-        <source>No Connection</source>
-        <target state="needs-review-l10n">연결 없음</target>
-        <note from="auto-generated">Title of an alert that is displayed when the user tries to purchase a product but there is no internet connection.</note>
-      </trans-unit>
       <trans-unit id="Not Configured" xml:space="preserve">
         <source>Not Configured</source>
         <target state="needs-review-l10n">구성되지 않음</target>
         <note from="auto-generated">Text displayed when a gesture is not configured.</note>
-      </trans-unit>
-      <trans-unit id="Not Found" xml:space="preserve">
-        <source>Not Found</source>
-        <target state="needs-review-l10n">찾을 수 없음</target>
-        <note from="auto-generated">A title for an alert that indicates a license activation was not found.</note>
       </trans-unit>
       <trans-unit id="Note that not all tab actions are supported by all apps" xml:space="preserve">
         <source>Note that not all tab actions are supported by all apps</source>
@@ -1983,11 +1803,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>OK</source>
         <target state="needs-review-l10n">확인</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Oldest license activation removed" xml:space="preserve">
-        <source>Oldest license activation removed</source>
-        <target state="needs-review-l10n">가장 오래된 라이선스 활성화가 제거됨</target>
-        <note from="auto-generated">A success message displayed when the oldest license activation is removed.</note>
       </trans-unit>
       <trans-unit id="One Touch" xml:space="preserve">
         <source>One Touch</source>
@@ -2064,16 +1879,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">사전 구성된 모음</target>
         <note from="auto-generated">Name of the preconfigured gesture category.</note>
       </trans-unit>
-      <trans-unit id="Prev display, maximize" xml:space="preserve">
-        <source>Prev display, maximize</source>
-        <target state="needs-review-l10n">이전 디스플레이, 최대화</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Previous Space" xml:space="preserve">
-        <source>Previous Space</source>
-        <target state="needs-review-l10n">이전 Space</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Previous Space (⌃←)" xml:space="preserve">
         <source>Previous Space (⌃←)</source>
         <target state="needs-review-l10n">이전 Space (⌃←)</target>
@@ -2088,11 +1893,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Provide haptic feedback where possible</source>
         <target state="needs-review-l10n">가능한 경우 햅틱 피드백 제공</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Purchase" xml:space="preserve">
-        <source>Purchase</source>
-        <target state="needs-review-l10n">구매</target>
-        <note from="auto-generated">Title of the button that allows the user to activate or remove the license for Multitouch.</note>
       </trans-unit>
       <trans-unit id="Purchase (%lld days left)" xml:space="preserve">
         <source>Purchase (%lld days left)</source>
@@ -2123,25 +1923,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">다시 실행</target>
         <note from="auto-generated">Label for the multitouch action to relaunch the app.</note>
       </trans-unit>
-      <trans-unit id="Relaunch on wake" xml:space="preserve">
-        <source>Relaunch on wake</source>
-        <target state="needs-review-l10n">잠자기 해제 시 다시 시작</target>
-        <note from="auto-generated">A toggle that allows the user to restart Multitouch when the device wakes.</note>
-      </trans-unit>
       <trans-unit id="Reload Page" xml:space="preserve">
         <source>Reload Page</source>
         <target state="needs-review-l10n">페이지 새로 고침</target>
         <note from="auto-generated">Label for the browser action to reload the current page.</note>
-      </trans-unit>
-      <trans-unit id="Remove" xml:space="preserve">
-        <source>Remove</source>
-        <target state="needs-review-l10n">제거</target>
-        <note from="auto-generated">The title of a button that removes a device from the list of activated devices.</note>
-      </trans-unit>
-      <trans-unit id="Remove License Activation" xml:space="preserve">
-        <source>Remove License Activation</source>
-        <target state="needs-review-l10n">라이선스 활성화 제거</target>
-        <note from="auto-generated">Button title when the app is activated.</note>
       </trans-unit>
       <trans-unit id="Remove Oldest Activation" xml:space="preserve">
         <source>Remove Oldest Activation</source>
@@ -2338,16 +2123,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">두 손가락을 올려두고 오른쪽을 한 손가락으로 탭</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Restore Default Shortcuts &amp; Snap Areas" xml:space="preserve">
-        <source>Restore Default Shortcuts &amp; Snap Areas</source>
-        <target state="needs-review-l10n">기본 단축키 및 스냅 영역 복원</target>
-        <note from="auto-generated">A button that restores default shortcuts and snap areas.</note>
-      </trans-unit>
-      <trans-unit id="Restore Defaults" xml:space="preserve">
-        <source>Restore Defaults</source>
-        <target state="needs-review-l10n">기본값 복원</target>
-        <note from="auto-generated">A confirmation dialog for restoring default settings.</note>
-      </trans-unit>
       <trans-unit id="Restore to before snap" xml:space="preserve">
         <source>Restore to before snap</source>
         <target state="needs-review-l10n">스냅 이전으로 복원</target>
@@ -2357,11 +2132,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Restrictions</source>
         <target state="needs-review-l10n">제한</target>
         <note from="auto-generated">The title of the button that expands/collapses the restrictions section.</note>
-      </trans-unit>
-      <trans-unit id="Reveal Desktop Edge" xml:space="preserve">
-        <source>Reveal Desktop Edge</source>
-        <target state="needs-review-l10n">데스크탑 가장자리 드러내기</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
         <source>Right</source>
@@ -2382,11 +2152,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Run AppleScript</source>
         <target state="needs-review-l10n">AppleScript 실행</target>
         <note from="auto-generated">Label for the Run AppleScript action in the Multitouch app.</note>
-      </trans-unit>
-      <trans-unit id="Save Current Layout…" xml:space="preserve">
-        <source>Save Current Layout…</source>
-        <target state="needs-review-l10n">현재 레이아웃 저장…</target>
-        <note from="auto-generated">Text for the menu item to save the current multitouch layout.</note>
       </trans-unit>
       <trans-unit id="Screenshot copy (⌃⌘⇧4)" xml:space="preserve">
         <source>Screenshot copy (⌃⌘⇧4)</source>
@@ -2423,20 +2188,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">그림자 없이 창 스크린샷</target>
         <note from="auto-generated">Screenshot of the current window without the shadow.</note>
       </trans-unit>
-      <trans-unit id="Second Fourth" xml:space="preserve">
-        <source>Second Fourth</source>
-        <target state="needs-review-l10n">두 번째 1/4</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures." xml:space="preserve">
         <source>Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures.</source>
         <target state="needs-review-l10n">주로 사용하는 손을 선택하면 해당 제스처에서 올려둔 손가락의 왼쪽 또는 오른쪽에 있는 손가락을 판단하는 축이 조정됩니다.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Settings…" xml:space="preserve">
-        <source>Settings…</source>
-        <target state="needs-review-l10n">설정…</target>
-        <note from="auto-generated">Title of the settings menu item.</note>
       </trans-unit>
       <trans-unit id="Shortcut &amp; Key Entry" xml:space="preserve">
         <source>Shortcut &amp; Key Entry</source>
@@ -2497,11 +2252,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Submit</source>
         <target state="needs-review-l10n">제출</target>
         <note from="auto-generated">A button that submits the license key for deactivation.</note>
-      </trans-unit>
-      <trans-unit id="Success" xml:space="preserve">
-        <source>Success</source>
-        <target state="needs-review-l10n">성공</target>
-        <note from="auto-generated">A label for a successful action.</note>
       </trans-unit>
       <trans-unit id="Swipe Sensitivity" xml:space="preserve">
         <source>Swipe Sensitivity</source>
@@ -2593,11 +2343,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">오른쪽 탭으로 전환</target>
         <note from="auto-generated">Label for the "Switch tabs right" multitouch action.</note>
       </trans-unit>
-      <trans-unit id="Sync configuration over iCloud" xml:space="preserve">
-        <source>Sync configuration over iCloud</source>
-        <target state="needs-review-l10n">iCloud를 통해 구성 동기화</target>
-        <note from="auto-generated">A toggle that allows users to sync their Multitouch configuration over iCloud.</note>
-      </trans-unit>
       <trans-unit id="Synchronize clicks" xml:space="preserve">
         <source>Synchronize clicks</source>
         <target state="needs-review-l10n">클릭 동기화</target>
@@ -2607,11 +2352,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Synchronize the trackpad down and up of click gestures with click actions instead of executing actions after up. Not recommended when tap to click is enabled.</source>
         <target state="needs-review-l10n">클릭 제스처에서 트랙패드를 누르고 떼는 동작을 클릭 동작과 동기화합니다(뗀 후에 동작을 실행하지 않음). '탭하여 클릭하기'가 활성화되어 있으면 권장하지 않습니다.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Tabbed Apps" xml:space="preserve">
-        <source>Tabbed Apps</source>
-        <target state="needs-review-l10n">탭이 있는 앱</target>
-        <note from="auto-generated">The name of the category for multitouch apps that can be opened in multiple tabs.</note>
       </trans-unit>
       <trans-unit id="Tap one on the left half" xml:space="preserve">
         <source>Tap one on the left half</source>
@@ -2718,11 +2458,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">그런 다음 Multitouch를 다시 실행하고, 메시지가 표시되면 시스템 설정에서 확인란을 다시 선택하세요.</target>
         <note from="auto-generated">Text to be displayed in a warning banner at the top of the screen.</note>
       </trans-unit>
-      <trans-unit id="Third Fourth" xml:space="preserve">
-        <source>Third Fourth</source>
-        <target state="needs-review-l10n">세 번째 1/4</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="This gesture will conflict with the corresponding gesture in macOS." xml:space="preserve">
         <source>This gesture will conflict with the corresponding gesture in macOS.</source>
         <target state="needs-review-l10n">이 제스처는 macOS의 해당 제스처와 충돌합니다.</target>
@@ -2778,34 +2513,9 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">확대/축소 켜기/끄기 (⌥⌘8)</target>
         <note from="auto-generated">Text displayed in a button that toggles the zoom mode.</note>
       </trans-unit>
-      <trans-unit id="Top Center Sixth" xml:space="preserve">
-        <source>Top Center Sixth</source>
-        <target state="needs-review-l10n">상단 중앙 1/6</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Top Half" xml:space="preserve">
         <source>Top Half</source>
         <target state="needs-review-l10n">상단 절반</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Left" xml:space="preserve">
-        <source>Top Left</source>
-        <target state="needs-review-l10n">상단 왼쪽</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Left Sixth" xml:space="preserve">
-        <source>Top Left Sixth</source>
-        <target state="needs-review-l10n">상단 왼쪽 1/6</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Right" xml:space="preserve">
-        <source>Top Right</source>
-        <target state="needs-review-l10n">상단 오른쪽</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Right Sixth" xml:space="preserve">
-        <source>Top Right Sixth</source>
-        <target state="needs-review-l10n">상단 오른쪽 1/6</target>
         <note/>
       </trans-unit>
       <trans-unit id="Touch Precision" xml:space="preserve">
@@ -2848,16 +2558,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">UUID가 클립보드에 복사됨</target>
         <note from="auto-generated">Title of a notification when a UUID is copied to the clipboard.</note>
       </trans-unit>
-      <trans-unit id="Unable to deactivate license" xml:space="preserve">
-        <source>Unable to deactivate license</source>
-        <target state="needs-review-l10n">라이선스를 비활성화할 수 없습니다</target>
-        <note from="auto-generated">A title for an alert that occurs when the user tries to deactivate their license.</note>
-      </trans-unit>
-      <trans-unit id="Unable to initiate purchase without internet connection." xml:space="preserve">
-        <source>Unable to initiate purchase without internet connection.</source>
-        <target state="needs-review-l10n">인터넷에 연결되어 있지 않아 구매를 시작할 수 없습니다.</target>
-        <note from="auto-generated">Alert message displayed when the user tries to purchase a product while not connected to the internet.</note>
-      </trans-unit>
       <trans-unit id="Unable to listen to device input" xml:space="preserve">
         <source>Unable to listen to device input</source>
         <target state="needs-review-l10n">기기 입력을 수신할 수 없음</target>
@@ -2867,16 +2567,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Unable to remove license activation</source>
         <target state="needs-review-l10n">라이선스 활성화를 제거할 수 없음</target>
         <note from="auto-generated">Error message when the user tries to remove a license activation from the device.</note>
-      </trans-unit>
-      <trans-unit id="Unminimize all windows" xml:space="preserve">
-        <source>Unminimize all windows</source>
-        <target state="needs-review-l10n">모든 창 최소화 해제</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update Available…" xml:space="preserve">
-        <source>Update Available…</source>
-        <target state="needs-review-l10n">업데이트 가능…</target>
-        <note from="auto-generated">The title of a button that updates the user's software.</note>
       </trans-unit>
       <trans-unit id="Updating private framework usage" xml:space="preserve">
         <source>Updating private framework usage</source>
@@ -2933,20 +2623,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="needs-review-l10n">창 관리</target>
         <note from="auto-generated">Name of the receiver type that manages windows.</note>
       </trans-unit>
-      <trans-unit id="Window Throw" xml:space="preserve">
-        <source>Window Throw</source>
-        <target state="needs-review-l10n">창 던지기</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Window management requires accessibility authorization." xml:space="preserve">
         <source>Window management requires accessibility authorization.</source>
         <target state="needs-review-l10n">창 관리에는 손쉬운 사용 권한이 필요합니다.</target>
         <note from="auto-generated">Tooltip text for the Window Management receiver type.</note>
-      </trans-unit>
-      <trans-unit id="You can reactivate with your license key at any time." xml:space="preserve">
-        <source>You can reactivate with your license key at any time.</source>
-        <target state="needs-review-l10n">보유하신 라이선스 키를 사용하여 언제든지 다시 활성화할 수 있습니다.</target>
-        <note from="auto-generated">Text displayed in a dialog when the user confirms removing a device from their activations.</note>
       </trans-unit>
       <trans-unit id="You've already used this shortcut." xml:space="preserve">
         <source>You've already used this shortcut.</source>
@@ -4752,15 +4432,15 @@ This makes it easier to have multiple stashed windows on each side where only on
         <target state="needs-review-l10n">활성화</target>
         <note from="auto-generated">Title of the button to activate the license.</note>
       </trans-unit>
+      <trans-unit id="Activate %@" xml:space="preserve">
+        <source>Activate %@</source>
+        <target state="needs-review-l10n">%@ 활성화</target>
+        <note>Title of the license activation window. The argument is the app name.</note>
+      </trans-unit>
       <trans-unit id="Activate License…" xml:space="preserve">
         <source>Activate License…</source>
         <target state="needs-review-l10n">라이선스 활성화…</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Activate Rectangle Pro" xml:space="preserve">
-        <source>Activate Rectangle Pro</source>
-        <target state="needs-review-l10n">Rectangle Pro 활성화</target>
-        <note from="auto-generated">Title of the product's license activation window.</note>
       </trans-unit>
       <trans-unit id="Activation Limit Reached" xml:space="preserve">
         <source>Activation Limit Reached</source>
@@ -7061,17 +6741,6 @@ This makes it easier to have multiple stashed windows on each side where only on
         <source>≤ 1 for % of screen</source>
         <target state="needs-review-l10n">≤ 1이면 화면 비율</target>
         <note from="auto-generated">Description of a numeric field that can be a fraction, whole, or decimal.</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Rectangle Pro/Multitouch.xcstrings" source-language="en" target-language="ko" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="27.2" build-num="27B52"/>
-    </header>
-    <body>
-      <trans-unit id="Activate Multitouch" xml:space="preserve">
-        <source>Activate Multitouch</source>
-        <note/>
       </trans-unit>
     </body>
   </file>

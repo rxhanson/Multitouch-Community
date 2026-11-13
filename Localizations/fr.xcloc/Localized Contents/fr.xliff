@@ -1000,21 +1000,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">À propos de Multitouch</target>
         <note from="auto-generated">Title of the About window.</note>
       </trans-unit>
-      <trans-unit id="Activate License…" xml:space="preserve">
-        <source>Activate License…</source>
-        <target state="needs-review-l10n">Activer la licence…</target>
-        <note>Menu item and settings button that opens the window for entering a license code.</note>
-      </trans-unit>
-      <trans-unit id="Activate Multitouch" xml:space="preserve">
-        <source>Activate Multitouch</source>
-        <target state="needs-review-l10n">Activer Multitouch</target>
-        <note>Title of the window for entering a license code.</note>
-      </trans-unit>
-      <trans-unit id="Add" xml:space="preserve">
-        <source>Add</source>
-        <target state="needs-review-l10n">Ajouter</target>
-        <note from="auto-generated">Text for a button to add a keyboard shortcut.</note>
-      </trans-unit>
       <trans-unit id="Add Gesture" xml:space="preserve">
         <source>Add Gesture</source>
         <target state="needs-review-l10n">Ajouter un geste</target>
@@ -1060,11 +1045,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Exposé des apps</target>
         <note from="auto-generated">Text for the App Exposé button.</note>
       </trans-unit>
-      <trans-unit id="App Settings" xml:space="preserve">
-        <source>App Settings</source>
-        <target state="needs-review-l10n">Réglages de l'app</target>
-        <note from="auto-generated">Display name for the MultitouchSettings.appSettings case.</note>
-      </trans-unit>
       <trans-unit id="App left half" xml:space="preserve">
         <source>App left half</source>
         <target state="needs-review-l10n">App sur la moitié gauche</target>
@@ -1095,16 +1075,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Apps à onglets</target>
         <note from="auto-generated">Text for the "Apps with tabs" receiver type.</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to remove this device from your activations?" xml:space="preserve">
-        <source>Are you sure you want to remove this device from your activations?</source>
-        <target state="needs-review-l10n">Voulez-vous vraiment retirer cet appareil de vos activations ?</target>
-        <note from="auto-generated">Confirmation dialog question for removing a device from the user's activations.</note>
-      </trans-unit>
-      <trans-unit id="Are you sure you want to restore the default shortcuts and snap areas?" xml:space="preserve">
-        <source>Are you sure you want to restore the default shortcuts and snap areas?</source>
-        <target state="needs-review-l10n">Voulez-vous vraiment restaurer les raccourcis et les zones d'aimantation par défaut ?</target>
-        <note from="auto-generated">A confirmation dialog for restoring default shortcuts and snap areas.</note>
-      </trans-unit>
       <trans-unit id="Avoid private framework" xml:space="preserve">
         <source>Avoid private framework</source>
         <target state="needs-review-l10n">Éviter le framework privé</target>
@@ -1115,34 +1085,9 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Commande Bash</target>
         <note from="auto-generated">Label for the execute action type "Bash command".</note>
       </trans-unit>
-      <trans-unit id="Bottom Center Sixth" xml:space="preserve">
-        <source>Bottom Center Sixth</source>
-        <target state="needs-review-l10n">Sixième bas centre</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Bottom Half" xml:space="preserve">
         <source>Bottom Half</source>
         <target state="needs-review-l10n">Moitié inférieure</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Left" xml:space="preserve">
-        <source>Bottom Left</source>
-        <target state="needs-review-l10n">En bas à gauche</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Left Sixth" xml:space="preserve">
-        <source>Bottom Left Sixth</source>
-        <target state="needs-review-l10n">Sixième bas gauche</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Right" xml:space="preserve">
-        <source>Bottom Right</source>
-        <target state="needs-review-l10n">En bas à droite</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Right Sixth" xml:space="preserve">
-        <source>Bottom Right Sixth</source>
-        <target state="needs-review-l10n">Sixième bas droit</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness Down" xml:space="preserve">
@@ -1155,20 +1100,10 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Augmenter la luminosité</target>
         <note from="auto-generated">Text for the "Brightness Up" key on a keyboard.</note>
       </trans-unit>
-      <trans-unit id="Browsers" xml:space="preserve">
-        <source>Browsers</source>
-        <target state="needs-review-l10n">Navigateurs</target>
-        <note from="auto-generated">Plural form of "Browser".</note>
-      </trans-unit>
       <trans-unit id="Button Mouse" xml:space="preserve">
         <source>Button Mouse</source>
         <target state="needs-review-l10n">Souris à boutons</target>
         <note from="auto-generated">Type of trigger for a button mouse.</note>
-      </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target state="needs-review-l10n">Annuler</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Cascade all windows" xml:space="preserve">
         <source>Cascade all windows</source>
@@ -1183,11 +1118,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
       <trans-unit id="Center Half" xml:space="preserve">
         <source>Center Half</source>
         <target state="needs-review-l10n">Moitié centrale</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Center Third" xml:space="preserve">
-        <source>Center Third</source>
-        <target state="needs-review-l10n">Tiers central</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center on display with cursor" xml:space="preserve">
@@ -1214,16 +1144,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Center window</source>
         <target state="needs-review-l10n">Centrer la fenêtre</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Check for Updates…" xml:space="preserve">
-        <source>Check for Updates…</source>
-        <target state="needs-review-l10n">Rechercher les mises à jour…</target>
-        <note from="auto-generated">The title of the check for updates button.</note>
-      </trans-unit>
-      <trans-unit id="Check for updates automatically" xml:space="preserve">
-        <source>Check for updates automatically</source>
-        <target state="needs-review-l10n">Rechercher automatiquement les mises à jour</target>
-        <note from="auto-generated">A toggle that allows users to enable or disable automatic update checking for the app.</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
@@ -1424,45 +1344,10 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Lorsque le curseur de sélection de texte est affiché, le geste colle le texte copié.</target>
         <note from="auto-generated">Tooltip for the Linux Middle Click gesture.</note>
       </trans-unit>
-      <trans-unit id="Export Config" xml:space="preserve">
-        <source>Export Config</source>
-        <target state="needs-review-l10n">Exporter la configuration</target>
-        <note from="auto-generated">A button that exports the user's configuration.</note>
-      </trans-unit>
-      <trans-unit id="First Fourth" xml:space="preserve">
-        <source>First Fourth</source>
-        <target state="needs-review-l10n">Premier quart</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Sixth" xml:space="preserve">
-        <source>First Sixth</source>
-        <target state="needs-review-l10n">Premier sixième</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Third" xml:space="preserve">
-        <source>First Third</source>
-        <target state="needs-review-l10n">Premier tiers</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Three Fourths" xml:space="preserve">
-        <source>First Three Fourths</source>
-        <target state="needs-review-l10n">Premiers trois quarts</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Two Thirds" xml:space="preserve">
-        <source>First Two Thirds</source>
-        <target state="needs-review-l10n">Premiers deux tiers</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Five Touch" xml:space="preserve">
         <source>Five Touch</source>
         <target state="needs-review-l10n">Cinq doigts</target>
         <note from="auto-generated">Name of the multitouch gesture category for five-finger trackpad input.</note>
-      </trans-unit>
-      <trans-unit id="Focus window under cursor" xml:space="preserve">
-        <source>Focus window under cursor</source>
-        <target state="needs-review-l10n">Activer la fenêtre sous le pointeur</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Force Touch" xml:space="preserve">
         <source>Force Touch</source>
@@ -1534,11 +1419,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Les gestes aimantent la fenêtre sous le pointeur</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Global" xml:space="preserve">
-        <source>Global</source>
-        <target state="needs-review-l10n">Global</target>
-        <note from="auto-generated">Name of the multitouch app group that allows global multitouch settings.</note>
-      </trans-unit>
       <trans-unit id="Go to first tab" xml:space="preserve">
         <source>Go to first tab</source>
         <target state="needs-review-l10n">Aller au premier onglet</target>
@@ -1589,11 +1469,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Si ce réglage est désactivé, ces actions s'appliquent à la fenêtre au premier plan, sauf indication contraire.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation." xml:space="preserve">
-        <source>If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation.</source>
-        <target state="needs-review-l10n">Si toutes vos activations de licence sont utilisées, vous pouvez supprimer la plus ancienne. Saisissez votre clé de licence pour la désactivation.</target>
-        <note from="auto-generated">A message displayed in an alert when the user wants to remove the oldest license activation.</note>
-      </trans-unit>
       <trans-unit id="Ignore Windows in frontmost.app" xml:space="preserve">
         <source>Ignore Windows in frontmost.app</source>
         <target state="needs-review-l10n">Ignorer les fenêtres de frontmost.app</target>
@@ -1603,11 +1478,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Ignore frontmost.app</source>
         <target state="needs-review-l10n">Ignorer frontmost.app</target>
         <note from="auto-generated">Menu item title to ignore the currently active application.</note>
-      </trans-unit>
-      <trans-unit id="Import Config" xml:space="preserve">
-        <source>Import Config</source>
-        <target state="needs-review-l10n">Importer la configuration</target>
-        <note from="auto-generated">A button that imports a configuration file.</note>
       </trans-unit>
       <trans-unit id="Important note on dominant hand with your configuration" xml:space="preserve">
         <source>Important note on dominant hand with your configuration</source>
@@ -1653,31 +1523,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Keystroke Recording</source>
         <target state="needs-review-l10n">Enregistrement de frappes</target>
         <note from="auto-generated">Label for the keystroke recording receiver.</note>
-      </trans-unit>
-      <trans-unit id="Last Fourth" xml:space="preserve">
-        <source>Last Fourth</source>
-        <target state="needs-review-l10n">Dernier quart</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Sixth" xml:space="preserve">
-        <source>Last Sixth</source>
-        <target state="needs-review-l10n">Dernier sixième</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Third" xml:space="preserve">
-        <source>Last Third</source>
-        <target state="needs-review-l10n">Dernier tiers</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Three Fourths" xml:space="preserve">
-        <source>Last Three Fourths</source>
-        <target state="needs-review-l10n">Derniers trois quarts</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Two Thirds" xml:space="preserve">
-        <source>Last Two Thirds</source>
-        <target state="needs-review-l10n">Derniers deux tiers</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Launch Application" xml:space="preserve">
         <source>Launch Application</source>
@@ -1728,11 +1573,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Left and Right Click</source>
         <target state="needs-review-l10n">Clic gauche et droit</target>
         <note from="auto-generated">The text for the left and right click action.</note>
-      </trans-unit>
-      <trans-unit id="License activation not found" xml:space="preserve">
-        <source>License activation not found</source>
-        <target state="needs-review-l10n">Activation de licence introuvable</target>
-        <note from="auto-generated">The message displayed when the user tries to remove an activation that doesn't exist.</note>
       </trans-unit>
       <trans-unit id="License key" xml:space="preserve">
         <source>License key</source>
@@ -1929,20 +1769,10 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Silence</target>
         <note from="auto-generated">Text for the mute key on a keyboard.</note>
       </trans-unit>
-      <trans-unit id="Next Space" xml:space="preserve">
-        <source>Next Space</source>
-        <target state="needs-review-l10n">Space suivant</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Next Space (⌃→)" xml:space="preserve">
         <source>Next Space (⌃→)</source>
         <target state="needs-review-l10n">Space suivant (⌃→)</target>
         <note from="auto-generated">Text displayed in a notification when the user is not a member.</note>
-      </trans-unit>
-      <trans-unit id="Next display, maximize" xml:space="preserve">
-        <source>Next display, maximize</source>
-        <target state="needs-review-l10n">Écran suivant, maximiser</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Next window (⌘`)" xml:space="preserve">
         <source>Next window (⌘`)</source>
@@ -1954,20 +1784,10 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Aucun appareil de saisie tactile compatible détecté</target>
         <note from="auto-generated">Header text when no compatible touch input devices are detected.</note>
       </trans-unit>
-      <trans-unit id="No Connection" xml:space="preserve">
-        <source>No Connection</source>
-        <target state="needs-review-l10n">Aucune connexion</target>
-        <note from="auto-generated">Title of an alert that is displayed when the user tries to purchase a product but there is no internet connection.</note>
-      </trans-unit>
       <trans-unit id="Not Configured" xml:space="preserve">
         <source>Not Configured</source>
         <target state="needs-review-l10n">Non configuré</target>
         <note from="auto-generated">Text displayed when a gesture is not configured.</note>
-      </trans-unit>
-      <trans-unit id="Not Found" xml:space="preserve">
-        <source>Not Found</source>
-        <target state="needs-review-l10n">Introuvable</target>
-        <note from="auto-generated">A title for an alert that indicates a license activation was not found.</note>
       </trans-unit>
       <trans-unit id="Note that not all tab actions are supported by all apps" xml:space="preserve">
         <source>Note that not all tab actions are supported by all apps</source>
@@ -1983,11 +1803,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>OK</source>
         <target state="needs-review-l10n">OK</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Oldest license activation removed" xml:space="preserve">
-        <source>Oldest license activation removed</source>
-        <target state="needs-review-l10n">Activation de licence la plus ancienne supprimée</target>
-        <note from="auto-generated">A success message displayed when the oldest license activation is removed.</note>
       </trans-unit>
       <trans-unit id="One Touch" xml:space="preserve">
         <source>One Touch</source>
@@ -2064,16 +1879,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Collections préconfigurées</target>
         <note from="auto-generated">Name of the preconfigured gesture category.</note>
       </trans-unit>
-      <trans-unit id="Prev display, maximize" xml:space="preserve">
-        <source>Prev display, maximize</source>
-        <target state="needs-review-l10n">Écran précédent, maximiser</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Previous Space" xml:space="preserve">
-        <source>Previous Space</source>
-        <target state="needs-review-l10n">Space précédent</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Previous Space (⌃←)" xml:space="preserve">
         <source>Previous Space (⌃←)</source>
         <target state="needs-review-l10n">Space précédent (⌃←)</target>
@@ -2088,11 +1893,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Provide haptic feedback where possible</source>
         <target state="needs-review-l10n">Retour haptique si possible</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Purchase" xml:space="preserve">
-        <source>Purchase</source>
-        <target state="needs-review-l10n">Acheter</target>
-        <note from="auto-generated">Title of the button that allows the user to activate or remove the license for Multitouch.</note>
       </trans-unit>
       <trans-unit id="Purchase (%lld days left)|==|plural.one" xml:space="preserve">
         <source>Purchase (%lld days left)</source>
@@ -2128,25 +1928,10 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Relancer</target>
         <note from="auto-generated">Label for the multitouch action to relaunch the app.</note>
       </trans-unit>
-      <trans-unit id="Relaunch on wake" xml:space="preserve">
-        <source>Relaunch on wake</source>
-        <target state="needs-review-l10n">Redémarrer au réveil</target>
-        <note from="auto-generated">A toggle that allows the user to restart Multitouch when the device wakes.</note>
-      </trans-unit>
       <trans-unit id="Reload Page" xml:space="preserve">
         <source>Reload Page</source>
         <target state="needs-review-l10n">Recharger la page</target>
         <note from="auto-generated">Label for the browser action to reload the current page.</note>
-      </trans-unit>
-      <trans-unit id="Remove" xml:space="preserve">
-        <source>Remove</source>
-        <target state="needs-review-l10n">Supprimer</target>
-        <note from="auto-generated">The title of a button that removes a device from the list of activated devices.</note>
-      </trans-unit>
-      <trans-unit id="Remove License Activation" xml:space="preserve">
-        <source>Remove License Activation</source>
-        <target state="needs-review-l10n">Supprimer l'activation de licence</target>
-        <note from="auto-generated">Button title when the app is activated.</note>
       </trans-unit>
       <trans-unit id="Remove Oldest Activation" xml:space="preserve">
         <source>Remove Oldest Activation</source>
@@ -2343,16 +2128,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Poser deux doigts, toucher avec un autre à droite</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Restore Default Shortcuts &amp; Snap Areas" xml:space="preserve">
-        <source>Restore Default Shortcuts &amp; Snap Areas</source>
-        <target state="needs-review-l10n">Restaurer les raccourcis et zones d'aimantation par défaut</target>
-        <note from="auto-generated">A button that restores default shortcuts and snap areas.</note>
-      </trans-unit>
-      <trans-unit id="Restore Defaults" xml:space="preserve">
-        <source>Restore Defaults</source>
-        <target state="needs-review-l10n">Restaurer les paramètres par défaut</target>
-        <note from="auto-generated">A confirmation dialog for restoring default settings.</note>
-      </trans-unit>
       <trans-unit id="Restore to before snap" xml:space="preserve">
         <source>Restore to before snap</source>
         <target state="needs-review-l10n">Restaurer l'état d'avant l'aimantation</target>
@@ -2362,11 +2137,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Restrictions</source>
         <target state="needs-review-l10n">Restrictions</target>
         <note from="auto-generated">The title of the button that expands/collapses the restrictions section.</note>
-      </trans-unit>
-      <trans-unit id="Reveal Desktop Edge" xml:space="preserve">
-        <source>Reveal Desktop Edge</source>
-        <target state="needs-review-l10n">Afficher le bord du bureau</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
         <source>Right</source>
@@ -2387,11 +2157,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Run AppleScript</source>
         <target state="needs-review-l10n">Exécuter un AppleScript</target>
         <note from="auto-generated">Label for the Run AppleScript action in the Multitouch app.</note>
-      </trans-unit>
-      <trans-unit id="Save Current Layout…" xml:space="preserve">
-        <source>Save Current Layout…</source>
-        <target state="needs-review-l10n">Enregistrer la disposition actuelle…</target>
-        <note from="auto-generated">Text for the menu item to save the current multitouch layout.</note>
       </trans-unit>
       <trans-unit id="Screenshot copy (⌃⌘⇧4)" xml:space="preserve">
         <source>Screenshot copy (⌃⌘⇧4)</source>
@@ -2428,20 +2193,10 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Capture d'une fenêtre sans ombre</target>
         <note from="auto-generated">Screenshot of the current window without the shadow.</note>
       </trans-unit>
-      <trans-unit id="Second Fourth" xml:space="preserve">
-        <source>Second Fourth</source>
-        <target state="needs-review-l10n">Deuxième quart</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures." xml:space="preserve">
         <source>Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures.</source>
         <target state="needs-review-l10n">Choisir une main dominante ajuste l'axe utilisé pour déterminer quels doigts se trouvent à gauche ou à droite des doigts posés, pour les gestes concernés.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Settings…" xml:space="preserve">
-        <source>Settings…</source>
-        <target state="needs-review-l10n">Réglages…</target>
-        <note from="auto-generated">Title of the settings menu item.</note>
       </trans-unit>
       <trans-unit id="Shortcut &amp; Key Entry" xml:space="preserve">
         <source>Shortcut &amp; Key Entry</source>
@@ -2502,11 +2257,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Submit</source>
         <target state="needs-review-l10n">Envoyer</target>
         <note from="auto-generated">A button that submits the license key for deactivation.</note>
-      </trans-unit>
-      <trans-unit id="Success" xml:space="preserve">
-        <source>Success</source>
-        <target state="needs-review-l10n">Opération réussie</target>
-        <note from="auto-generated">A label for a successful action.</note>
       </trans-unit>
       <trans-unit id="Swipe Sensitivity" xml:space="preserve">
         <source>Swipe Sensitivity</source>
@@ -2598,11 +2348,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Passer à l'onglet de droite</target>
         <note from="auto-generated">Label for the "Switch tabs right" multitouch action.</note>
       </trans-unit>
-      <trans-unit id="Sync configuration over iCloud" xml:space="preserve">
-        <source>Sync configuration over iCloud</source>
-        <target state="needs-review-l10n">Synchroniser la configuration via iCloud</target>
-        <note from="auto-generated">A toggle that allows users to sync their Multitouch configuration over iCloud.</note>
-      </trans-unit>
       <trans-unit id="Synchronize clicks" xml:space="preserve">
         <source>Synchronize clicks</source>
         <target state="needs-review-l10n">Synchroniser les clics</target>
@@ -2612,11 +2357,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Synchronize the trackpad down and up of click gestures with click actions instead of executing actions after up. Not recommended when tap to click is enabled.</source>
         <target state="needs-review-l10n">Synchronise l'appui et le relâchement du trackpad des gestes de clic avec les actions de clic, au lieu d'exécuter l'action après le relâchement. Déconseillé si « Toucher pour cliquer » est activé.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Tabbed Apps" xml:space="preserve">
-        <source>Tabbed Apps</source>
-        <target state="needs-review-l10n">Apps à onglets</target>
-        <note from="auto-generated">The name of the category for multitouch apps that can be opened in multiple tabs.</note>
       </trans-unit>
       <trans-unit id="Tap one on the left half" xml:space="preserve">
         <source>Tap one on the left half</source>
@@ -2723,11 +2463,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Relancez ensuite Multitouch et cochez de nouveau la case dans les Réglages Système lorsque vous y êtes invité.</target>
         <note from="auto-generated">Text to be displayed in a warning banner at the top of the screen.</note>
       </trans-unit>
-      <trans-unit id="Third Fourth" xml:space="preserve">
-        <source>Third Fourth</source>
-        <target state="needs-review-l10n">Troisième quart</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="This gesture will conflict with the corresponding gesture in macOS." xml:space="preserve">
         <source>This gesture will conflict with the corresponding gesture in macOS.</source>
         <target state="needs-review-l10n">Ce geste entrera en conflit avec le geste correspondant de macOS.</target>
@@ -2783,34 +2518,9 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Activer/désactiver le zoom (⌥⌘8)</target>
         <note from="auto-generated">Text displayed in a button that toggles the zoom mode.</note>
       </trans-unit>
-      <trans-unit id="Top Center Sixth" xml:space="preserve">
-        <source>Top Center Sixth</source>
-        <target state="needs-review-l10n">Sixième haut centre</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Top Half" xml:space="preserve">
         <source>Top Half</source>
         <target state="needs-review-l10n">Moitié supérieure</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Left" xml:space="preserve">
-        <source>Top Left</source>
-        <target state="needs-review-l10n">En haut à gauche</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Left Sixth" xml:space="preserve">
-        <source>Top Left Sixth</source>
-        <target state="needs-review-l10n">Sixième haut gauche</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Right" xml:space="preserve">
-        <source>Top Right</source>
-        <target state="needs-review-l10n">En haut à droite</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Right Sixth" xml:space="preserve">
-        <source>Top Right Sixth</source>
-        <target state="needs-review-l10n">Sixième haut droit</target>
         <note/>
       </trans-unit>
       <trans-unit id="Touch Precision" xml:space="preserve">
@@ -2853,16 +2563,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">UUID copié dans le presse-papiers</target>
         <note from="auto-generated">Title of a notification when a UUID is copied to the clipboard.</note>
       </trans-unit>
-      <trans-unit id="Unable to deactivate license" xml:space="preserve">
-        <source>Unable to deactivate license</source>
-        <target state="needs-review-l10n">Impossible de désactiver la licence</target>
-        <note from="auto-generated">A title for an alert that occurs when the user tries to deactivate their license.</note>
-      </trans-unit>
-      <trans-unit id="Unable to initiate purchase without internet connection." xml:space="preserve">
-        <source>Unable to initiate purchase without internet connection.</source>
-        <target state="needs-review-l10n">Impossible de démarrer l'achat sans connexion Internet.</target>
-        <note from="auto-generated">Alert message displayed when the user tries to purchase a product while not connected to the internet.</note>
-      </trans-unit>
       <trans-unit id="Unable to listen to device input" xml:space="preserve">
         <source>Unable to listen to device input</source>
         <target state="needs-review-l10n">Impossible d'écouter les entrées de l'appareil</target>
@@ -2872,16 +2572,6 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <source>Unable to remove license activation</source>
         <target state="needs-review-l10n">Impossible de supprimer l'activation de licence</target>
         <note from="auto-generated">Error message when the user tries to remove a license activation from the device.</note>
-      </trans-unit>
-      <trans-unit id="Unminimize all windows" xml:space="preserve">
-        <source>Unminimize all windows</source>
-        <target state="needs-review-l10n">Restaurer toutes les fenêtres réduites</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update Available…" xml:space="preserve">
-        <source>Update Available…</source>
-        <target state="needs-review-l10n">Mise à jour disponible…</target>
-        <note from="auto-generated">The title of a button that updates the user's software.</note>
       </trans-unit>
       <trans-unit id="Updating private framework usage" xml:space="preserve">
         <source>Updating private framework usage</source>
@@ -2938,20 +2628,10 @@ Si vous voulez vraiment utiliser cette combinaison de touches, vous pouvez modif
         <target state="needs-review-l10n">Gestion des fenêtres</target>
         <note from="auto-generated">Name of the receiver type that manages windows.</note>
       </trans-unit>
-      <trans-unit id="Window Throw" xml:space="preserve">
-        <source>Window Throw</source>
-        <target state="needs-review-l10n">Lancer de fenêtre</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Window management requires accessibility authorization." xml:space="preserve">
         <source>Window management requires accessibility authorization.</source>
         <target state="needs-review-l10n">La gestion des fenêtres nécessite l'autorisation d'accessibilité.</target>
         <note from="auto-generated">Tooltip text for the Window Management receiver type.</note>
-      </trans-unit>
-      <trans-unit id="You can reactivate with your license key at any time." xml:space="preserve">
-        <source>You can reactivate with your license key at any time.</source>
-        <target state="needs-review-l10n">Vous pouvez réactiver à tout moment avec votre clé de licence.</target>
-        <note from="auto-generated">Text displayed in a dialog when the user confirms removing a device from their activations.</note>
       </trans-unit>
       <trans-unit id="You've already used this shortcut." xml:space="preserve">
         <source>You've already used this shortcut.</source>
@@ -4767,15 +4447,15 @@ Il est ainsi plus facile d'avoir plusieurs fenêtres rangées de chaque côté :
         <target state="needs-review-l10n">Activer</target>
         <note from="auto-generated">Title of the button to activate the license.</note>
       </trans-unit>
+      <trans-unit id="Activate %@" xml:space="preserve">
+        <source>Activate %@</source>
+        <target state="needs-review-l10n">Activer %@</target>
+        <note>Title of the license activation window. The argument is the app name.</note>
+      </trans-unit>
       <trans-unit id="Activate License…" xml:space="preserve">
         <source>Activate License…</source>
         <target state="needs-review-l10n">Activer la licence…</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Activate Rectangle Pro" xml:space="preserve">
-        <source>Activate Rectangle Pro</source>
-        <target state="needs-review-l10n">Activer Rectangle Pro</target>
-        <note from="auto-generated">Title of the product's license activation window.</note>
       </trans-unit>
       <trans-unit id="Activation Limit Reached" xml:space="preserve">
         <source>Activation Limit Reached</source>
@@ -7076,17 +6756,6 @@ Il est ainsi plus facile d'avoir plusieurs fenêtres rangées de chaque côté :
         <source>≤ 1 for % of screen</source>
         <target state="needs-review-l10n">≤ 1 pour un % de l'écran</target>
         <note from="auto-generated">Description of a numeric field that can be a fraction, whole, or decimal.</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Rectangle Pro/Multitouch.xcstrings" source-language="en" target-language="fr" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="27.2" build-num="27B52"/>
-    </header>
-    <body>
-      <trans-unit id="Activate Multitouch" xml:space="preserve">
-        <source>Activate Multitouch</source>
-        <note/>
       </trans-unit>
     </body>
   </file>

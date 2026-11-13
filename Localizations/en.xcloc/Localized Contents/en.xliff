@@ -1144,21 +1144,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">About Multitouch</target>
         <note from="auto-generated">Title of the About window.</note>
       </trans-unit>
-      <trans-unit id="Activate License…" xml:space="preserve">
-        <source>Activate License…</source>
-        <target state="new">Activate License…</target>
-        <note>Menu item and settings button that opens the window for entering a license code.</note>
-      </trans-unit>
-      <trans-unit id="Activate Multitouch" xml:space="preserve">
-        <source>Activate Multitouch</source>
-        <target state="new">Activate Multitouch</target>
-        <note>Title of the window for entering a license code.</note>
-      </trans-unit>
-      <trans-unit id="Add" xml:space="preserve">
-        <source>Add</source>
-        <target state="new">Add</target>
-        <note from="auto-generated">Text for a button to add a keyboard shortcut.</note>
-      </trans-unit>
       <trans-unit id="Add Gesture" xml:space="preserve">
         <source>Add Gesture</source>
         <target state="new">Add Gesture</target>
@@ -1204,11 +1189,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">App Exposé</target>
         <note from="auto-generated">Text for the App Exposé button.</note>
       </trans-unit>
-      <trans-unit id="App Settings" xml:space="preserve">
-        <source>App Settings</source>
-        <target state="new">App Settings</target>
-        <note from="auto-generated">Display name for the MultitouchSettings.appSettings case.</note>
-      </trans-unit>
       <trans-unit id="App left half" xml:space="preserve">
         <source>App left half</source>
         <target state="new">App left half</target>
@@ -1239,16 +1219,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Apps with tabs</target>
         <note from="auto-generated">Text for the "Apps with tabs" receiver type.</note>
       </trans-unit>
-      <trans-unit id="Are you sure you want to remove this device from your activations?" xml:space="preserve">
-        <source>Are you sure you want to remove this device from your activations?</source>
-        <target state="new">Are you sure you want to remove this device from your activations?</target>
-        <note from="auto-generated">Confirmation dialog question for removing a device from the user's activations.</note>
-      </trans-unit>
-      <trans-unit id="Are you sure you want to restore the default shortcuts and snap areas?" xml:space="preserve">
-        <source>Are you sure you want to restore the default shortcuts and snap areas?</source>
-        <target state="new">Are you sure you want to restore the default shortcuts and snap areas?</target>
-        <note from="auto-generated">A confirmation dialog for restoring default shortcuts and snap areas.</note>
-      </trans-unit>
       <trans-unit id="Avoid private framework" xml:space="preserve">
         <source>Avoid private framework</source>
         <target state="new">Avoid private framework</target>
@@ -1259,34 +1229,9 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Bash command</target>
         <note from="auto-generated">Label for the execute action type "Bash command".</note>
       </trans-unit>
-      <trans-unit id="Bottom Center Sixth" xml:space="preserve">
-        <source>Bottom Center Sixth</source>
-        <target state="new">Bottom Center Sixth</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Bottom Half" xml:space="preserve">
         <source>Bottom Half</source>
         <target state="new">Bottom Half</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Left" xml:space="preserve">
-        <source>Bottom Left</source>
-        <target state="new">Bottom Left</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Left Sixth" xml:space="preserve">
-        <source>Bottom Left Sixth</source>
-        <target state="new">Bottom Left Sixth</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Right" xml:space="preserve">
-        <source>Bottom Right</source>
-        <target state="new">Bottom Right</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Bottom Right Sixth" xml:space="preserve">
-        <source>Bottom Right Sixth</source>
-        <target state="new">Bottom Right Sixth</target>
         <note/>
       </trans-unit>
       <trans-unit id="Brightness Down" xml:space="preserve">
@@ -1299,20 +1244,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Brightness Up</target>
         <note from="auto-generated">Text for the "Brightness Up" key on a keyboard.</note>
       </trans-unit>
-      <trans-unit id="Browsers" xml:space="preserve">
-        <source>Browsers</source>
-        <target state="new">Browsers</target>
-        <note from="auto-generated">Plural form of "Browser".</note>
-      </trans-unit>
       <trans-unit id="Button Mouse" xml:space="preserve">
         <source>Button Mouse</source>
         <target state="new">Button Mouse</target>
         <note from="auto-generated">Type of trigger for a button mouse.</note>
-      </trans-unit>
-      <trans-unit id="Cancel" xml:space="preserve">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Cascade all windows" xml:space="preserve">
         <source>Cascade all windows</source>
@@ -1327,11 +1262,6 @@ If you really want to use this key combination, most shortcuts can be changed in
       <trans-unit id="Center Half" xml:space="preserve">
         <source>Center Half</source>
         <target state="new">Center Half</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Center Third" xml:space="preserve">
-        <source>Center Third</source>
-        <target state="new">Center Third</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center on display with cursor" xml:space="preserve">
@@ -1358,16 +1288,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Center window</source>
         <target state="new">Center window</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Check for Updates…" xml:space="preserve">
-        <source>Check for Updates…</source>
-        <target state="new">Check for Updates…</target>
-        <note from="auto-generated">The title of the check for updates button.</note>
-      </trans-unit>
-      <trans-unit id="Check for updates automatically" xml:space="preserve">
-        <source>Check for updates automatically</source>
-        <target state="new">Check for updates automatically</target>
-        <note from="auto-generated">A toggle that allows users to enable or disable automatic update checking for the app.</note>
       </trans-unit>
       <trans-unit id="Clear" xml:space="preserve">
         <source>Clear</source>
@@ -1569,45 +1489,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Executing the gesture will paste the copied text when showing the text selection cursor.</target>
         <note from="auto-generated">Tooltip for the Linux Middle Click gesture.</note>
       </trans-unit>
-      <trans-unit id="Export Config" xml:space="preserve">
-        <source>Export Config</source>
-        <target state="new">Export Config</target>
-        <note from="auto-generated">A button that exports the user's configuration.</note>
-      </trans-unit>
-      <trans-unit id="First Fourth" xml:space="preserve">
-        <source>First Fourth</source>
-        <target state="new">First Fourth</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Sixth" xml:space="preserve">
-        <source>First Sixth</source>
-        <target state="new">First Sixth</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Third" xml:space="preserve">
-        <source>First Third</source>
-        <target state="new">First Third</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Three Fourths" xml:space="preserve">
-        <source>First Three Fourths</source>
-        <target state="new">First Three Fourths</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="First Two Thirds" xml:space="preserve">
-        <source>First Two Thirds</source>
-        <target state="new">First Two Thirds</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Five Touch" xml:space="preserve">
         <source>Five Touch</source>
         <target state="new">Five Touch</target>
         <note from="auto-generated">Name of the multitouch gesture category for five-finger trackpad input.</note>
-      </trans-unit>
-      <trans-unit id="Focus window under cursor" xml:space="preserve">
-        <source>Focus window under cursor</source>
-        <target state="new">Focus window under cursor</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Force Touch" xml:space="preserve">
         <source>Force Touch</source>
@@ -1679,11 +1564,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Gestures snap the window under the cursor</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Global" xml:space="preserve">
-        <source>Global</source>
-        <target state="new">Global</target>
-        <note from="auto-generated">Name of the multitouch app group that allows global multitouch settings.</note>
-      </trans-unit>
       <trans-unit id="Go to first tab" xml:space="preserve">
         <source>Go to first tab</source>
         <target state="new">Go to first tab</target>
@@ -1734,11 +1614,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">If this setting is disabled, these actions will operate on the frontmost window unless otherwise specified.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation." xml:space="preserve">
-        <source>If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation.</source>
-        <target state="new">If your license activations have all been utilized, you can remove the oldest. Enter your license key for deactivation.</target>
-        <note from="auto-generated">A message displayed in an alert when the user wants to remove the oldest license activation.</note>
-      </trans-unit>
       <trans-unit id="Ignore Windows in frontmost.app" xml:space="preserve">
         <source>Ignore Windows in frontmost.app</source>
         <target state="new">Ignore Windows in frontmost.app</target>
@@ -1748,11 +1623,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Ignore frontmost.app</source>
         <target state="new">Ignore frontmost.app</target>
         <note from="auto-generated">Menu item title to ignore the currently active application.</note>
-      </trans-unit>
-      <trans-unit id="Import Config" xml:space="preserve">
-        <source>Import Config</source>
-        <target state="new">Import Config</target>
-        <note from="auto-generated">A button that imports a configuration file.</note>
       </trans-unit>
       <trans-unit id="Important note on dominant hand with your configuration" xml:space="preserve">
         <source>Important note on dominant hand with your configuration</source>
@@ -1798,31 +1668,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Keystroke Recording</source>
         <target state="new">Keystroke Recording</target>
         <note from="auto-generated">Label for the keystroke recording receiver.</note>
-      </trans-unit>
-      <trans-unit id="Last Fourth" xml:space="preserve">
-        <source>Last Fourth</source>
-        <target state="new">Last Fourth</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Sixth" xml:space="preserve">
-        <source>Last Sixth</source>
-        <target state="new">Last Sixth</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Third" xml:space="preserve">
-        <source>Last Third</source>
-        <target state="new">Last Third</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Three Fourths" xml:space="preserve">
-        <source>Last Three Fourths</source>
-        <target state="new">Last Three Fourths</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Last Two Thirds" xml:space="preserve">
-        <source>Last Two Thirds</source>
-        <target state="new">Last Two Thirds</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Launch Application" xml:space="preserve">
         <source>Launch Application</source>
@@ -1873,11 +1718,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Left and Right Click</source>
         <target state="new">Left and Right Click</target>
         <note from="auto-generated">The text for the left and right click action.</note>
-      </trans-unit>
-      <trans-unit id="License activation not found" xml:space="preserve">
-        <source>License activation not found</source>
-        <target state="new">License activation not found</target>
-        <note from="auto-generated">The message displayed when the user tries to remove an activation that doesn't exist.</note>
       </trans-unit>
       <trans-unit id="License key" xml:space="preserve">
         <source>License key</source>
@@ -2074,20 +1914,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Mute</target>
         <note from="auto-generated">Text for the mute key on a keyboard.</note>
       </trans-unit>
-      <trans-unit id="Next Space" xml:space="preserve">
-        <source>Next Space</source>
-        <target state="new">Next Space</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Next Space (⌃→)" xml:space="preserve">
         <source>Next Space (⌃→)</source>
         <target state="new">Next Space (⌃→)</target>
         <note from="auto-generated">Text displayed in a notification when the user is not a member.</note>
-      </trans-unit>
-      <trans-unit id="Next display, maximize" xml:space="preserve">
-        <source>Next display, maximize</source>
-        <target state="new">Next display, maximize</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Next window (⌘`)" xml:space="preserve">
         <source>Next window (⌘`)</source>
@@ -2099,20 +1929,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">No Compatible Touch Input Devices Detected</target>
         <note from="auto-generated">Header text when no compatible touch input devices are detected.</note>
       </trans-unit>
-      <trans-unit id="No Connection" xml:space="preserve">
-        <source>No Connection</source>
-        <target state="new">No Connection</target>
-        <note from="auto-generated">Title of an alert that is displayed when the user tries to purchase a product but there is no internet connection.</note>
-      </trans-unit>
       <trans-unit id="Not Configured" xml:space="preserve">
         <source>Not Configured</source>
         <target state="new">Not Configured</target>
         <note from="auto-generated">Text displayed when a gesture is not configured.</note>
-      </trans-unit>
-      <trans-unit id="Not Found" xml:space="preserve">
-        <source>Not Found</source>
-        <target state="new">Not Found</target>
-        <note from="auto-generated">A title for an alert that indicates a license activation was not found.</note>
       </trans-unit>
       <trans-unit id="Note that not all tab actions are supported by all apps" xml:space="preserve">
         <source>Note that not all tab actions are supported by all apps</source>
@@ -2128,11 +1948,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>OK</source>
         <target state="new">OK</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Oldest license activation removed" xml:space="preserve">
-        <source>Oldest license activation removed</source>
-        <target state="new">Oldest license activation removed</target>
-        <note from="auto-generated">A success message displayed when the oldest license activation is removed.</note>
       </trans-unit>
       <trans-unit id="One Touch" xml:space="preserve">
         <source>One Touch</source>
@@ -2209,16 +2024,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Preconfigured Collections</target>
         <note from="auto-generated">Name of the preconfigured gesture category.</note>
       </trans-unit>
-      <trans-unit id="Prev display, maximize" xml:space="preserve">
-        <source>Prev display, maximize</source>
-        <target state="new">Prev display, maximize</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Previous Space" xml:space="preserve">
-        <source>Previous Space</source>
-        <target state="new">Previous Space</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Previous Space (⌃←)" xml:space="preserve">
         <source>Previous Space (⌃←)</source>
         <target state="new">Previous Space (⌃←)</target>
@@ -2233,11 +2038,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Provide haptic feedback where possible</source>
         <target state="new">Provide haptic feedback where possible</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Purchase" xml:space="preserve">
-        <source>Purchase</source>
-        <target state="new">Purchase</target>
-        <note from="auto-generated">Title of the button that allows the user to activate or remove the license for Multitouch.</note>
       </trans-unit>
       <trans-unit id="Purchase (%lld days left)" xml:space="preserve">
         <source>Purchase (%lld days left)</source>
@@ -2269,25 +2069,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Relaunch</target>
         <note from="auto-generated">Label for the multitouch action to relaunch the app.</note>
       </trans-unit>
-      <trans-unit id="Relaunch on wake" xml:space="preserve">
-        <source>Relaunch on wake</source>
-        <target state="new">Relaunch on wake</target>
-        <note from="auto-generated">A toggle that allows the user to restart Multitouch when the device wakes.</note>
-      </trans-unit>
       <trans-unit id="Reload Page" xml:space="preserve">
         <source>Reload Page</source>
         <target state="new">Reload Page</target>
         <note from="auto-generated">Label for the browser action to reload the current page.</note>
-      </trans-unit>
-      <trans-unit id="Remove" xml:space="preserve">
-        <source>Remove</source>
-        <target state="new">Remove</target>
-        <note from="auto-generated">The title of a button that removes a device from the list of activated devices.</note>
-      </trans-unit>
-      <trans-unit id="Remove License Activation" xml:space="preserve">
-        <source>Remove License Activation</source>
-        <target state="new">Remove License Activation</target>
-        <note from="auto-generated">Button title when the app is activated.</note>
       </trans-unit>
       <trans-unit id="Remove Oldest Activation" xml:space="preserve">
         <source>Remove Oldest Activation</source>
@@ -2484,16 +2269,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Rest two, tap one to the right</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Restore Default Shortcuts &amp; Snap Areas" xml:space="preserve">
-        <source>Restore Default Shortcuts &amp; Snap Areas</source>
-        <target state="new">Restore Default Shortcuts &amp; Snap Areas</target>
-        <note from="auto-generated">A button that restores default shortcuts and snap areas.</note>
-      </trans-unit>
-      <trans-unit id="Restore Defaults" xml:space="preserve">
-        <source>Restore Defaults</source>
-        <target state="new">Restore Defaults</target>
-        <note from="auto-generated">A confirmation dialog for restoring default settings.</note>
-      </trans-unit>
       <trans-unit id="Restore to before snap" xml:space="preserve">
         <source>Restore to before snap</source>
         <target state="new">Restore to before snap</target>
@@ -2503,11 +2278,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Restrictions</source>
         <target state="new">Restrictions</target>
         <note from="auto-generated">The title of the button that expands/collapses the restrictions section.</note>
-      </trans-unit>
-      <trans-unit id="Reveal Desktop Edge" xml:space="preserve">
-        <source>Reveal Desktop Edge</source>
-        <target state="new">Reveal Desktop Edge</target>
-        <note/>
       </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
         <source>Right</source>
@@ -2528,11 +2298,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Run AppleScript</source>
         <target state="new">Run AppleScript</target>
         <note from="auto-generated">Label for the Run AppleScript action in the Multitouch app.</note>
-      </trans-unit>
-      <trans-unit id="Save Current Layout…" xml:space="preserve">
-        <source>Save Current Layout…</source>
-        <target state="new">Save Current Layout…</target>
-        <note from="auto-generated">Text for the menu item to save the current multitouch layout.</note>
       </trans-unit>
       <trans-unit id="Screenshot copy (⌃⌘⇧4)" xml:space="preserve">
         <source>Screenshot copy (⌃⌘⇧4)</source>
@@ -2569,20 +2334,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Screenshot window w/o shadow</target>
         <note from="auto-generated">Screenshot of the current window without the shadow.</note>
       </trans-unit>
-      <trans-unit id="Second Fourth" xml:space="preserve">
-        <source>Second Fourth</source>
-        <target state="new">Second Fourth</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures." xml:space="preserve">
         <source>Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures.</source>
         <target state="new">Selecting a dominant hand will adjust the axis used to determine which touches are to the left or right of rested touches for applicable gestures.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Settings…" xml:space="preserve">
-        <source>Settings…</source>
-        <target state="new">Settings…</target>
-        <note from="auto-generated">Title of the settings menu item.</note>
       </trans-unit>
       <trans-unit id="Shortcut &amp; Key Entry" xml:space="preserve">
         <source>Shortcut &amp; Key Entry</source>
@@ -2643,11 +2398,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Submit</source>
         <target state="new">Submit</target>
         <note from="auto-generated">A button that submits the license key for deactivation.</note>
-      </trans-unit>
-      <trans-unit id="Success" xml:space="preserve">
-        <source>Success</source>
-        <target state="new">Success</target>
-        <note from="auto-generated">A label for a successful action.</note>
       </trans-unit>
       <trans-unit id="Swipe Sensitivity" xml:space="preserve">
         <source>Swipe Sensitivity</source>
@@ -2739,11 +2489,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Switch tabs right</target>
         <note from="auto-generated">Label for the "Switch tabs right" multitouch action.</note>
       </trans-unit>
-      <trans-unit id="Sync configuration over iCloud" xml:space="preserve">
-        <source>Sync configuration over iCloud</source>
-        <target state="new">Sync configuration over iCloud</target>
-        <note from="auto-generated">A toggle that allows users to sync their Multitouch configuration over iCloud.</note>
-      </trans-unit>
       <trans-unit id="Synchronize clicks" xml:space="preserve">
         <source>Synchronize clicks</source>
         <target state="new">Synchronize clicks</target>
@@ -2753,11 +2498,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Synchronize the trackpad down and up of click gestures with click actions instead of executing actions after up. Not recommended when tap to click is enabled.</source>
         <target state="new">Synchronize the trackpad down and up of click gestures with click actions instead of executing actions after up. Not recommended when tap to click is enabled.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Tabbed Apps" xml:space="preserve">
-        <source>Tabbed Apps</source>
-        <target state="new">Tabbed Apps</target>
-        <note from="auto-generated">The name of the category for multitouch apps that can be opened in multiple tabs.</note>
       </trans-unit>
       <trans-unit id="Tap one on the left half" xml:space="preserve">
         <source>Tap one on the left half</source>
@@ -2864,11 +2604,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Then relaunch Multitouch and check the box in System Settings again when prompted.</target>
         <note from="auto-generated">Text to be displayed in a warning banner at the top of the screen.</note>
       </trans-unit>
-      <trans-unit id="Third Fourth" xml:space="preserve">
-        <source>Third Fourth</source>
-        <target state="new">Third Fourth</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="This gesture will conflict with the corresponding gesture in macOS." xml:space="preserve">
         <source>This gesture will conflict with the corresponding gesture in macOS.</source>
         <target state="new">This gesture will conflict with the corresponding gesture in macOS.</target>
@@ -2924,34 +2659,9 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Toggle zoom (⌥⌘8)</target>
         <note from="auto-generated">Text displayed in a button that toggles the zoom mode.</note>
       </trans-unit>
-      <trans-unit id="Top Center Sixth" xml:space="preserve">
-        <source>Top Center Sixth</source>
-        <target state="new">Top Center Sixth</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Top Half" xml:space="preserve">
         <source>Top Half</source>
         <target state="new">Top Half</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Left" xml:space="preserve">
-        <source>Top Left</source>
-        <target state="new">Top Left</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Left Sixth" xml:space="preserve">
-        <source>Top Left Sixth</source>
-        <target state="new">Top Left Sixth</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Right" xml:space="preserve">
-        <source>Top Right</source>
-        <target state="new">Top Right</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Top Right Sixth" xml:space="preserve">
-        <source>Top Right Sixth</source>
-        <target state="new">Top Right Sixth</target>
         <note/>
       </trans-unit>
       <trans-unit id="Touch Precision" xml:space="preserve">
@@ -2994,16 +2704,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">UUID copied to clipboard</target>
         <note from="auto-generated">Title of a notification when a UUID is copied to the clipboard.</note>
       </trans-unit>
-      <trans-unit id="Unable to deactivate license" xml:space="preserve">
-        <source>Unable to deactivate license</source>
-        <target state="new">Unable to deactivate license</target>
-        <note from="auto-generated">A title for an alert that occurs when the user tries to deactivate their license.</note>
-      </trans-unit>
-      <trans-unit id="Unable to initiate purchase without internet connection." xml:space="preserve">
-        <source>Unable to initiate purchase without internet connection.</source>
-        <target state="new">Unable to initiate purchase without internet connection.</target>
-        <note from="auto-generated">Alert message displayed when the user tries to purchase a product while not connected to the internet.</note>
-      </trans-unit>
       <trans-unit id="Unable to listen to device input" xml:space="preserve">
         <source>Unable to listen to device input</source>
         <target state="new">Unable to listen to device input</target>
@@ -3013,16 +2713,6 @@ If you really want to use this key combination, most shortcuts can be changed in
         <source>Unable to remove license activation</source>
         <target state="new">Unable to remove license activation</target>
         <note from="auto-generated">Error message when the user tries to remove a license activation from the device.</note>
-      </trans-unit>
-      <trans-unit id="Unminimize all windows" xml:space="preserve">
-        <source>Unminimize all windows</source>
-        <target state="new">Unminimize all windows</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Update Available…" xml:space="preserve">
-        <source>Update Available…</source>
-        <target state="new">Update Available…</target>
-        <note from="auto-generated">The title of a button that updates the user's software.</note>
       </trans-unit>
       <trans-unit id="Updating private framework usage" xml:space="preserve">
         <source>Updating private framework usage</source>
@@ -3079,20 +2769,10 @@ If you really want to use this key combination, most shortcuts can be changed in
         <target state="new">Window Management</target>
         <note from="auto-generated">Name of the receiver type that manages windows.</note>
       </trans-unit>
-      <trans-unit id="Window Throw" xml:space="preserve">
-        <source>Window Throw</source>
-        <target state="new">Window Throw</target>
-        <note/>
-      </trans-unit>
       <trans-unit id="Window management requires accessibility authorization." xml:space="preserve">
         <source>Window management requires accessibility authorization.</source>
         <target state="new">Window management requires accessibility authorization.</target>
         <note from="auto-generated">Tooltip text for the Window Management receiver type.</note>
-      </trans-unit>
-      <trans-unit id="You can reactivate with your license key at any time." xml:space="preserve">
-        <source>You can reactivate with your license key at any time.</source>
-        <target state="new">You can reactivate with your license key at any time.</target>
-        <note from="auto-generated">Text displayed in a dialog when the user confirms removing a device from their activations.</note>
       </trans-unit>
       <trans-unit id="You've already used this shortcut." xml:space="preserve">
         <source>You've already used this shortcut.</source>
@@ -4979,15 +4659,15 @@ This makes it easier to have multiple stashed windows on each side where only on
         <target state="new">Activate</target>
         <note from="auto-generated">Title of the button to activate the license.</note>
       </trans-unit>
+      <trans-unit id="Activate %@" xml:space="preserve">
+        <source>Activate %@</source>
+        <target state="new">Activate %@</target>
+        <note>Title of the license activation window. The argument is the app name.</note>
+      </trans-unit>
       <trans-unit id="Activate License…" xml:space="preserve">
         <source>Activate License…</source>
         <target state="new">Activate License…</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Activate Rectangle Pro" xml:space="preserve">
-        <source>Activate Rectangle Pro</source>
-        <target state="new">Activate Rectangle Pro</target>
-        <note from="auto-generated">Title of the product's license activation window.</note>
       </trans-unit>
       <trans-unit id="Activation Limit Reached" xml:space="preserve">
         <source>Activation Limit Reached</source>
@@ -7293,18 +6973,6 @@ This makes it easier to have multiple stashed windows on each side where only on
         <source>≤ 1 for % of screen</source>
         <target state="new">≤ 1 for % of screen</target>
         <note from="auto-generated">Description of a numeric field that can be a fraction, whole, or decimal.</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Rectangle Pro/Multitouch.xcstrings" source-language="en" target-language="en" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="27.2" build-num="27B52"/>
-    </header>
-    <body>
-      <trans-unit id="Activate Multitouch" xml:space="preserve">
-        <source>Activate Multitouch</source>
-        <target state="new">Activate Multitouch</target>
-        <note/>
       </trans-unit>
     </body>
   </file>
