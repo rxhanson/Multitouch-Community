@@ -4632,7 +4632,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Bottom Half" xml:space="preserve">
         <source>Bottom</source>
-        <target state="needs-review-l10n">下半屏</target>
+        <target state="translated">下半屏</target>
         <note>Name of the window action that moves the window to the bottom half of the screen. Separate from the "Bottom" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Bottom Left" xml:space="preserve">
@@ -4737,7 +4737,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Center Half" xml:space="preserve">
         <source>Center</source>
-        <target state="needs-review-l10n">中间半屏</target>
+        <target state="translated">中间半屏</target>
         <note>Name of the window action that moves the window to the center half of the screen. Separate from the "Center" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Center Offset" xml:space="preserve">
@@ -5427,7 +5427,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Left Half" xml:space="preserve">
         <source>Left</source>
-        <target state="needs-review-l10n">左半屏</target>
+        <target state="translated">左半屏</target>
         <note>Name of the window action that moves the window to the left half of the screen. Separate from the "Left" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Left half, top/bottom half near corners" xml:space="preserve">
@@ -6007,7 +6007,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Right Half" xml:space="preserve">
         <source>Right</source>
-        <target state="needs-review-l10n">右半屏</target>
+        <target state="translated">右半屏</target>
         <note>Name of the window action that moves the window to the right half of the screen. Separate from the "Right" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Right half, top/bottom half near corners" xml:space="preserve">
@@ -6277,6 +6277,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="There was an issue removing your oldest activation." xml:space="preserve">
         <source>There was an issue removing your oldest activation.</source>
+        <target state="translated">移除最早的激活时出现问题。</target>
         <note from="auto-generated">Error message displayed when there is an issue removing the oldest activation.</note>
       </trans-unit>
       <trans-unit id="These applications have issues with the drag to screen edge to snap functionality in Rectangle Pro." xml:space="preserve">
@@ -6441,7 +6442,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Top Half" xml:space="preserve">
         <source>Top</source>
-        <target state="needs-review-l10n">上半屏</target>
+        <target state="translated">上半屏</target>
         <note>Name of the window action that moves the window to the top half of the screen. Separate from the "Top" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Top Left" xml:space="preserve">
