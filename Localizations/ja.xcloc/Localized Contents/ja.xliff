@@ -2949,7 +2949,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="h25-Dy-q0n.title" xml:space="preserve">
         <source>Size</source>
-        <target state="needs-review-l10n">サイズ</target>
+        <target state="translated">サイズ</target>
         <note>Class = "NSTextFieldCell"; title = "Size"; ObjectID = "h25-Dy-q0n";</note>
       </trans-unit>
       <trans-unit id="kFQ-Ax-36T.title" xml:space="preserve">
@@ -3017,7 +3017,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="7EI-3V-Rzl.alternateTitle" xml:space="preserve">
         <source>Delete</source>
-        <target state="needs-review-l10n">削除</target>
+        <target state="translated">削除</target>
         <note>Class = "NSButtonCell"; alternateTitle = "Delete"; ObjectID = "7EI-3V-Rzl";</note>
       </trans-unit>
       <trans-unit id="7Qq-yQ-GWV.title" xml:space="preserve">
@@ -3072,7 +3072,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="EWG-tb-5ua.title" xml:space="preserve">
         <source>Top Left</source>
-        <target state="needs-review-l10n">左上</target>
+        <target state="translated">左上</target>
         <note>Class = "NSMenuItem"; title = "Top Left"; ObjectID = "EWG-tb-5ua";</note>
       </trans-unit>
       <trans-unit id="Eag-T8-DiD.title" xml:space="preserve">
@@ -3115,7 +3115,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="KTe-35-n7h.title" xml:space="preserve">
         <source>Bottom Right</source>
-        <target state="needs-review-l10n">右下</target>
+        <target state="translated">右下</target>
         <note>Class = "NSMenuItem"; title = "Bottom Right"; ObjectID = "KTe-35-n7h";</note>
       </trans-unit>
       <trans-unit id="KgB-fL-pTI.title" xml:space="preserve">
@@ -3134,7 +3134,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Mh4-oo-A5h.title" xml:space="preserve">
         <source>Right</source>
-        <target state="needs-review-l10n">右</target>
+        <target state="translated">右</target>
         <note>Class = "NSMenuItem"; title = "Right"; ObjectID = "Mh4-oo-A5h";</note>
       </trans-unit>
       <trans-unit id="Mkd-wt-oPr.title" xml:space="preserve">
@@ -3149,7 +3149,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="ORb-3S-ltl.title" xml:space="preserve">
         <source>Center</source>
-        <target state="needs-review-l10n">中央</target>
+        <target state="translated">中央</target>
         <note>Class = "NSMenuItem"; title = "Center"; ObjectID = "ORb-3S-ltl";</note>
       </trans-unit>
       <trans-unit id="Pxe-f1-dWy.title" xml:space="preserve">
@@ -3169,7 +3169,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Sda-sq-trw.title" xml:space="preserve">
         <source>Left</source>
-        <target state="needs-review-l10n">左</target>
+        <target state="translated">左</target>
         <note>Class = "NSMenuItem"; title = "Left"; ObjectID = "Sda-sq-trw";</note>
       </trans-unit>
       <trans-unit id="TLc-ud-G7A.title" xml:space="preserve">
@@ -3204,17 +3204,17 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="WaV-VN-sxU.alternateTitle" xml:space="preserve">
         <source>Delete</source>
-        <target state="needs-review-l10n">削除</target>
+        <target state="translated">削除</target>
         <note>Class = "NSButtonCell"; alternateTitle = "Delete"; ObjectID = "WaV-VN-sxU";</note>
       </trans-unit>
       <trans-unit id="YB8-ME-Uqy.title" xml:space="preserve">
         <source>Bottom</source>
-        <target state="needs-review-l10n">下</target>
+        <target state="translated">下</target>
         <note>Class = "NSMenuItem"; title = "Bottom"; ObjectID = "YB8-ME-Uqy";</note>
       </trans-unit>
       <trans-unit id="ZE0-ZT-XmI.title" xml:space="preserve">
         <source>Top Right</source>
-        <target state="needs-review-l10n">右上</target>
+        <target state="translated">右上</target>
         <note>Class = "NSMenuItem"; title = "Top Right"; ObjectID = "ZE0-ZT-XmI";</note>
       </trans-unit>
       <trans-unit id="a6j-YQ-5yr.title" xml:space="preserve">
@@ -3229,7 +3229,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="aok-x6-lIf.title" xml:space="preserve">
         <source>Size</source>
-        <target state="needs-review-l10n">サイズ</target>
+        <target state="translated">サイズ</target>
         <note>Class = "NSTextFieldCell"; title = "Size"; ObjectID = "aok-x6-lIf";</note>
       </trans-unit>
       <trans-unit id="axf-8c-HCF.title" xml:space="preserve">
@@ -3244,7 +3244,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="bMa-3I-Bho.title" xml:space="preserve">
         <source>Top</source>
-        <target state="needs-review-l10n">上</target>
+        <target state="translated">上</target>
         <note>Class = "NSMenuItem"; title = "Top"; ObjectID = "bMa-3I-Bho";</note>
       </trans-unit>
       <trans-unit id="daU-RV-R29.title" xml:space="preserve">
@@ -3288,7 +3288,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="leX-PF-62U.alternateTitle" xml:space="preserve">
         <source>Delete</source>
-        <target state="needs-review-l10n">削除</target>
+        <target state="translated">削除</target>
         <note>Class = "NSButtonCell"; alternateTitle = "Delete"; ObjectID = "leX-PF-62U";</note>
       </trans-unit>
       <trans-unit id="lgs-ob-Ied.title" translate="no" xml:space="preserve">
@@ -3302,7 +3302,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="om7-Dw-ssi.title" xml:space="preserve">
         <source>Minimize</source>
-        <target state="needs-review-l10n">最小化</target>
+        <target state="translated">しまう</target>
         <note>Class = "NSMenuItem"; title = "Minimize"; ObjectID = "om7-Dw-ssi";</note>
       </trans-unit>
       <trans-unit id="paA-Ts-4cm.title" xml:space="preserve">
@@ -3332,7 +3332,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="x1S-mt-jZP.title" xml:space="preserve">
         <source>Bottom Left</source>
-        <target state="needs-review-l10n">左下</target>
+        <target state="translated">左下</target>
         <note>Class = "NSMenuItem"; title = "Bottom Left"; ObjectID = "x1S-mt-jZP";</note>
       </trans-unit>
       <trans-unit id="xVj-ju-uQW.title" xml:space="preserve">
@@ -3347,7 +3347,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="zDM-Yv-X9i.title" xml:space="preserve">
         <source>Behavior</source>
-        <target state="needs-review-l10n">動作</target>
+        <target state="translated">動作</target>
         <note>Class = "NSTextFieldCell"; title = "Behavior"; ObjectID = "zDM-Yv-X9i";</note>
       </trans-unit>
       <trans-unit id="zrO-51-7qH.title" translate="no" xml:space="preserve">
@@ -3425,52 +3425,52 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="4J7-dP-txa.title" xml:space="preserve">
         <source>Enter Full Screen</source>
-        <target state="needs-review-l10n">フルスクリーンにする</target>
+        <target state="translated">フルスクリーンにする</target>
         <note>Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa";</note>
       </trans-unit>
       <trans-unit id="4sb-4s-VLi.title" xml:space="preserve">
         <source>Quit Rectangle Pro</source>
-        <target state="needs-review-l10n">Rectangle Proを終了</target>
+        <target state="translated">Rectangle Proを終了</target>
         <note>Class = "NSMenuItem"; title = "Quit Rectangle Pro"; ObjectID = "4sb-4s-VLi";</note>
       </trans-unit>
       <trans-unit id="5QF-Oa-p0T.title" xml:space="preserve">
         <source>Edit</source>
-        <target state="needs-review-l10n">編集</target>
+        <target state="translated">編集</target>
         <note>Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T";</note>
       </trans-unit>
       <trans-unit id="5kV-Vb-QxS.title" xml:space="preserve">
         <source>About Rectangle Pro</source>
-        <target state="needs-review-l10n">Rectangle Proについて</target>
+        <target state="translated">Rectangle Proについて</target>
         <note>Class = "NSMenuItem"; title = "About Rectangle Pro"; ObjectID = "5kV-Vb-QxS";</note>
       </trans-unit>
       <trans-unit id="6dh-zS-Vam.title" xml:space="preserve">
         <source>Redo</source>
-        <target state="needs-review-l10n">やり直す</target>
+        <target state="translated">やり直す</target>
         <note>Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam";</note>
       </trans-unit>
       <trans-unit id="AYu-sK-qS6.title" xml:space="preserve">
         <source>Main Menu</source>
-        <target state="needs-review-l10n">メインメニュー</target>
+        <target state="translated">メインメニュー</target>
         <note>Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6";</note>
       </trans-unit>
       <trans-unit id="BOF-NM-1cW.title" xml:space="preserve">
         <source>Preferences…</source>
-        <target state="needs-review-l10n">設定…</target>
+        <target state="translated">設定…</target>
         <note>Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW";</note>
       </trans-unit>
       <trans-unit id="DVo-aG-piG.title" xml:space="preserve">
         <source>Close</source>
-        <target state="needs-review-l10n">閉じる</target>
+        <target state="translated">閉じる</target>
         <note>Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG";</note>
       </trans-unit>
       <trans-unit id="F2S-fz-NVQ.title" xml:space="preserve">
         <source>Help</source>
-        <target state="needs-review-l10n">ヘルプ</target>
+        <target state="translated">ヘルプ</target>
         <note>Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ";</note>
       </trans-unit>
       <trans-unit id="FKE-Sm-Kum.title" xml:space="preserve">
         <source>Rectangle Pro Help</source>
-        <target state="needs-review-l10n">Rectangle Proヘルプ</target>
+        <target state="translated">Rectangle Proヘルプ</target>
         <note>Class = "NSMenuItem"; title = "Rectangle Pro Help"; ObjectID = "FKE-Sm-Kum";</note>
       </trans-unit>
       <trans-unit id="H8h-7b-M4v.title" translate="no" xml:space="preserve">
@@ -3483,7 +3483,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Kd2-mp-pUS.title" xml:space="preserve">
         <source>Show All</source>
-        <target state="needs-review-l10n">すべてを表示</target>
+        <target state="translated">すべて表示</target>
         <note>Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS";</note>
       </trans-unit>
       <trans-unit id="LE2-aR-0XJ.title" xml:space="preserve">
@@ -3493,17 +3493,17 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="NMo-om-nkz.title" xml:space="preserve">
         <source>Services</source>
-        <target state="needs-review-l10n">サービス</target>
+        <target state="translated">サービス</target>
         <note>Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz";</note>
       </trans-unit>
       <trans-unit id="OY7-WF-poV.title" xml:space="preserve">
         <source>Minimize</source>
-        <target state="needs-review-l10n">最小化</target>
+        <target state="translated">しまう</target>
         <note>Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV";</note>
       </trans-unit>
       <trans-unit id="Olw-nP-bQN.title" xml:space="preserve">
         <source>Hide Rectangle Pro</source>
-        <target state="needs-review-l10n">Rectangle Proを非表示</target>
+        <target state="translated">Rectangle Proを非表示</target>
         <note>Class = "NSMenuItem"; title = "Hide Rectangle Pro"; ObjectID = "Olw-nP-bQN";</note>
       </trans-unit>
       <trans-unit id="R4o-n2-Eq4.title" xml:space="preserve">
@@ -3513,7 +3513,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Ruw-6m-B2m.title" xml:space="preserve">
         <source>Select All</source>
-        <target state="needs-review-l10n">すべて選択</target>
+        <target state="translated">すべて選択</target>
         <note>Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m";</note>
       </trans-unit>
       <trans-unit id="Td7-aD-5lo.title" translate="no" xml:space="preserve">
@@ -3522,17 +3522,17 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Vdr-fp-XzO.title" xml:space="preserve">
         <source>Hide Others</source>
-        <target state="needs-review-l10n">ほかを非表示</target>
+        <target state="translated">ほかを隠す</target>
         <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
       </trans-unit>
       <trans-unit id="W48-6f-4Dl.title" xml:space="preserve">
         <source>Edit</source>
-        <target state="needs-review-l10n">編集</target>
+        <target state="translated">編集</target>
         <note>Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl";</note>
       </trans-unit>
       <trans-unit id="WeT-3V-zwk.title" xml:space="preserve">
         <source>Paste and Match Style</source>
-        <target state="needs-review-l10n">ペーストしてスタイルを合わせる</target>
+        <target state="translated">ペーストしてスタイルを合わせる</target>
         <note>Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk";</note>
       </trans-unit>
       <trans-unit id="aUF-d1-5bR.title" translate="no" xml:space="preserve">
@@ -3541,27 +3541,27 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="bib-Uj-vzu.title" xml:space="preserve">
         <source>File</source>
-        <target state="needs-review-l10n">ファイル</target>
+        <target state="translated">ファイル</target>
         <note>Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu";</note>
       </trans-unit>
       <trans-unit id="dMs-cI-mzQ.title" xml:space="preserve">
         <source>File</source>
-        <target state="needs-review-l10n">ファイル</target>
+        <target state="translated">ファイル</target>
         <note>Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ";</note>
       </trans-unit>
       <trans-unit id="dRJ-4n-Yzg.title" xml:space="preserve">
         <source>Undo</source>
-        <target state="needs-review-l10n">取り消す</target>
+        <target state="translated">取り消す</target>
         <note>Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg";</note>
       </trans-unit>
       <trans-unit id="gVA-U4-sdL.title" xml:space="preserve">
         <source>Paste</source>
-        <target state="needs-review-l10n">ペースト</target>
+        <target state="translated">ペースト</target>
         <note>Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL";</note>
       </trans-unit>
       <trans-unit id="hz9-B4-Xy5.title" xml:space="preserve">
         <source>Services</source>
-        <target state="needs-review-l10n">サービス</target>
+        <target state="translated">サービス</target>
         <note>Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5";</note>
       </trans-unit>
       <trans-unit id="kIP-vf-haE.title" xml:space="preserve">
@@ -3571,7 +3571,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="pa3-QI-u2k.title" xml:space="preserve">
         <source>Delete</source>
-        <target state="needs-review-l10n">削除</target>
+        <target state="translated">削除</target>
         <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k";</note>
       </trans-unit>
       <trans-unit id="snW-S8-Cw5.title" xml:space="preserve">
@@ -3585,17 +3585,17 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="uRl-iY-unG.title" xml:space="preserve">
         <source>Cut</source>
-        <target state="needs-review-l10n">カット</target>
+        <target state="translated">カット</target>
         <note>Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG";</note>
       </trans-unit>
       <trans-unit id="wpr-3q-Mcd.title" xml:space="preserve">
         <source>Help</source>
-        <target state="needs-review-l10n">ヘルプ</target>
+        <target state="translated">ヘルプ</target>
         <note>Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd";</note>
       </trans-unit>
       <trans-unit id="x3v-GG-iWU.title" xml:space="preserve">
         <source>Copy</source>
-        <target state="needs-review-l10n">コピー</target>
+        <target state="translated">コピー</target>
         <note>Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU";</note>
       </trans-unit>
     </body>
@@ -3911,7 +3911,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="kqa-nb-6bj.title" xml:space="preserve">
         <source>px</source>
-        <target state="needs-review-l10n">px</target>
+        <target state="translated">px</target>
         <note>Class = "NSMenuItem"; title = "px"; ObjectID = "kqa-nb-6bj";</note>
       </trans-unit>
       <trans-unit id="lq8-Kg-haZ.title" xml:space="preserve">
@@ -3936,7 +3936,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="rTx-PM-Duf.title" xml:space="preserve">
         <source>Right</source>
-        <target state="needs-review-l10n">右</target>
+        <target state="translated">右</target>
         <note>Class = "NSMenuItem"; title = "Right"; ObjectID = "rTx-PM-Duf";</note>
       </trans-unit>
       <trans-unit id="scD-di-3Y5.title" xml:space="preserve">
@@ -3951,7 +3951,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="ueY-Uh-GsS.title" xml:space="preserve">
         <source>Left</source>
-        <target state="needs-review-l10n">左</target>
+        <target state="translated">左</target>
         <note>Class = "NSMenuItem"; title = "Left"; ObjectID = "ueY-Uh-GsS";</note>
       </trans-unit>
       <trans-unit id="xHZ-rW-Ryq.title" xml:space="preserve">
@@ -4188,7 +4188,7 @@ Drag a window to the target area to see the footprint and drop it to snap the wi
       </trans-unit>
       <trans-unit id="UFp-ic-MRh.title" xml:space="preserve">
         <source>Keep a chosen application visible on the right side of your primary screen at all times</source>
-        <target state="needs-review-l10n">選択したアプリケーションを、メイン画面の右側に常に表示させておきます</target>
+        <target state="translated">メインディスプレイの右側に、選択したアプリケーションを常に表示します</target>
         <note>Class = "NSTextFieldCell"; title = "Keep a chosen application visible on the right side of your primary screen at all times"; ObjectID = "UFp-ic-MRh";</note>
       </trans-unit>
       <trans-unit id="WpF-LA-nGw.title" xml:space="preserve">
@@ -4355,6 +4355,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
         <source>Copyright © 2019-2026 Ryan Hanson. All rights reserved.</source>
+        <target state="translated">Copyright © 2019-2026 Ryan Hanson. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
@@ -4390,7 +4391,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="%lld px" xml:space="preserve">
         <source>%lld px</source>
-        <target state="needs-review-l10n">%lld px</target>
+        <target state="translated">%lld px</target>
         <note/>
       </trans-unit>
       <trans-unit id="(%lld days left)" xml:space="preserve">
@@ -4419,7 +4420,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
-        <target state="needs-review-l10n">情報</target>
+        <target state="translated">情報</target>
         <note/>
       </trans-unit>
       <trans-unit id="Absolute" xml:space="preserve">
@@ -4494,7 +4495,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Almost Maximize" xml:space="preserve">
         <source>Almost Maximize</source>
-        <target state="needs-review-l10n">ほぼ最大化</target>
+        <target state="translated">ほぼ最大化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Alternatively, you can use a mouse button, optionally combined with modifier keys." xml:space="preserve">
@@ -4504,7 +4505,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Animate footprint" xml:space="preserve">
         <source>Animate footprint</source>
-        <target state="needs-review-l10n">プレビュー枠をアニメーション表示</target>
+        <target state="translated">プレビュー枠をアニメーション表示</target>
         <note from="auto-generated">A toggle to animate the footprint when snapping.</note>
       </trans-unit>
       <trans-unit id="Any" xml:space="preserve">
@@ -4549,7 +4550,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="App Settings" xml:space="preserve">
         <source>App Settings</source>
-        <target state="needs-review-l10n">アプリの設定</target>
+        <target state="translated">アプリ設定</target>
         <note from="auto-generated">Title of the settings pane for app-related settings.</note>
       </trans-unit>
       <trans-unit id="Applications" xml:space="preserve">
@@ -4599,57 +4600,57 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Behavior" xml:space="preserve">
         <source>Behavior</source>
-        <target state="needs-review-l10n">動作</target>
+        <target state="translated">動作</target>
         <note from="auto-generated">The title of the settings pane for the behavior settings.</note>
       </trans-unit>
       <trans-unit id="Bottom" xml:space="preserve">
         <source>Bottom</source>
-        <target state="needs-review-l10n">下</target>
+        <target state="translated">下</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Center Left Eighth" xml:space="preserve">
         <source>Bottom Center Left Eighth</source>
-        <target state="needs-review-l10n">下部中央左1/8</target>
+        <target state="translated">2行2列 1/8</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Center Ninth" xml:space="preserve">
         <source>Bottom Center Ninth</source>
-        <target state="needs-review-l10n">下部中央1/9</target>
+        <target state="translated">中央下 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Center Right Eighth" xml:space="preserve">
         <source>Bottom Center Right Eighth</source>
-        <target state="needs-review-l10n">下部中央右1/8</target>
+        <target state="translated">2行3列 1/8</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Center Sixth" xml:space="preserve">
         <source>Bottom Center Sixth</source>
-        <target state="needs-review-l10n">下部中央1/6</target>
+        <target state="translated">中央下</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Half" xml:space="preserve">
         <source>Bottom</source>
-        <target state="needs-review-l10n">下半分</target>
+        <target state="translated">下</target>
         <note>Name of the window action that moves the window to the bottom half of the screen. Separate from the "Bottom" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Bottom Left" xml:space="preserve">
         <source>Bottom Left</source>
-        <target state="needs-review-l10n">左下</target>
+        <target state="translated">左下</target>
         <note from="auto-generated">Displayed text for the bottom left location.</note>
       </trans-unit>
       <trans-unit id="Bottom Left Eighth" xml:space="preserve">
         <source>Bottom Left Eighth</source>
-        <target state="needs-review-l10n">左下1/8</target>
+        <target state="translated">2行1列 1/8</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Left Ninth" xml:space="preserve">
         <source>Bottom Left Ninth</source>
-        <target state="needs-review-l10n">左下1/9</target>
+        <target state="translated">左下 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Left Sixth" xml:space="preserve">
         <source>Bottom Left Sixth</source>
-        <target state="needs-review-l10n">左下1/6</target>
+        <target state="translated">左下</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Left Two Thirds" xml:space="preserve">
@@ -4659,22 +4660,22 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Bottom Right" xml:space="preserve">
         <source>Bottom Right</source>
-        <target state="needs-review-l10n">右下</target>
+        <target state="translated">右下</target>
         <note from="auto-generated">Displayed text for the bottom right location.</note>
       </trans-unit>
       <trans-unit id="Bottom Right Eighth" xml:space="preserve">
         <source>Bottom Right Eighth</source>
-        <target state="needs-review-l10n">右下1/8</target>
+        <target state="translated">2行4列 1/8</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Right Ninth" xml:space="preserve">
         <source>Bottom Right Ninth</source>
-        <target state="needs-review-l10n">右下1/9</target>
+        <target state="translated">右下 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Right Sixth" xml:space="preserve">
         <source>Bottom Right Sixth</source>
-        <target state="needs-review-l10n">右下1/6</target>
+        <target state="translated">右下</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Right Two Thirds" xml:space="preserve">
@@ -4684,17 +4685,17 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Bottom Third" xml:space="preserve">
         <source>Bottom Third</source>
-        <target state="needs-review-l10n">下部1/3</target>
+        <target state="translated">1/3にして下寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom Two Thirds" xml:space="preserve">
         <source>Bottom Two Thirds</source>
-        <target state="needs-review-l10n">下部2/3</target>
+        <target state="translated">2/3にして下寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bottom sixths from corners; thirds" xml:space="preserve">
         <source>Bottom sixths from corners; thirds</source>
-        <target state="needs-review-l10n">隅からは下部1/6、それ以外は1/3</target>
+        <target state="translated">3分割（角からドラッグで下側6分割）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Bring-front" xml:space="preserve">
@@ -4709,7 +4710,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target state="needs-review-l10n">キャンセル</target>
+        <target state="translated">キャンセル</target>
         <note from="auto-generated">Button title to cancel the alert.</note>
       </trans-unit>
       <trans-unit id="Cascade Active App" xml:space="preserve">
@@ -4729,12 +4730,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Center" xml:space="preserve">
         <source>Center</source>
-        <target state="needs-review-l10n">中央</target>
+        <target state="translated">中央</target>
         <note from="auto-generated">Display string for the center location.</note>
       </trans-unit>
       <trans-unit id="Center Half" xml:space="preserve">
         <source>Center</source>
-        <target state="needs-review-l10n">半分にして中央に表示</target>
+        <target state="translated">中央</target>
         <note>Name of the window action that moves the window to the center half of the screen. Separate from the "Center" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Center Offset" xml:space="preserve">
@@ -4749,17 +4750,17 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Center Third" xml:space="preserve">
         <source>Center Third</source>
-        <target state="needs-review-l10n">中央1/3</target>
+        <target state="translated">1/3にして中央に表示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center Three Fourths" xml:space="preserve">
         <source>Center Three Fourths</source>
-        <target state="needs-review-l10n">中央3/4</target>
+        <target state="translated">3/4にして中央に表示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center Two Thirds" xml:space="preserve">
         <source>Center Two Thirds</source>
-        <target state="needs-review-l10n">中央2/3</target>
+        <target state="translated">2/3にして中央に表示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Center on Display with Cursor" xml:space="preserve">
@@ -4769,12 +4770,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Check for Updates…" xml:space="preserve">
         <source>Check for Updates…</source>
-        <target state="needs-review-l10n">アップデートを確認…</target>
+        <target state="translated">アップデートを確認…</target>
         <note from="auto-generated">Menu item title for the check for updates functionality.</note>
       </trans-unit>
       <trans-unit id="Check for updates automatically" xml:space="preserve">
         <source>Check for updates automatically</source>
-        <target state="needs-review-l10n">自動的にアップデートを確認</target>
+        <target state="translated">アップデートを自動的に確認</target>
         <note from="auto-generated">A toggle that</note>
       </trans-unit>
       <trans-unit id="Choose Current %@ Dimensions on Display %lld:" xml:space="preserve">
@@ -4809,7 +4810,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
-        <target state="needs-review-l10n">閉じる</target>
+        <target state="translated">閉じる</target>
         <note/>
       </trans-unit>
       <trans-unit id="Configuration Updated" xml:space="preserve">
@@ -4834,12 +4835,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Conflict with macOS tiling" xml:space="preserve">
         <source>Conflict with macOS tiling</source>
-        <target state="needs-review-l10n">macOSのタイル表示機能との競合</target>
+        <target state="translated">macOSのタイル表示機能との競合</target>
         <note from="auto-generated">Alert title when there is a conflict between the app and macOS tiling.</note>
       </trans-unit>
       <trans-unit id="Conflict with system setting" xml:space="preserve">
         <source>Conflict with system setting</source>
-        <target state="needs-review-l10n">システム設定との競合</target>
+        <target state="translated">システム設定との競合</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contains Substring" xml:space="preserve">
@@ -4874,7 +4875,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Corners" xml:space="preserve">
         <source>Corners</source>
-        <target state="needs-review-l10n">四隅</target>
+        <target state="translated">四隅</target>
         <note from="auto-generated">Name of the WindowActionCategory enum case for the corners window action.</note>
       </trans-unit>
       <trans-unit id="Current Layout" xml:space="preserve">
@@ -4939,12 +4940,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Cycle sizes on half actions" xml:space="preserve">
         <source>Cycle sizes on half actions</source>
-        <target state="needs-review-l10n">「半分」の繰り返しでサイズを切り替え</target>
+        <target state="translated">半分操作でサイズを繰り返し変更</target>
         <note/>
       </trans-unit>
       <trans-unit id="Cycle through displays" xml:space="preserve">
         <source>Cycle through displays</source>
-        <target state="needs-review-l10n">ディスプレイを順に切り替え</target>
+        <target state="translated">ウインドウを表示するディスプレイを変更</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deactivate" xml:space="preserve">
@@ -4954,7 +4955,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target state="needs-review-l10n">削除</target>
+        <target state="translated">削除</target>
         <note from="auto-generated">Tooltip for the remove button.</note>
       </trans-unit>
       <trans-unit id="Delete %@?" xml:space="preserve">
@@ -4974,17 +4975,17 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Disable in macOS" xml:space="preserve">
         <source>Disable in macOS</source>
-        <target state="needs-review-l10n">macOS側を無効化</target>
+        <target state="translated">macOS側を無効化</target>
         <note from="auto-generated">Button text to disable macOS tiling.</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target state="needs-review-l10n">閉じる</target>
+        <target state="translated">閉じる</target>
         <note from="auto-generated">Button title to dismiss an alert.</note>
       </trans-unit>
       <trans-unit id="Display" xml:space="preserve">
         <source>Display</source>
-        <target state="needs-review-l10n">ディスプレイ</target>
+        <target state="translated">ディスプレイ</target>
         <note from="auto-generated">Display category.</note>
       </trans-unit>
       <trans-unit id="Display %lld, %@ Dimensions" xml:space="preserve">
@@ -4994,7 +4995,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Do nothing" xml:space="preserve">
         <source>Do nothing</source>
-        <target state="needs-review-l10n">何もしない</target>
+        <target state="translated">何もしない</target>
         <note/>
       </trans-unit>
       <trans-unit id="Do you want to import your existing iCloud configuration?" xml:space="preserve">
@@ -5029,7 +5030,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Double-click window title bar to maximize/restore" xml:space="preserve">
         <source>Double-click window title bar to maximize/restore</source>
-        <target state="needs-review-l10n">ウインドウのタイトルバーをダブルクリックして最大化/復元</target>
+        <target state="translated">ウインドウのタイトルバーをダブルクリックして最大化/元に戻す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Drag to screen edge tiling is enabled in both %@ and macOS." xml:space="preserve">
@@ -5039,12 +5040,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target state="needs-review-l10n">編集</target>
+        <target state="translated">編集</target>
         <note/>
       </trans-unit>
       <trans-unit id="Eighths" xml:space="preserve">
         <source>Eighths</source>
-        <target state="needs-review-l10n">8分割</target>
+        <target state="translated">8分割</target>
         <note from="auto-generated">Name of the eighth-sized window action category.</note>
       </trans-unit>
       <trans-unit id="Email Address:" xml:space="preserve">
@@ -5139,7 +5140,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="First Fourth" xml:space="preserve">
         <source>First Fourth</source>
-        <target state="needs-review-l10n">最初の1/4</target>
+        <target state="translated">1/4（左から1番目）</target>
         <note/>
       </trans-unit>
       <trans-unit id="First Sixth" xml:space="preserve">
@@ -5149,17 +5150,17 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="First Third" xml:space="preserve">
         <source>First Third</source>
-        <target state="needs-review-l10n">最初の1/3</target>
+        <target state="translated">1/3にして左寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="First Three Fourths" xml:space="preserve">
         <source>First Three Fourths</source>
-        <target state="needs-review-l10n">最初の3/4</target>
+        <target state="translated">3/4にして左寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="First Two Thirds" xml:space="preserve">
         <source>First Two Thirds</source>
-        <target state="needs-review-l10n">最初の2/3</target>
+        <target state="translated">2/3にして左寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="First press and release the modifier key(s) then press and release the remaining key, to avoid triggering the shortcut." xml:space="preserve">
@@ -5184,7 +5185,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Fourths" xml:space="preserve">
         <source>Fourths</source>
-        <target state="needs-review-l10n">4分割</target>
+        <target state="translated">4分割</target>
         <note from="auto-generated">Name of the fourths option in the window action category.</note>
       </trans-unit>
       <trans-unit id="Fourths Tiles" xml:space="preserve">
@@ -5194,7 +5195,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Fourths columns" xml:space="preserve">
         <source>Fourths columns</source>
-        <target state="needs-review-l10n">4列</target>
+        <target state="translated">横向きに4分割</target>
         <note/>
       </trans-unit>
       <trans-unit id="Front-only" xml:space="preserve">
@@ -5209,7 +5210,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Gaps between windows" xml:space="preserve">
         <source>Gaps between windows</source>
-        <target state="needs-review-l10n">ウインドウ間の間隔</target>
+        <target state="translated">ウインドウの間隔</target>
         <note/>
       </trans-unit>
       <trans-unit id="Global" xml:space="preserve">
@@ -5219,7 +5220,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Green stoplight button maximizes instead of Full Screen" xml:space="preserve">
         <source>Green stoplight button maximizes instead of Full Screen</source>
-        <target state="needs-review-l10n">緑のボタンでフルスクリーンではなく最大化</target>
+        <target state="translated">緑のズームボタンでフルスクリーンではなく最大化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Halve Height Down" xml:space="preserve">
@@ -5249,7 +5250,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Haptic feedback" xml:space="preserve">
         <source>Haptic feedback</source>
-        <target state="needs-review-l10n">触覚フィードバック</target>
+        <target state="translated">触覚フィードバック</target>
         <note from="auto-generated">A toggle to enable haptic feedback when snapping windows.</note>
       </trans-unit>
       <trans-unit id="Hide All" xml:space="preserve">
@@ -5264,7 +5265,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Hide menu bar icon" xml:space="preserve">
         <source>Hide menu bar icon</source>
-        <target state="needs-review-l10n">メニューバーのアイコンを非表示</target>
+        <target state="translated">メニューバーにアイコンを表示しない</target>
         <note from="auto-generated">A toggle that</note>
       </trans-unit>
       <trans-unit id="Hide-other-apps" xml:space="preserve">
@@ -5274,7 +5275,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Hold any modifier key or use the window menu for default macOS behavior" xml:space="preserve">
         <source>Hold any modifier key or use the window menu for default macOS behavior</source>
-        <target state="needs-review-l10n">macOSのデフォルトの動作にするには、いずれかの修飾キーを押したままにするか、ウインドウメニューを使用してください</target>
+        <target state="translated">修飾キーを押しながら操作するか、「ウインドウ」メニューを使うとmacOS標準の動作になります</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hold your configured modifier keys and drag to move or resize the window under your cursor." xml:space="preserve">
@@ -5289,7 +5290,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="If the area is too small, recent apps will be hidden" xml:space="preserve">
         <source>If the area is too small, recent apps will be hidden</source>
-        <target state="needs-review-l10n">領域が小さすぎる場合、最近のアプリは非表示になります</target>
+        <target state="translated">領域が小さすぎる場合、最近使ったアプリは非表示になります</target>
         <note/>
       </trans-unit>
       <trans-unit id="If you have configured a different shortcut for &quot;Move left a space&quot; in macOS, enter it below." xml:space="preserve">
@@ -5334,7 +5335,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Landscape Snap Areas" xml:space="preserve">
         <source>Landscape Snap Areas</source>
-        <target state="needs-review-l10n">横向きのスナップエリア</target>
+        <target state="translated">横向きディスプレイのスナップ領域</target>
         <note from="auto-generated">A title for the landscape version of the snap area settings.</note>
       </trans-unit>
       <trans-unit id="Larger" xml:space="preserve">
@@ -5349,7 +5350,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Larger Width" xml:space="preserve">
         <source>Larger Width</source>
-        <target state="needs-review-l10n">幅を広げる</target>
+        <target state="translated">幅を広げる</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last" xml:space="preserve">
@@ -5364,7 +5365,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Last Fourth" xml:space="preserve">
         <source>Last Fourth</source>
-        <target state="needs-review-l10n">最後の1/4</target>
+        <target state="translated">1/4（左から4番目）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Sixth" xml:space="preserve">
@@ -5374,17 +5375,17 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Last Third" xml:space="preserve">
         <source>Last Third</source>
-        <target state="needs-review-l10n">最後の1/3</target>
+        <target state="translated">1/3にして右寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Three Fourths" xml:space="preserve">
         <source>Last Three Fourths</source>
-        <target state="needs-review-l10n">最後の3/4</target>
+        <target state="translated">3/4にして右寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Last Two Thirds" xml:space="preserve">
         <source>Last Two Thirds</source>
-        <target state="needs-review-l10n">最後の2/3</target>
+        <target state="translated">2/3にして右寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Launch" xml:space="preserve">
@@ -5394,7 +5395,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Launch on login" xml:space="preserve">
         <source>Launch on login</source>
-        <target state="needs-review-l10n">ログイン時に起動</target>
+        <target state="translated">ログイン時に起動</target>
         <note from="auto-generated">A toggle that allows</note>
       </trans-unit>
       <trans-unit id="Layout on Display %lld" xml:space="preserve">
@@ -5409,7 +5410,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Left" xml:space="preserve">
         <source>Left</source>
-        <target state="needs-review-l10n">左</target>
+        <target state="translated">左</target>
         <note/>
       </trans-unit>
       <trans-unit id="Left &amp; Quarters" xml:space="preserve">
@@ -5424,17 +5425,17 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Left Half" xml:space="preserve">
         <source>Left</source>
-        <target state="needs-review-l10n">左</target>
+        <target state="translated">左</target>
         <note>Name of the window action that moves the window to the left half of the screen. Separate from the "Left" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Left half, top/bottom half near corners" xml:space="preserve">
         <source>Left half, top/bottom half near corners</source>
-        <target state="needs-review-l10n">左半分、隅の近くでは上/下半分</target>
+        <target state="translated">左半分、角付近で上・下半分</target>
         <note from="auto-generated">Display name for the compound snap area where the user can drag the cursor to the left or right, and the top or bottom of the screen.</note>
       </trans-unit>
       <trans-unit id="Left or right half" xml:space="preserve">
         <source>Left or right half</source>
-        <target state="needs-review-l10n">左または右半分</target>
+        <target state="translated">左半分または右半分</target>
         <note from="auto-generated">Display name for the compound snap area where the user can choose between left and right half.</note>
       </trans-unit>
       <trans-unit id="License Code:" xml:space="preserve">
@@ -5474,12 +5475,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Maximize" xml:space="preserve">
         <source>Maximize</source>
-        <target state="needs-review-l10n">最大化</target>
+        <target state="translated">最大化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Maximize Height" xml:space="preserve">
         <source>Maximize Height</source>
-        <target state="needs-review-l10n">高さを最大化</target>
+        <target state="translated">高さを最大化</target>
         <note/>
       </trans-unit>
       <trans-unit id="Maximize Width" xml:space="preserve">
@@ -5499,22 +5500,22 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Middle Center Ninth" xml:space="preserve">
         <source>Middle Center Ninth</source>
-        <target state="needs-review-l10n">中央1/9</target>
+        <target state="translated">中央 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Middle Left Ninth" xml:space="preserve">
         <source>Middle Left Ninth</source>
-        <target state="needs-review-l10n">中央左1/9</target>
+        <target state="translated">中央左 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Middle Right Ninth" xml:space="preserve">
         <source>Middle Right Ninth</source>
-        <target state="needs-review-l10n">中央右1/9</target>
+        <target state="translated">中央右 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Minimize" xml:space="preserve">
         <source>Minimize</source>
-        <target state="needs-review-l10n">最小化</target>
+        <target state="translated">しまう</target>
         <note/>
       </trans-unit>
       <trans-unit id="Minimize-other-apps" xml:space="preserve">
@@ -5539,7 +5540,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Move cursor along with window across displays" xml:space="preserve">
         <source>Move cursor along with window across displays</source>
-        <target state="needs-review-l10n">ディスプレイ間でウインドウと一緒にポインタを移動</target>
+        <target state="translated">別ディスプレイへのウインドウ移動時にポインタも一緒に移動</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move or Resize" xml:space="preserve">
@@ -5549,7 +5550,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Move to Center" xml:space="preserve">
         <source>Move to Center</source>
-        <target state="needs-review-l10n">中央に移動</target>
+        <target state="translated">中央に表示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Move to adjacent display on left or right" xml:space="preserve">
@@ -5599,7 +5600,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Next Display" xml:space="preserve">
         <source>Next Display</source>
-        <target state="needs-review-l10n">次のディスプレイ</target>
+        <target state="translated">次のディスプレイ</target>
         <note from="auto-generated">Text for a display that is the next display.</note>
       </trans-unit>
       <trans-unit id="Next Display Centered" xml:space="preserve">
@@ -5624,7 +5625,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Ninths" xml:space="preserve">
         <source>Ninths</source>
-        <target state="needs-review-l10n">9分割</target>
+        <target state="translated">9分割</target>
         <note from="auto-generated">Name of the ninths option in the window action category.</note>
       </trans-unit>
       <trans-unit id="No" xml:space="preserve">
@@ -5729,12 +5730,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Open System Settings" xml:space="preserve">
         <source>Open System Settings</source>
-        <target state="needs-review-l10n">システム設定を開く</target>
+        <target state="translated">システム設定を開く</target>
         <note/>
       </trans-unit>
       <trans-unit id="Other" xml:space="preserve">
         <source>Other</source>
-        <target state="needs-review-l10n">そのほか</target>
+        <target state="translated">そのほか</target>
         <note from="auto-generated">Display name for the WindowActionCategory.other case.</note>
       </trans-unit>
       <trans-unit id="Pick different sizes and positions per display." xml:space="preserve">
@@ -5789,7 +5790,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Portrait Snap Areas" xml:space="preserve">
         <source>Portrait Snap Areas</source>
-        <target state="needs-review-l10n">縦向きのスナップエリア</target>
+        <target state="translated">縦向きディスプレイのスナップ領域</target>
         <note from="auto-generated">A label displayed above the portrait snap areas.</note>
       </trans-unit>
       <trans-unit id="Potential window manager conflict: %@" xml:space="preserve">
@@ -5809,7 +5810,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Prevent Mission Control from triggering while dragging" xml:space="preserve">
         <source>Prevent Mission Control from triggering while dragging</source>
-        <target state="needs-review-l10n">ドラッグ中にMission Controlが起動しないようにする</target>
+        <target state="translated">ドラッグ中にMission Controlが起動しないようにする</target>
         <note from="auto-generated">A toggle that prevents Mission Control from triggering while dragging.</note>
       </trans-unit>
       <trans-unit id="Previous" xml:space="preserve">
@@ -5819,7 +5820,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Previous Display" xml:space="preserve">
         <source>Previous Display</source>
-        <target state="needs-review-l10n">前のディスプレイ</target>
+        <target state="translated">前のディスプレイ</target>
         <note from="auto-generated">The text to display for the "Previous Display" option in the settings.</note>
       </trans-unit>
       <trans-unit id="Previous Space" xml:space="preserve">
@@ -5849,7 +5850,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Quit Rectangle Pro" xml:space="preserve">
         <source>Quit Rectangle Pro</source>
-        <target state="needs-review-l10n">Rectangle Proを終了</target>
+        <target state="translated">Rectangle Proを終了</target>
         <note/>
       </trans-unit>
       <trans-unit id="Quit-other-apps" xml:space="preserve">
@@ -5864,7 +5865,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Recent apps area" xml:space="preserve">
         <source>Recent apps area</source>
-        <target state="needs-review-l10n">最近使ったアプリの領域</target>
+        <target state="translated">最近使ったアプリ領域</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rectangle Pro: Auto Restore" xml:space="preserve">
@@ -5924,7 +5925,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Repeated commands" xml:space="preserve">
         <source>Repeated commands</source>
-        <target state="needs-review-l10n">コマンドの繰り返し</target>
+        <target state="translated">コマンドを繰り返した際の挙動</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reset permissions and relaunch" xml:space="preserve">
@@ -5959,12 +5960,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Restore" xml:space="preserve">
         <source>Restore</source>
-        <target state="needs-review-l10n">復元</target>
+        <target state="translated">元に戻す</target>
         <note/>
       </trans-unit>
       <trans-unit id="Restore Default Shortcuts &amp; Snap Areas" xml:space="preserve">
         <source>Restore Default Shortcuts &amp; Snap Areas</source>
-        <target state="needs-review-l10n">デフォルトのショートカットとスナップエリアを復元</target>
+        <target state="translated">デフォルトのショートカットとスナップ領域を復元</target>
         <note from="auto-generated">A button that restores default shortcuts and snap areas.</note>
       </trans-unit>
       <trans-unit id="Restore Defaults" xml:space="preserve">
@@ -5979,7 +5980,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Restore window size when unsnapped" xml:space="preserve">
         <source>Restore window size when unsnapped</source>
-        <target state="needs-review-l10n">スナップ解除時にウインドウサイズを復元</target>
+        <target state="translated">スナップ解除時にウインドウサイズを元に戻す</target>
         <note from="auto-generated">A toggle that allows the user to choose whether the window size should be restored when the user is not using the snap area.</note>
       </trans-unit>
       <trans-unit id="Reveal Desktop Edge" xml:space="preserve">
@@ -5994,7 +5995,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
         <source>Right</source>
-        <target state="needs-review-l10n">右</target>
+        <target state="translated">右</target>
         <note/>
       </trans-unit>
       <trans-unit id="Right &amp; Quarters" xml:space="preserve">
@@ -6004,12 +6005,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Right Half" xml:space="preserve">
         <source>Right</source>
-        <target state="needs-review-l10n">右半分</target>
+        <target state="translated">右</target>
         <note>Name of the window action that moves the window to the right half of the screen. Separate from the "Right" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Right half, top/bottom half near corners" xml:space="preserve">
         <source>Right half, top/bottom half near corners</source>
-        <target state="needs-review-l10n">右半分、隅の近くでは上/下半分</target>
+        <target state="translated">右半分、角付近で上・下半分</target>
         <note from="auto-generated">Display name for the compound snap area where the user can drag from the top and bottom of the screen, and the snap area will be either the left or right half of the screen.</note>
       </trans-unit>
       <trans-unit id="Save Current Layout…" xml:space="preserve">
@@ -6034,7 +6035,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Second Fourth" xml:space="preserve">
         <source>Second Fourth</source>
-        <target state="needs-review-l10n">2番目の1/4</target>
+        <target state="translated">1/4（左から2番目）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Select Displays to Ignore…" xml:space="preserve">
@@ -6069,12 +6070,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Settings…" xml:space="preserve">
         <source>Settings…</source>
-        <target state="needs-review-l10n">設定…</target>
+        <target state="translated">設定…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Shortcuts" xml:space="preserve">
         <source>Shortcuts</source>
-        <target state="needs-review-l10n">キーボードショートカット</target>
+        <target state="translated">キーボードショートカット</target>
         <note from="auto-generated">Shortcut for showing/hiding the shortcuts view in the settings.</note>
       </trans-unit>
       <trans-unit id="Since %@ might have some overlapping behavior with Rectangle Pro, it's recommended that you either disable or quit %@." xml:space="preserve">
@@ -6084,7 +6085,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Sixths" xml:space="preserve">
         <source>Sixths</source>
-        <target state="needs-review-l10n">6分割</target>
+        <target state="translated">6分割</target>
         <note from="auto-generated">Name of the sixths option in the window action category.</note>
       </trans-unit>
       <trans-unit id="Sixths Tiles" xml:space="preserve">
@@ -6094,7 +6095,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
         <source>Size</source>
-        <target state="needs-review-l10n">サイズ</target>
+        <target state="translated">サイズ</target>
         <note from="auto-generated">Display name for the Size window action category.</note>
       </trans-unit>
       <trans-unit id="Smaller" xml:space="preserve">
@@ -6109,7 +6110,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Smaller Width" xml:space="preserve">
         <source>Smaller Width</source>
-        <target state="needs-review-l10n">幅を狭める</target>
+        <target state="translated">幅を狭める</target>
         <note/>
       </trans-unit>
       <trans-unit id="Snap" xml:space="preserve">
@@ -6119,7 +6120,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Snap Areas" xml:space="preserve">
         <source>Snap Areas</source>
-        <target state="needs-review-l10n">スナップエリア</target>
+        <target state="translated">スナップ領域</target>
         <note from="auto-generated">Title of the settings pane related to snap areas.</note>
       </trans-unit>
       <trans-unit id="Snap Bottom Left" xml:space="preserve">
@@ -6174,7 +6175,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Snap windows by dragging" xml:space="preserve">
         <source>Snap windows by dragging</source>
-        <target state="needs-review-l10n">ドラッグしてウインドウをスナップ</target>
+        <target state="translated">ドラッグでウインドウをスナップ</target>
         <note from="auto-generated">A toggle that enables or disables the ability to drag windows to snap areas.</note>
       </trans-unit>
       <trans-unit id="Snap ⦿" xml:space="preserve">
@@ -6189,7 +6190,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Stage Manager" xml:space="preserve">
         <source>Stage Manager</source>
-        <target state="needs-review-l10n">ステージマネージャ</target>
+        <target state="translated">ステージマネージャ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Stash" xml:space="preserve">
@@ -6288,12 +6289,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Third Fourth" xml:space="preserve">
         <source>Third Fourth</source>
-        <target state="needs-review-l10n">3番目の1/4</target>
+        <target state="translated">1/4（左から3番目）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Thirds" xml:space="preserve">
         <source>Thirds</source>
-        <target state="needs-review-l10n">3分割</target>
+        <target state="translated">3分割</target>
         <note from="auto-generated">Name of the WindowActionCategory enum case for the "Thirds" option.</note>
       </trans-unit>
       <trans-unit id="Thirds Tiles" xml:space="preserve">
@@ -6303,12 +6304,12 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Thirds, drag toward center for two thirds" xml:space="preserve">
         <source>Thirds, drag toward center for two thirds</source>
-        <target state="needs-review-l10n">3分割、中心にドラッグで2/3</target>
+        <target state="translated">3分割、中心にドラッグで2/3</target>
         <note/>
       </trans-unit>
       <trans-unit id="Thirds, top/bottom half near corners" xml:space="preserve">
         <source>Thirds, top/bottom half near corners</source>
-        <target state="needs-review-l10n">3分割、隅の近くでは上/下半分</target>
+        <target state="translated">3分割、角付近で上・下半分</target>
         <note from="auto-generated">Display name for the compound snap area where the user can drag the cursor toward the center to snap to two thirds of the screen.</note>
       </trans-unit>
       <trans-unit id="This cannot be undone" xml:space="preserve">
@@ -6363,22 +6364,22 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Tiling in macOS has been disabled" xml:space="preserve">
         <source>Tiling in macOS has been disabled</source>
-        <target state="needs-review-l10n">macOSのタイル表示機能が無効になりました</target>
+        <target state="translated">macOSのタイル表示機能が無効になりました</target>
         <note from="auto-generated">Alert title when tiling in macOS has been disabled.</note>
       </trans-unit>
       <trans-unit id="To adjust macOS tiling, go to System Settings → Desktop &amp; Dock → Windows" xml:space="preserve">
         <source>To adjust macOS tiling, go to System Settings → Desktop &amp; Dock → Windows</source>
-        <target state="needs-review-l10n">macOSのタイル表示を調整するには、システム設定 → デスクトップとDock → ウインドウ に移動してください</target>
+        <target state="translated">macOSのタイル表示を調整するには、「システム設定」→「デスクトップとDock」→「ウインドウ」に移動します</target>
         <note from="auto-generated">Text in a macOS alert dialog.</note>
       </trans-unit>
       <trans-unit id="To let Rectangle Pro manage the title bar double click functionality, you need to disable the corresponding macOS setting." xml:space="preserve">
         <source>To let Rectangle Pro manage the title bar double click functionality, you need to disable the corresponding macOS setting.</source>
-        <target state="needs-review-l10n">Rectangle Proでタイトルバーのダブルクリック機能を管理するには、対応するmacOSの設定を無効にする必要があります。</target>
+        <target state="translated">Rectangle Proがタイトルバーのダブルクリック機能を管理するには、該当するmacOSの設定を無効にする必要があります。</target>
         <note/>
       </trans-unit>
       <trans-unit id="To re-enable it, go to System Settings → Desktop &amp; Dock → Windows" xml:space="preserve">
         <source>To re-enable it, go to System Settings → Desktop &amp; Dock → Windows</source>
-        <target state="needs-review-l10n">再度有効化するには、システム設定 → デスクトップとDock → ウインドウに移動します</target>
+        <target state="translated">再度有効化するには、「システム設定」→「デスクトップとDock」→「ウインドウ」に移動します</target>
         <note from="auto-generated">Alert shown when macOS tiling is disabled and the user wants to open System Settings.</note>
       </trans-unit>
       <trans-unit id="Toggle Down Stash" xml:space="preserve">
@@ -6408,7 +6409,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Top" xml:space="preserve">
         <source>Top</source>
-        <target state="needs-review-l10n">上</target>
+        <target state="translated">上</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top &amp; Bottom" xml:space="preserve">
@@ -6418,47 +6419,47 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Top Center Left Eighth" xml:space="preserve">
         <source>Top Center Left Eighth</source>
-        <target state="needs-review-l10n">上部中央左1/8</target>
+        <target state="translated">1行2列 1/8</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Center Ninth" xml:space="preserve">
         <source>Top Center Ninth</source>
-        <target state="needs-review-l10n">上部中央1/9</target>
+        <target state="translated">中央上 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Center Right Eighth" xml:space="preserve">
         <source>Top Center Right Eighth</source>
-        <target state="needs-review-l10n">上部中央右1/8</target>
+        <target state="translated">1行3列 1/8</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Center Sixth" xml:space="preserve">
         <source>Top Center Sixth</source>
-        <target state="needs-review-l10n">上部中央1/6</target>
+        <target state="translated">中央上</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Half" xml:space="preserve">
         <source>Top</source>
-        <target state="needs-review-l10n">上半分</target>
+        <target state="translated">上</target>
         <note>Name of the window action that moves the window to the top half of the screen. Separate from the "Top" position label so translations can say half.</note>
       </trans-unit>
       <trans-unit id="Top Left" xml:space="preserve">
         <source>Top Left</source>
-        <target state="needs-review-l10n">左上</target>
+        <target state="translated">左上</target>
         <note from="auto-generated">Displayed text for the top left location.</note>
       </trans-unit>
       <trans-unit id="Top Left Eighth" xml:space="preserve">
         <source>Top Left Eighth</source>
-        <target state="needs-review-l10n">左上1/8</target>
+        <target state="translated">1行1列 1/8</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Left Ninth" xml:space="preserve">
         <source>Top Left Ninth</source>
-        <target state="needs-review-l10n">左上1/9</target>
+        <target state="translated">左上 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Left Sixth" xml:space="preserve">
         <source>Top Left Sixth</source>
-        <target state="needs-review-l10n">左上1/6</target>
+        <target state="translated">左上</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Left Two Thirds" xml:space="preserve">
@@ -6468,22 +6469,22 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Top Right" xml:space="preserve">
         <source>Top Right</source>
-        <target state="needs-review-l10n">右上</target>
+        <target state="translated">右上</target>
         <note from="auto-generated">Displayed text for the top right location.</note>
       </trans-unit>
       <trans-unit id="Top Right Eighth" xml:space="preserve">
         <source>Top Right Eighth</source>
-        <target state="needs-review-l10n">右上1/8</target>
+        <target state="translated">1行4列 1/8</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Right Ninth" xml:space="preserve">
         <source>Top Right Ninth</source>
-        <target state="needs-review-l10n">右上1/9</target>
+        <target state="translated">右上 1/9</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Right Sixth" xml:space="preserve">
         <source>Top Right Sixth</source>
-        <target state="needs-review-l10n">右上1/6</target>
+        <target state="translated">右上</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Right Two Thirds" xml:space="preserve">
@@ -6493,22 +6494,22 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Top Third" xml:space="preserve">
         <source>Top Third</source>
-        <target state="needs-review-l10n">上部1/3</target>
+        <target state="translated">1/3にして上寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top Two Thirds" xml:space="preserve">
         <source>Top Two Thirds</source>
-        <target state="needs-review-l10n">上部2/3</target>
+        <target state="translated">2/3にして上寄せ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top screen edge tiling in macOS is now disabled" xml:space="preserve">
         <source>Top screen edge tiling in macOS is now disabled</source>
-        <target state="needs-review-l10n">macOSの画面上端でのタイル表示は無効になりました</target>
+        <target state="translated">macOSの画面上端へのタイル表示機能が無効になりました</target>
         <note from="auto-generated">Alert shown when macOS tiling is disabled to inform the user.</note>
       </trans-unit>
       <trans-unit id="Top sixths from corners; maximize" xml:space="preserve">
         <source>Top sixths from corners; maximize</source>
-        <target state="needs-review-l10n">隅からは上部1/6、それ以外は最大化</target>
+        <target state="translated">最大化（角からドラッグで上側6分割）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Top/bottom halves" xml:space="preserve">
@@ -6518,7 +6519,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Treat multiple displays as one" xml:space="preserve">
         <source>Treat multiple displays as one</source>
-        <target state="needs-review-l10n">複数のディスプレイを1つとして扱う</target>
+        <target state="translated">複数ディスプレイを1つとして扱う</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unable to activate license" xml:space="preserve">
@@ -6603,7 +6604,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Update Available…" xml:space="preserve">
         <source>Update Available…</source>
-        <target state="needs-review-l10n">アップデートがあります…</target>
+        <target state="translated">アップデート可能…</target>
         <note from="auto-generated">Text displayed in the updates menu item when an update is available.</note>
       </trans-unit>
       <trans-unit id="Update with Current Layout" xml:space="preserve">
@@ -6623,7 +6624,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Use cursor screen detection" xml:space="preserve">
         <source>Use cursor screen detection</source>
-        <target state="needs-review-l10n">ポインタの位置で画面を検出</target>
+        <target state="translated">ポインタ位置でディスプレイを検出</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version %@ (%@)" xml:space="preserve">
@@ -6633,7 +6634,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="View Logging…" xml:space="preserve">
         <source>View Logging…</source>
-        <target state="needs-review-l10n">ログを表示…</target>
+        <target state="translated">ログを表示…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Visual" xml:space="preserve">
