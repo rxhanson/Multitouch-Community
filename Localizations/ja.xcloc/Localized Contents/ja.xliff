@@ -1009,7 +1009,7 @@ If you really want to use this key combination, most shortcuts can be changed in
       </trans-unit>
       <trans-unit id="Add keyboard shortcuts. Remap keys or mouse buttons." xml:space="preserve">
         <source>Add keyboard shortcuts. Remap keys or mouse buttons.</source>
-        <target state="translated">キーボードショートカットを追加したり、キーやマウスボタンを割り当て直したりできます。</target>
+        <target state="translated">ショートカットを追加、キーやマウスボタンを再割り当てできます。</target>
         <note from="auto-generated">Text displayed in a window that appears when the user wants to add keyboard shortcuts.</note>
       </trans-unit>
       <trans-unit id="Add touch gestures for the Magic Mouse." xml:space="preserve">
@@ -4467,7 +4467,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Additional Thirds" xml:space="preserve">
         <source>Additional Thirds</source>
-        <target state="translated">追加の1/3</target>
+        <target state="translated">追加の3分割</target>
         <note from="auto-generated">Display name for the WindowActionCategory.additionalThirds case.</note>
       </trans-unit>
       <trans-unit id="Adjacent Windows" xml:space="preserve">
@@ -5737,7 +5737,7 @@ This makes it easier to have multiple stashed windows on each side where only on
       </trans-unit>
       <trans-unit id="Other" xml:space="preserve">
         <source>Other</source>
-        <target state="translated">そのほか</target>
+        <target state="translated">その他</target>
         <note from="auto-generated">Display name for the WindowActionCategory.other case.</note>
       </trans-unit>
       <trans-unit id="Pick different sizes and positions per display." xml:space="preserve">
